@@ -1,0 +1,1 @@
+p=cross-att-reverse && s=42 && nohup python main.py --config_file ./config.cfg --seed ${s} --postfix ${s}/${p} > logs/${s}/${p}.log 2>&1 &
