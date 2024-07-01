@@ -1,0 +1,1857 @@
+anjia_1	1	anjia_1	A	你先把衣服换了	1	0,1	<root>
+anjia_1	2	anjia_1	A	然后去这个地址	2	1,2	Narration
+anjia_1	3	anjia_1	A	一会儿会有装修公司的人过去	3	2,3	Explanation
+anjia_1	4	anjia_1	A	你去监工，看看有什么可以帮忙的	4	3,4	Result
+anjia_1	5	anjia_1	B	这个活也派我干呀？	5	4,5	Clarification Q
+anjia_1	6	anjia_1	B	装修，我不懂	6	5,6	Explanation
+anjia_1	7	anjia_1	A	你发了两天传单了	7	6,7	Alternation
+anjia_1	8	anjia_1	A	有没有意向客户啊？	8	7,8	Q-elab / Follow-up question
+anjia_1	9	anjia_1	A	要到人家电话没有？	9	8,9	Answer / Question answer pair
+anjia_1	10	anjia_1	B	你不就光让我发传单吗	10	9,10	Contrast
+anjia_1	11	anjia_1	B	没让我要电话呀	11	10,11	Elaboration
+anjia_1	12	anjia_1	A	你是算盘吗？	12	11,12	Commentary
+anjia_1	13	anjia_1	A	拨一拔动一动	13	11,13	Commentary
+anjia_13	101	anjia_13	A	我们能在这住多久啊？	1	0,1	<root>
+anjia_13	102	anjia_13	B	徐店长不是说了吗	2	1,2	Answer / Question answer pair
+anjia_13	103	anjia_13	B	帮着咱们找证据呢	3	2,3	Elaboration
+anjia_13	104	anjia_13	B	等证明，我也是向公馆的人	4	3,4	Elaboration
+anjia_13	105	anjia_13	B	咱们就搬回去	5	4,5	Conditional
+anjia_13	106	anjia_13	A	那万一，徐店长他没找着证据	6	5,6	Contrast
+anjia_13	107	anjia_13	A	那林老板还认不认账啊？	7	6,7	Conditional
+anjia_13	108	anjia_13	A	他可是说了，要拿这套房子跟咱换的	8	7,8	Background
+anjia_13	109	anjia_13	B	那咱也不能老赖在这里	9	8,9	Contrast
+anjia_13	110	anjia_13	B	能借咱们住几天，那就是一件很大的恩情了	10	9,10	Commentary
+anjia_13	111	anjia_13	A	你的意思是说，向家要是，不同意，那	11	10,11	Q-elab / Follow-up question
+anjia_13	112	anjia_13	A	咱就落个两手空空了？	12	11,12	Conditional
+anjia_13	113	anjia_13	B	你看，你你你怎么老说这丧气话呢你！	13	12,13	Commentary
+anjia_13	114	anjia_13	B	要真是那样的话	14	13,14	Elaboration
+anjia_13	115	anjia_13	B	说明，咱就没这个命	15	14,15	Conditional
+anjia_13	116	anjia_13	A	你心倒是挺大	16	15,16	Commentary
+anjia_13	117	anjia_13	A	你们老耿家几辈人	17	16,17	Elaboration
+anjia_13	118	anjia_13	A	七十一年的奉献	18	17,18	Continuation
+anjia_13	119	anjia_13	B	那你说我能怎么办	19	18,19	Answer / Question answer pair
+anjia_13	120	anjia_13	B	我能拿我这老命，跟他向文森去拼吗？	20	19,20	Q-elab / Follow-up question
+anjia_13	121	anjia_13	B	他不仁	21	20,21	Commentary
+anjia_13	122	anjia_13	B	咱不能不义	22	21,22	Contrast
+anjia_17	209	anjia_17	A	连个房子都没有	1	0,1	<root>
+anjia_17	210	anjia_17	A	还一直靠租房子过日子	2	1,2	Elaboration
+anjia_17	211	anjia_17	A	我真的不敢想，将来的日子会不会比现在更糟	3	2,3	Continuation
+anjia_17	212	anjia_17	B	不会再糟了	4	3,4	Commentary
+anjia_17	213	anjia_17	B	你都已经触底了	5	4,5	Explanation
+anjia_17	214	anjia_17	A	你太烦人了！	6	5,6	Commentary
+anjia_17	215	anjia_17	A	那换做是你	7	6,7	Alternation
+anjia_17	216	anjia_17	A	你忍心拉她下水吗？	8	7,8	Conditional
+anjia_17	217	anjia_17	B	我忍心	9	8,9	Answer / Question answer pair
+anjia_17	218	anjia_17	B	因为办法总比困难多	10	9,10	Explanation
+anjia_17	219	anjia_17	B	两个人加在一起的力量，一定比一个人的力量大	11	10,11	Elaboration
+anjia_17	220	anjia_17	A	你们这帮律师真的是靠嘴吃饭呐！	12	11,12	Commentary
+anjia_17	221	anjia_17	A	怎么说都有理	13	12,13	Elaboration
+anjia_17	222	anjia_17	A	你刚刚不是说让我冷静吗？	14	13,14	Q-elab / Follow-up question
+anjia_17	223	anjia_17	B	冷静？怎么冷静？你告诉我怎么冷静！	15	14,15	Contrast
+anjia_17	224	anjia_17	B	与一个人遇到了真爱	16	17,16	Background
+anjia_17	225	anjia_17	B	他怎么冷静的下来！	17	15,17	Elaboration
+banshimitangbanshishang_12	495	banshimitangbanshishang_12	A	我跟你讲	1	0,1	<root>
+banshimitangbanshishang_12	496	banshimitangbanshishang_12	A	我今天早上发现了一个，特别意外的事情	2	1,2	Elaboration
+banshimitangbanshishang_12	497	banshimitangbanshishang_12	B	什么事啊？	3	2,3	Clarification Q
+banshimitangbanshishang_12	498	banshimitangbanshishang_12	A	就是住在你隔壁的那个江总，跟你的那个小袁助理	4	5,4	Background
+banshimitangbanshishang_12	499	banshimitangbanshishang_12	A	两个人竟然是一对	5	3,5	Answer / Question answer pair
+banshimitangbanshishang_12	500	banshimitangbanshishang_12	B	恩？！你怎么知道的？	6	5,6	Q-elab / Follow-up question
+banshimitangbanshishang_12	501	banshimitangbanshishang_12	A	我今天早上亲眼看到的	7	6,7	Answer / Question answer pair
+banshimitangbanshishang_12	502	banshimitangbanshishang_12	B	亲，亲眼看见的？	8	7,8	Clarification Q
+banshimitangbanshishang_12	503	banshimitangbanshishang_12	B	你，你看见什么了？	9	8,9	Q-elab / Follow-up question
+banshimitangbanshishang_12	504	banshimitangbanshishang_12	A	我看见他们两个人住在一起了	10	9,10	Answer / Question answer pair
+banshimitangbanshishang_12	505	banshimitangbanshishang_12	B	哎哟，我的小祖宗，我跟你说，你可离她远点啊！	11	10,11	Commentary
+banshimitangbanshishang_12	506	banshimitangbanshishang_12	A	她怎么了？	12	11,12	Clarification Q
+banshimitangbanshishang_12	507	banshimitangbanshishang_12	B	她她她，她是我们顶头大老板的女儿	13	12,13	Answer / Question answer pair
+banshimitangbanshishang_12	508	banshimitangbanshishang_12	B	空降过来的	14	13,14	Elaboration
+banshimitangbanshishang_12	509	banshimitangbanshishang_12	B	要不怎么这么年轻，就坐这个位置上了	15	14,15	Result
+banshimitangbanshishang_12	510	banshimitangbanshishang_12	A	那你的意思是说	16	15,16	Clarification Q
+banshimitangbanshishang_12	511	banshimitangbanshishang_12	A	那个小袁助理是她养的小白脸？	17	16,17	Elaboration
+banshimitangbanshishang_12	512	banshimitangbanshishang_12	B	啊哈哈，额，	18	17,18	Acknowledgement
+banshimitangbanshishang_12	513	banshimitangbanshishang_12	B	你要这么理解也不是不可以	19	17,19	Answer / Question answer pair
+banshimitangbanshishang_12	514	banshimitangbanshishang_12	B	反正你就尽量少去找他们俩	20	19,20	Continuation
+banshimitangbanshishang_12	515	banshimitangbanshishang_12	B	被你知道她的秘密	21	20,21	Explanation
+banshimitangbanshishang_12	516	banshimitangbanshishang_12	B	她在公司该给我穿小鞋了	22	21,22	Conditional
+banshimitangbanshishang_12	517	banshimitangbanshishang_12	A	不会吧？	23	22,23	Commentary
+banshimitangbanshishang_12	518	banshimitangbanshishang_12	A	我看她人挺好的	24	23,24	Explanation
+banshimitangbanshishang_12	519	banshimitangbanshishang_12	B	你是不知道，	25	24,25	Contrast
+banshimitangbanshishang_12	520	banshimitangbanshishang_12	B	她这个人怪得很！	26	25,26	Elaboration
+banshimitangbanshishang_14	561	banshimitangbanshishang_14	A	莉莉，我来了，你下班吧	1	0,1	<root>
+banshimitangbanshishang_14	562	banshimitangbanshishang_14	B	来啦！	2	1,2	Acknowledgement
+banshimitangbanshishang_14	563	banshimitangbanshishang_14	B	辛苦你啦	3	2,3	Commentary
+banshimitangbanshishang_14	564	banshimitangbanshishang_14	B	我正好去看看我大侄女去	4	2,4	Continuation
+banshimitangbanshishang_14	565	banshimitangbanshishang_14	B	哎呀，她爸也不知道消失去哪儿了	5	4,5	Elaboration
+banshimitangbanshishang_14	566	banshimitangbanshishang_14	B	她妈因为他的事心力憔悴	6	5,6	Parallel
+banshimitangbanshishang_14	567	banshimitangbanshishang_14	B	估计这个点她还在加班呢！	7	6,7	Elaboration
+banshimitangbanshishang_14	568	banshimitangbanshishang_14	A	这孩子这么可怜啊？	8	7,8	Commentary
+banshimitangbanshishang_14	569	banshimitangbanshishang_14	B	谁说不可怜呢？	9	8,9	Acknowledgement
+banshimitangbanshishang_14	570	banshimitangbanshishang_14	B	孩子又能吃	10	11,10	Background
+banshimitangbanshishang_14	571	banshimitangbanshishang_14	B	这会儿估计，也还在家里没吃饭呢！	11	9,11	Elaboration
+banshimitangbanshishang_14	572	banshimitangbanshishang_14	B	唉，谁说不可怜呢？	12	9,12	Elaboration
+banshimitangbanshishang_14	573	banshimitangbanshishang_14	A	现在怎么还有，这么可怜的孩子呀！	13	12,13	Commentary
+banshimitangbanshishang_14	574	banshimitangbanshishang_14	A	你，你赶紧去吧，	14	13,14	Result
+banshimitangbanshishang_14	575	banshimitangbanshishang_14	A	别让孩子再受罪了！	15	14,15	Elaboration
+banshimitangbanshishang_14	576	banshimitangbanshishang_14	B	行，那我先去啦，	16	15,16	Acknowledgement
+banshimitangbanshishang_14	577	banshimitangbanshishang_14	B	辛苦啦！	17	16,17	Commentary
+dahaoshiguang_18	1596	dahaoshiguang_18	A	你刚才超市买那堆东西的发票呢？	1	0,1	<root>
+dahaoshiguang_18	1597	dahaoshiguang_18	B	我没要	2	1,2	Answer / Question answer pair
+dahaoshiguang_18	1598	dahaoshiguang_18	A	你买东西都不要发票的吗	3	2,3	Clarification Q
+dahaoshiguang_18	1599	dahaoshiguang_18	B	我又不报销我要什么发票啊	4	3,4	Answer / Question answer pair
+dahaoshiguang_18	1600	dahaoshiguang_18	A	我预估了一下啊	5	4,5	Alternation
+dahaoshiguang_18	1601	dahaoshiguang_18	A	你那堆东西大概一百一十多块钱	6	5,6	Elaboration
+dahaoshiguang_18	1602	dahaoshiguang_18	A	我就给你一百二吧	7	6,7	Result
+dahaoshiguang_18	1603	dahaoshiguang_18	A	多了呢，就当给你的小费	8	7,8	Elaboration
+dahaoshiguang_18	1604	dahaoshiguang_18	A	少了呢我也不补	9	8,9	Parallel
+dahaoshiguang_18	1605	dahaoshiguang_18	B	行了，拿回去	10	7,10	Continuation
+dahaoshiguang_18	1606	dahaoshiguang_18	B	不收你的钱	11	10,11	Elaboration
+dahaoshiguang_18	1607	dahaoshiguang_18	A	亲兄弟明算账	12	11,12	Contrast
+dahaoshiguang_18	1608	dahaoshiguang_18	B	不是你生病了，我给你买点东西不行吗？	13	12,13	Commentary
+dahaoshiguang_18	1609	dahaoshiguang_18	A	你给我买东西，我给你钱不行吗？	14	13,14	Q-elab / Follow-up question
+dahaoshiguang_19	1611	dahaoshiguang_19	A	你早晨起来吃错药了！	1	0,1	<root>
+dahaoshiguang_19	1612	dahaoshiguang_19	A	你送那么大锦旗来干吗？	2	1,2	Q-elab / Follow-up question
+dahaoshiguang_19	1613	dahaoshiguang_19	A	太招摇了，吓唬人呢？	3	2,3	Commentary
+dahaoshiguang_19	1614	dahaoshiguang_19	B	实至名归嘛	4	2,4	Answer / Question answer pair
+dahaoshiguang_19	1615	dahaoshiguang_19	A	还心灵之光呢	5	4,5	Continuation
+dahaoshiguang_19	1616	dahaoshiguang_19	A	这我哪受得起啊	6	5,6	Commentary
+dahaoshiguang_19	1617	dahaoshiguang_19	B	说的就是你	7	5,7	Answer / Question answer pair
+dahaoshiguang_19	1618	dahaoshiguang_19	B	你看，我爸送的	8	7,8	Continuation
+dahaoshiguang_19	1619	dahaoshiguang_19	B	其实你刚给他做完手术那会儿，我就想送你了	9	8,9	Elaboration
+dahaoshiguang_19	1620	dahaoshiguang_19	A	不行不行，我不能要	10	9,10	Contrast
+dahaoshiguang_19	1621	dahaoshiguang_19	A	你送个锦旗给我	11	10,11	Explanation
+dahaoshiguang_19	1622	dahaoshiguang_19	A	你回头让我们同事看见了	12	11,12	Narration
+dahaoshiguang_19	1623	dahaoshiguang_19	A	这笑话死我了	13	12,13	Conditional
+dahaoshiguang_19	1624	dahaoshiguang_19	A	拿回去	14	13,14	Result
+dahaoshiguang_19	1625	dahaoshiguang_19	B	你真不要	15	14,15	Clarification Q
+dahaoshiguang_19	1626	dahaoshiguang_19	B	你不要我就挂在身上了	16	15,16	Continuation
+dahaoshiguang_19	1627	dahaoshiguang_19	B	我站你们医院门口去	17	16,17	Narration
+dahaoshiguang_19	1628	dahaoshiguang_19	A	你就这么挂着啊	18	17,18	Acknowledgement
+dahaoshiguang_19	1629	dahaoshiguang_19	A	别站医院门口	19	18,19	Contrast
+dahaoshiguang_19	1630	dahaoshiguang_19	A	站人民广场去	20	19,20	Parallel
+dahaoshiguang_19	1631	dahaoshiguang_19	B	好啊	21	20,21	Acknowledgement
+dahaoshiguang_19	1632	dahaoshiguang_19	B	这上面有你名字啊	22	21,22	Contrast
+dahaoshiguang_19	1633	dahaoshiguang_19	A	你给我回来	23	22,23	Continuation
+dahaoshiguang_19	1634	dahaoshiguang_19	B	你就收下吧	24	23,24	Result
+dahaoshiguang_19	1635	dahaoshiguang_19	B	老人家的一片心意嘛	25	24,25	Explanation
+dahaoshiguang_19	1636	dahaoshiguang_19	A	那我要是真不收	26	25,26	Alternation
+dahaoshiguang_19	1637	dahaoshiguang_19	A	你还去不去？	27	26,27	Conditional
+dahaoshiguang_19	1638	dahaoshiguang_19	B	没人认识我去干吗呀	28	27,28	Q-elab / Follow-up question
+dahaoshiguang_19	1639	dahaoshiguang_19	A	这锦旗土是土了点	29	28,29	Alternation
+dahaoshiguang_19	1640	dahaoshiguang_19	A	但我长这么大还第一次收锦旗	30	29,30	Contrast
+dahaoshiguang_19	1641	dahaoshiguang_19	A	心灵之光	31	30,31	Elaboration
+dahaoshiguang_19	1642	dahaoshiguang_19	A	真是我？	32	31,32	Clarification Q
+dahaoshiguang_19	1643	dahaoshiguang_19	B	是你是你就是你	33	32,33	Answer / Question answer pair
+dahaoshiguang_19	1644	dahaoshiguang_19	A	行，谢谢	34	33,34	Acknowledgement
+dahaoshiguang_9	1834	dahaoshiguang_9	A	没错	1	0,1	<root>
+dahaoshiguang_9	1835	dahaoshiguang_9	A	要不是因为你横插一刀	2	1,2	Explanation
+dahaoshiguang_9	1836	dahaoshiguang_9	A	我相信袁浩和我女儿不会分手的	3	2,3	Conditional
+dahaoshiguang_9	1837	dahaoshiguang_9	B	不是他们两个人感情，要是好好的	4	3,4	Contrast
+dahaoshiguang_9	1838	dahaoshiguang_9	B	不是谁想插就能插得了的	5	4,5	Conditional
+dahaoshiguang_9	1839	dahaoshiguang_9	A	可你这刀不一样啊	6	5,6	Contrast
+dahaoshiguang_9	1840	dahaoshiguang_9	A	你这刀厉害啊	7	6,7	Commentary
+dahaoshiguang_9	1841	dahaoshiguang_9	A	你另有一功啊	8	7,8	Parallel
+dahaoshiguang_9	1842	dahaoshiguang_9	A	你一面诱惑着袁浩	9	8,9	Elaboration
+dahaoshiguang_9	1843	dahaoshiguang_9	A	一面巴结着他爸爸	10	9,10	Parallel
+dahaoshiguang_9	1844	dahaoshiguang_9	A	现在好了，我女儿走了	11	10,11	Result
+dahaoshiguang_9	1845	dahaoshiguang_9	A	你们两个人，终于可以肆无忌弹地公开进出了	12	11,12	Narration
+dahaoshiguang_9	1846	dahaoshiguang_9	A	在我眼里，你就是个不折不扣的狐狸精	13	12,13	Commentary
+dahaoshiguang_9	1847	dahaoshiguang_9	A	破坏别人感情的第三者	14	13,14	Parallel
+dahaoshiguang_9	1848	dahaoshiguang_9	A	你太不要脸了	15	14,15	Commentary
+dahaoshiguang_9	1849	dahaoshiguang_9	A	你妈就是这样教你的！	16	15,16	Elaboration
+dahaoshiguang_9	1850	dahaoshiguang_9	B	阿姨您别以为你年纪大了	17	18,17	Background
+dahaoshiguang_9	1851	dahaoshiguang_9	B	你就可以恶语伤人了	18	16,18	Continuation
+dahaoshiguang_9	1852	dahaoshiguang_9	B	我就是因为我男朋友劈腿了	19	18,19	Explanation
+dahaoshiguang_9	1853	dahaoshiguang_9	B	我才跟他分的手	20	19,20	Result
+dahaoshiguang_9	1854	dahaoshiguang_9	B	我这辈子最痛恨的就是第三者	21	20,21	Elaboration
+dahaoshiguang_9	1855	dahaoshiguang_9	B	我知道这种感觉有多痛	22	21,22	Explanation
+dahaoshiguang_9	1856	dahaoshiguang_9	B	我到现在都没有缓过来	23	22,23	Elaboration
+dahaoshiguang_9	1857	dahaoshiguang_9	B	我怎么可能去当一个，破坏别人感情的第三者呢？	24	23,24	Result
+dahaoshiguang_9	1858	dahaoshiguang_9	A	好，既然你信誓旦旦的	25	24,25	Acknowledgement
+dahaoshiguang_9	1859	dahaoshiguang_9	A	我也愿意相信你	26	25,26	Result
+dahaoshiguang_9	1860	dahaoshiguang_9	A	只要你发个誓，你永远不会跟袁浩在一起	27	26,27	Contrast
+dahaoshiguang_9	1861	dahaoshiguang_9	A	我就相信你	28	27,28	Conditional
+dahaoshiguang_9	1862	dahaoshiguang_9	B	不是我真的不明白了	29	28,29	Commentary
+dahaoshiguang_9	1863	dahaoshiguang_9	B	袁浩跟珊珊感情有问题	30	29,30	Explanation
+dahaoshiguang_9	1864	dahaoshiguang_9	B	是他们之间的问题	31	30,31	Elaboration
+dahaoshiguang_9	1865	dahaoshiguang_9	B	你为什么一定认为是我呢？	32	31,32	Result
+dahaoshiguang_9	1866	dahaoshiguang_9	B	我问心无愧，为什么要发誓？	33	32,33	Q-elab / Follow-up question
+dahaoshiguang_9	1867	dahaoshiguang_9	A	既然问心无愧，你为什么不敢发誓！	34	33,34	Q-elab / Follow-up question
+dajiangdahe_1	1873	dajiangdahe_1	A	你怎么还没回家？	1	0,1	<root>
+dajiangdahe_1	1874	dajiangdahe_1	B	我不放心你一个人	2	1,2	Answer / Question answer pair
+dajiangdahe_1	1875	dajiangdahe_1	B	怎么样了？	3	2,3	Q-elab / Follow-up question
+dajiangdahe_1	1876	dajiangdahe_1	A	你猜	4	3,4	Answer / Question answer pair
+dajiangdahe_1	1877	dajiangdahe_1	B	交上了？！	5	4,5	Q-elab / Follow-up question
+dajiangdahe_1	1878	dajiangdahe_1	A	嗯！	6	5,6	Answer / Question answer pair
+dajiangdahe_1	1879	dajiangdahe_1	A	革委会的李主任，什么话都没说	7	6,7	Elaboration
+dajiangdahe_1	1880	dajiangdahe_1	A	就把咱们材料收了	8	7,8	Narration
+dajiangdahe_1	1881	dajiangdahe_1	A	刚刚不收材料的那个人	9	8,9	Alternation
+dajiangdahe_1	1882	dajiangdahe_1	A	应该就是广播里说的，已经靠边站的三种人	10	9,10	Elaboration
+dajiangdahe_1	1883	dajiangdahe_1	A	他自己都在写检查呢！	11	10,11	Elaboration
+dajiangdahe_1	1884	dajiangdahe_1	B	姐，你真能干！	12	11,12	Commentary
+dajiangdahe_1	1885	dajiangdahe_1	A	走，回家！	13	12,13	Alternation
+dajiangdahe_11	1909	dajiangdahe_11	A	你愿不愿意去趟北京啊？	1	0,1	<root>
+dajiangdahe_11	1910	dajiangdahe_11	B	去北京查资料啊？	2	1,2	Q-elab / Follow-up question
+dajiangdahe_11	1911	dajiangdahe_11	A	我给你开个介绍信	3	2,3	Answer / Question answer pair
+dajiangdahe_11	1912	dajiangdahe_11	A	你到北京	4	3,4	Narration
+dajiangdahe_11	1913	dajiangdahe_11	A	去部里查一下内部资料	5	4,5	Narration
+dajiangdahe_11	1914	dajiangdahe_11	B	那当然好啊！	6	5,6	Commentary
+dajiangdahe_11	1915	dajiangdahe_11	B	北京的资料，自然是最全面的	7	6,7	Explanation
+dajiangdahe_11	1916	dajiangdahe_11	B	我想都不敢想	8	7,8	Elaboration
+dajiangdahe_11	1917	dajiangdahe_11	A	那你给我两天时间	9	8,9	Continuation
+dajiangdahe_11	1918	dajiangdahe_11	A	我想一想，怎么安排合适	10	9,10	Elaboration
+dajiangdahe_11	1919	dajiangdahe_11	A	既然跑都跑了一趟了嘛	11	10,11	Elaboration
+dajiangdahe_11	1920	dajiangdahe_11	A	也把相关方面的专家，都见一见	12	11,12	Conditional
+dajiangdahe_11	1921	dajiangdahe_11	B	好！好！	13	12,13	Acknowledgement
+dajiangdahe_11	1922	dajiangdahe_11	A	你先别急着高兴	14	13,14	Commentary
+dajiangdahe_11	1923	dajiangdahe_11	A	这么兴师动众的	15	14,15	Explanation
+dajiangdahe_11	1924	dajiangdahe_11	A	你要是不给我拿回来点，有说服力的资料来	16	15,16	Continuation
+dajiangdahe_11	1925	dajiangdahe_11	A	我可找你算账	17	16,17	Conditional
+dajiangdahe_11	1926	dajiangdahe_11	B	我相信水书记，没有机会找我算账	18	17,18	Commentary
+dajiangdahe_8	2415	dajiangdahe_8	A	回来了	1	0,1	<root>
+dajiangdahe_8	2416	dajiangdahe_8	B	我要走了，去金州报到	2	1,2	Contrast
+dajiangdahe_8	2417	dajiangdahe_8	A	我送你	3	2,3	Result
+dajiangdahe_8	2418	dajiangdahe_8	B	不用	4	3,4	Commentary
+dajiangdahe_8	2419	dajiangdahe_8	A	没关系	5	4,5	Acknowledgement
+dajiangdahe_8	2420	dajiangdahe_8	A	大叔二叔走的时候，都是我送的	6	5,6	Background
+dajiangdahe_8	2421	dajiangdahe_8	B	小宋，真的不用了	7	4,7	Elaboration
+dajiangdahe_8	2422	dajiangdahe_8	B	还让你送我	8	7,8	Explanation
+dajiangdahe_8	2423	dajiangdahe_8	B	我觉得这心里	9	8,9	Conditional
+dajiangdahe_8	2424	dajiangdahe_8	A	虞山卿，咱们同窗四年	10	9,10	Alternation
+dajiangdahe_8	2425	dajiangdahe_8	A	你教会了我很多	11	10,11	Elaboration
+dajiangdahe_8	2426	dajiangdahe_8	A	很感激你	12	11,12	Result
+dajiangdahe_8	2427	dajiangdahe_8	B	哈，别那么客气	13	12,13	Commentary
+dajiangdahe_8	2428	dajiangdahe_8	B	我拖到现在才离校	14	13,14	Continuation
+dajiangdahe_8	2429	dajiangdahe_8	B	其实就是想让你先办手续	15	14,15	Explanation
+dajiangdahe_8	2430	dajiangdahe_8	B	先走	16	15,16	Narration
+dajiangdahe_8	2431	dajiangdahe_8	A	我也不是有意要拖延的	17	16,17	Contrast
+dajiangdahe_8	2432	dajiangdahe_8	A	我是觉得，我们市里那个厂子不大	18	17,18	Explanation
+dajiangdahe_8	2433	dajiangdahe_8	A	估计专业资料和书籍，也不会太多	19	18,19	Elaboration
+dajiangdahe_8	2434	dajiangdahe_8	A	所以我想尽可能多地，摘抄一些带过去	20	19,20	Result
+dajiangdahe_8	2435	dajiangdahe_8	B	哈，宋运辉，我真的挺庆幸	21	20,21	Commentary
+dajiangdahe_8	2436	dajiangdahe_8	B	没跟你分到一个厂子的	22	21,22	Elaboration
+dajiangdahe_8	2437	dajiangdahe_8	A	哈！你这算是胜利者的宣言吗？	23	22,23	Clarification Q
+dajiangdahe_8	2438	dajiangdahe_8	B	行啊	24	23,24	Commentary
+dajiangdahe_8	2439	dajiangdahe_8	B	终于学会开玩笑了！	25	24,25	Elaboration
+dajiangdahe_8	2440	dajiangdahe_8	B	走，你送我！	26	25,26	Alternation
+doutinghao_17	2574	doutinghao_17	A	您为什么这么害怕我妈	1	0,1	<root>
+doutinghao_17	2575	doutinghao_17	B	我为什么这么怕你妈	2	1,2	Clarification Q
+doutinghao_17	2576	doutinghao_17	B	明哲不知道你还不知道吗	3	2,3	Q-elab / Follow-up question
+doutinghao_17	2577	doutinghao_17	B	在这个家里她怎么对的你	4	3,4	Elaboration
+doutinghao_17	2578	doutinghao_17	B	怎么对的我	5	4,5	Parallel
+doutinghao_17	2579	doutinghao_17	B	在这个家里头，你我都是被你妈给害了	6	5,6	Commentary
+doutinghao_17	2580	doutinghao_17	B	你不清楚吗	7	6,7	Continuation
+doutinghao_17	2581	doutinghao_17	A	话都说到这儿了	8	7,8	Continuation
+doutinghao_17	2582	doutinghao_17	A	那我倒是想问问了	9	8,9	Narration
+doutinghao_17	2583	doutinghao_17	A	我从小到大，你们为什么要这么对我呀	10	9,10	Elaboration
+doutinghao_17	2584	doutinghao_17	A	你们生了我却不好好养我	11	10,11	Elaboration
+doutinghao_17	2585	doutinghao_17	A	为什么呀？	12	11,12	Q-elab / Follow-up question
+doutinghao_17	2586	doutinghao_17	B	是你妈不喜欢你	13	12,13	Answer / Question answer pair
+doutinghao_17	2587	doutinghao_17	B	是你妈嫌弃你	14	13,14	Parallel
+doutinghao_17	2588	doutinghao_17	B	我想对你好	15	14,15	Parallel
+doutinghao_17	2589	doutinghao_17	B	可你爸没这本事	16	15,16	Contrast
+doutinghao_17	2590	doutinghao_17	B	我敢跟你妈对着干吗	17	16,17	Result
+doutinghao_17	2591	doutinghao_17	A	我妈嫌弃我	18	14,18	Acknowledgement
+doutinghao_17	2592	doutinghao_17	A	嫌弃我	19	18,19	Elaboration
+doutinghao_17	2593	doutinghao_17	A	为什么还要把我生下来？	20	19,20	Q-elab / Follow-up question
+doutinghao_17	2594	doutinghao_17	B	别逼我了，明玉	21	22,21	Conditional
+doutinghao_17	2595	doutinghao_17	B	要问你问你妈去	22	20,22	Commentary
+doutinghao_17	2596	doutinghao_17	A	我上哪儿问我妈	23	22,23	Commentary
+doutinghao_17	2597	doutinghao_17	A	我妈已经走了	24	23,24	Elaboration
+doutinghao_17	2598	doutinghao_17	A	我不问你问谁啊？	25	24,25	Result
+doutinghao_17	2599	doutinghao_17	A	你不亏心你怕什么呀？	26	25,26	Q-elab / Follow-up question
+doutinghao_17	2600	doutinghao_17	B	别问我，你真的别问我了	27	26,27	Commentary
+doutinghao_8	2914	doutinghao_8	A	你昨晚把我当代驾	1	0,1	<root>
+doutinghao_8	2915	doutinghao_8	A	我还送你回家，你知道吗	2	1,2	Narration
+doutinghao_8	2916	doutinghao_8	B	你说这我还想起来了	3	2,3	Continuation
+doutinghao_8	2917	doutinghao_8	B	你在我们家干吗乱动东西啊	4	3,4	Elaboration
+doutinghao_8	2918	doutinghao_8	A	奥你说那小房子啊	5	4,5	Clarification Q
+doutinghao_8	2919	doutinghao_8	B	对呀	6	5,6	Acknowledgement
+doutinghao_8	2920	doutinghao_8	A	我看它散在那儿手痒	7	4,7	Explanation
+doutinghao_8	2921	doutinghao_8	A	把它拼起来，不行啊	8	7,8	Result
+doutinghao_8	2922	doutinghao_8	B	大哥，我代购了三个月才到的货	9	10,9	Background
+doutinghao_8	2923	doutinghao_8	B	你随手就给我拼了	10	8,10	Commentary
+doutinghao_8	2924	doutinghao_8	B	您剥夺了别人乐趣	11	10,11	Commentary
+doutinghao_8	2925	doutinghao_8	B	你知不知道呀	12	11,12	Continuation
+doutinghao_8	2926	doutinghao_8	A	行行行	13	12,13	Acknowledgement
+doutinghao_8	2927	doutinghao_8	B	那你，你除了拼我的小屋	14	13,14	Alternation
+doutinghao_8	2928	doutinghao_8	B	你还干吗了？	15	14,15	Q-elab / Follow-up question
+doutinghao_8	2929	doutinghao_8	A	我还能干吗	16	15,16	Answer / Question answer pair
+doutinghao_8	2930	doutinghao_8	A	你都那样了	17	16,17	Background
+doutinghao_8	2931	doutinghao_8	B	我哪样了？	18	17,18	Q-elab / Follow-up question
+doutinghao_8	2932	doutinghao_8	A	那样	19	18,19	Answer / Question answer pair
+doutinghao_8	2933	doutinghao_8	B	也是啊	20	19,20	Acknowledgement
+doutinghao_8	2934	doutinghao_8	B	你们正经人，是不会乘人之危的	21	20,21	Elaboration
+doutinghao_8	2935	doutinghao_8	A	怎么听起来有点失望	22	21,22	Clarification Q
+doutinghao_8	2936	doutinghao_8	B	好失望啊	23	22,23	Commentary
+doutinghao_8	2937	doutinghao_8	A	要不你再给我一次机会	24	23,24	Q-elab / Follow-up question
+doutinghao_8	2938	doutinghao_8	B	没机会了	25	24,25	Answer / Question answer pair
+doutinghao_8	2939	doutinghao_8	A	行，那我做饭请你吃	26	25,26	Alternation
+doutinghao_8	2940	doutinghao_8	B	不想吃	27	26,27	Contrast
+doutinghao_8	2941	doutinghao_8	A	也是	28	27,28	Acknowledgement
+doutinghao_8	2942	doutinghao_8	A	反正我这的菜，也不合你胃口	29	28,29	Explanation
+doutinghao_8	2943	doutinghao_8	B	谁说的	30	29,30	Clarification Q
+doutinghao_8	2944	doutinghao_8	A	你呀	31	30,31	Answer / Question answer pair
+doutinghao_8	2945	doutinghao_8	A	你昨晚说来我这	32	31,32	Continuation
+doutinghao_8	2946	doutinghao_8	A	不是为了吃饭	33	32,33	Elaboration
+doutinghao_8	2947	doutinghao_8	A	是因为我长得帅	34	33,34	Parallel
+doutinghao_8	2948	doutinghao_8	B	我会说这么没水平的话？	35	34,35	Clarification Q
+ershibuhuo_4	3391	ershibuhuo_4	A	来解决一下，我们最近的沟通问题	1	0,1	<root>
+ershibuhuo_4	3392	ershibuhuo_4	A	好不好？	2	1,2	Clarification Q
+ershibuhuo_4	3393	ershibuhuo_4	B	你那么忙别来不就成了	3	2,3	Commentary
+ershibuhuo_4	3394	ershibuhuo_4	A	你以为我想来啊！	4	3,4	Answer / Question answer pair
+ershibuhuo_4	3395	ershibuhuo_4	A	我们切入正题吧	5	4,5	Alternation
+ershibuhuo_4	3396	ershibuhuo_4	A	大四的规划出来了吗？	6	5,6	Elaboration
+ershibuhuo_4	3397	ershibuhuo_4	A	前三年我可以放过你	7	6,7	Background
+ershibuhuo_4	3398	ershibuhuo_4	A	但现在已经是大四了	8	7,8	Contrast
+ershibuhuo_4	3399	ershibuhuo_4	A	这是一个人生的节点	9	8,9	Explanation
+ershibuhuo_4	3400	ershibuhuo_4	A	如果你再没有，任何规划的话	10	9,10	Result
+ershibuhuo_4	3401	ershibuhuo_4	A	你此生就荒废了	11	10,11	Conditional
+ershibuhuo_4	3402	ershibuhuo_4	A	你知道吗？	12	11,12	Clarification Q
+ershibuhuo_4	3403	ershibuhuo_4	A	招聘会去了吗？	13	12,13	Q-elab / Follow-up question
+ershibuhuo_4	3404	ershibuhuo_4	B	那里边的人，跟我同步率差距太大了	14	13,14	Answer / Question answer pair
+ershibuhuo_4	3405	ershibuhuo_4	B	你也知道	15	14,15	Continuation
+ershibuhuo_4	3406	ershibuhuo_4	B	我这个人，本来色相就比较浑浊	16	15,16	Elaboration
+ershibuhuo_4	3407	ershibuhuo_4	A	罗艳！好好说话	17	16,17	Commentary
+ershibuhuo_4	3408	ershibuhuo_4	B	行	18	17,18	Acknowledgement
+ershibuhuo_4	3409	ershibuhuo_4	B	招聘会呢，我去了	19	13,19	Answer / Question answer pair
+ershibuhuo_4	3410	ershibuhuo_4	B	里边人才济济	20	19,20	Elaboration
+ershibuhuo_4	3411	ershibuhuo_4	B	人嘛，贵在知难而退	21	20,21	Commentary
+ershibuhuo_4	3412	ershibuhuo_4	B	然后我就放弃了	22	21,22	Result
+ershibuhuo_4	3413	ershibuhuo_4	B	行了吧？	23	22,23	Continuation
+ershibuhuo_4	3414	ershibuhuo_4	A	你就没有，自己的想法吗？	24	23,24	Q-elab / Follow-up question
+ershibuhuo_4	3415	ershibuhuo_4	A	只要你是方向正确的	25	24,25	Elaboration
+ershibuhuo_4	3416	ershibuhuo_4	A	妈妈一定会支持你的	26	25,26	Conditional
+ershibuhuo_4	3417	ershibuhuo_4	B	我是觉得	27	24,27	Answer / Question answer pair
+ershibuhuo_4	3418	ershibuhuo_4	B	打游戏和画漫画，都挺有趣的	28	27,28	Elaboration
+ershibuhuo_4	3419	ershibuhuo_4	A	是都挺有趣的	29	28,29	Acknowledgement
+ershibuhuo_4	3420	ershibuhuo_4	A	你就没有一些什么，实际的想法吗？	30	29,30	Contrast
+ershibuhuo_4	3421	ershibuhuo_4	A	既然你没有	31	32,31	Background
+ershibuhuo_4	3422	ershibuhuo_4	A	我来替你想	32	30,32	Continuation
+ershibuhuo_4	3423	ershibuhuo_4	A	摆在你面前的，只有两条路	33	32,33	Elaboration
+ershibuhuo_4	3424	ershibuhuo_4	A	出国和考研	34	33,34	Elaboration
+ershibuhuo_9	3597	ershibuhuo_9	A	有什么话不能好好说呀？	1	0,1	<root>
+ershibuhuo_9	3598	ershibuhuo_9	B	那你为什么不，有话好好说呢？	2	1,2	Q-elab / Follow-up question
+ershibuhuo_9	3599	ershibuhuo_9	A	说什么呀？	3	2,3	Clarification Q
+ershibuhuo_9	3600	ershibuhuo_9	B	你说说什么！	4	3,4	Answer / Question answer pair
+ershibuhuo_9	3601	ershibuhuo_9	B	那天发生的事你最清楚	5	4,5	Background
+ershibuhuo_9	3602	ershibuhuo_9	A	我清楚管什么用啊？	6	5,6	Q-elab / Follow-up question
+ershibuhuo_9	3603	ershibuhuo_9	A	你推我一把	7	6,7	Explanation
+ershibuhuo_9	3604	ershibuhuo_9	A	视频就录到那了	8	7,8	Result
+ershibuhuo_9	3605	ershibuhuo_9	A	让我现在怎么说呀？	9	8,9	Q-elab / Follow-up question
+ershibuhuo_9	3606	ershibuhuo_9	B	那我要是不推你	10	9,10	Continuation
+ershibuhuo_9	3607	ershibuhuo_9	B	你这张脸还想接广告啊！	11	10,11	Conditional
+ershibuhuo_9	3608	ershibuhuo_9	A	你还跟我提广告	12	11,12	Clarification Q
+ershibuhuo_9	3609	ershibuhuo_9	A	不是你知不知道	13	12,13	Elaboration
+ershibuhuo_9	3610	ershibuhuo_9	A	我就因为	14	13,14	Elaboration
+ershibuhuo_9	3611	ershibuhuo_9	A	算了，跟你也没什么好说的	15	14,15	Commentary
+ershibuhuo_9	3612	ershibuhuo_9	B	那你至少把事情的，真相说出来吧？	16	15,16	Contrast
+fendou_11	3649	fendou_11	A	有皮皮虾，特好吃	1	0,1	<root>
+fendou_11	3650	fendou_11	B	那你带我去吧	2	1,2	Result
+fendou_11	3651	fendou_11	A	好啊	3	2,3	Acknowledgement
+fendou_11	3652	fendou_11	A	那个，本来今天晚上想带你逛夜市	4	3,4	Background
+fendou_11	3653	fendou_11	A	也没去成	5	4,5	Contrast
+fendou_11	3654	fendou_11	A	我就给你买了一个小礼物送给你	6	5,6	Result
+fendou_11	3655	fendou_11	B	好可爱啊	7	6,7	Commentary
+fendou_11	3656	fendou_11	A	不用谢啊	8	7,8	Continuation
+fendou_11	3657	fendou_11	B	谢谢你啊	9	8,9	Commentary
+fendou_15	3705	fendou_15	A	你又上当了，哼哼	1	0,1	<root>
+fendou_15	3706	fendou_15	A	谢谢你	2	1,2	Acknowledgement
+fendou_15	3707	fendou_15	B	我以前太坏了	3	4,3	Background
+fendou_15	3708	fendou_15	B	我没想到你这两年是这么过来的	4	2,4	Commentary
+fendou_15	3709	fendou_15	A	是啊！你把我坑惨了	5	6,5	Background
+fendou_15	3710	fendou_15	B	我还能为你做点什么吗？	6	4,6	Commentary
+fendou_15	3711	fendou_15	A	买冰淇淋	7	6,7	Answer / Question answer pair
+fendou_15	3712	fendou_15	A	全世界只有你知道我爱吃哪种口味	8	7,8	Elaboration
+fendou_15	3713	fendou_15	B	还有你自己	9	8,9	Elaboration
+fendou_15	3714	fendou_15	A	我已经忘了	10	9,10	Contrast
+fendou_15	3715	fendou_15	A	我连冰淇淋是什么味儿我都忘了	11	10,11	Elaboration
+fendou_15	3716	fendou_15	A	我再也没吃过冰淇淋	12	11,12	Explanation
+fumuaiqing_6	4221	fumuaiqing_6	A	就蒸这么少这够吃吗？	1	0,1	<root>
+fumuaiqing_6	4222	fumuaiqing_6	B	两个鸡蛋孩子够吃了	2	3,2	Conditional
+fumuaiqing_6	4223	fumuaiqing_6	B	如果你也要吃的话那是不够	3	1,3	Answer / Question answer pair
+fumuaiqing_6	4224	fumuaiqing_6	A	你啥意思啊？	4	3,4	Q-elab / Follow-up question
+fumuaiqing_6	4225	fumuaiqing_6	B	我说两个鸡蛋孩子够吃了	5	4,5	Answer / Question answer pair
+fumuaiqing_6	4226	fumuaiqing_6	A	你刚才后边说啥？	6	5,6	Q-elab / Follow-up question
+fumuaiqing_6	4227	fumuaiqing_6	B	后面我说，你也要吃那倒是不够	7	6,7	Answer / Question answer pair
+fumuaiqing_6	4228	fumuaiqing_6	B	我说得不对吗？	8	7,8	Continuation
+fumuaiqing_6	4229	fumuaiqing_6	A	对个屁	9	8,9	Answer / Question answer pair
+fumuaiqing_6	4230	fumuaiqing_6	B	你怎么骂人啊？	10	9,10	Q-elab / Follow-up question
+fumuaiqing_6	4231	fumuaiqing_6	A	谁让你说我吃鸡蛋美羹了？	11	10,11	Q-elab / Follow-up question
+fumuaiqing_6	4232	fumuaiqing_6	B	你没吃吗？	12	11,12	Clarification Q
+fumuaiqing_6	4233	fumuaiqing_6	A	我啥时候吃了？我哪吃了？	13	12,13	Q-elab / Follow-up question
+fumuaiqing_6	4234	fumuaiqing_6	B	你每次都吃	14	13,14	Answer / Question answer pair
+fumuaiqing_6	4235	fumuaiqing_6	B	而且都是吃第一口	15	14,15	Elaboration
+fumuaiqing_6	4236	fumuaiqing_6	B	我你当别人没看见眼瞎呢？	16	15,16	Q-elab / Follow-up question
+fumuaiqing_6	4237	fumuaiqing_6	A	我那是吃吗？	17	16,17	Q-elab / Follow-up question
+fumuaiqing_6	4238	fumuaiqing_6	A	我就是尝尝咸淡	18	17,18	Elaboration
+fumuaiqing_6	4239	fumuaiqing_6	B	有这么尝咸淡的吗？一尝一大口	19	18,19	Commentary
+fumuaiqing_6	4240	fumuaiqing_6	A	俺就这么尝你管得着吗？	20	19,20	Q-elab / Follow-up question
+fumuaiqing_6	4241	fumuaiqing_6	A	俺家的鸡蛋	21	22,21	Background
+fumuaiqing_6	4242	fumuaiqing_6	A	俺愿意咋尝就咋尝用不着你管	22	20,22	Elaboration
+fumuaiqing_6	4243	fumuaiqing_6	B	你承认你吃就行了谁稀得管你	23	22,23	Commentary
+haoxiansheng_1	4292	haoxiansheng_1	A	我的两百美金没了	1	0,1	<root>
+haoxiansheng_1	4293	haoxiansheng_1	B	你说你逞能吧，	2	1,2	Commentary
+haoxiansheng_1	4294	haoxiansheng_1	B	刚才还想为中国人争光，	3	2,3	Elaboration
+haoxiansheng_1	4295	haoxiansheng_1	B	现在就心疼钱啦？	4	3,4	Contrast
+haoxiansheng_1	4296	haoxiansheng_1	A	我不是心疼，是真疼！	5	4,5	Answer / Question answer pair
+haoxiansheng_1	4297	haoxiansheng_1	A	我左腿好像不行了，你别碰，	6	5,6	Explanation
+haoxiansheng_1	4298	haoxiansheng_1	B	啊？！	7	6,7	Clarification Q
+haoxiansheng_1	4299	haoxiansheng_1	A	啊啊啊！	8	7,8	Result
+haoxiansheng_1	4300	haoxiansheng_1	A	疼死我！	9	8,9	Commentary
+haoxiansheng_1	4301	haoxiansheng_1	B	你看看我问你哪疼吧！	10	9,10	Elaboration
+haoxiansheng_1	4302	haoxiansheng_1	B	是不是伤着骨头啦？	11	10,11	Clarification Q
+haoxiansheng_1	4303	haoxiansheng_1	B	我打车去啊，咱俩去医院	12	11,12	Narration
+haoxiansheng_1	4304	haoxiansheng_1	A	哎呀！去什么医院？	13	12,13	Commentary
+haoxiansheng_1	4305	haoxiansheng_1	A	美国医院多贵啊！	14	13,14	Explanation
+haoxiansheng_1	4306	haoxiansheng_1	A	你开什么玩笑？	15	14,15	Commentary
+haoxiansheng_1	4307	haoxiansheng_1	B	我有钱！	16	15,16	Answer / Question answer pair
+haoxiansheng_1	4308	haoxiansheng_1	A	有什么钱？	17	16,17	Q-elab / Follow-up question
+haoxiansheng_1	4309	haoxiansheng_1	A	那是你下半学期的生活费学费，	18	17,18	Elaboration
+haoxiansheng_1	4310	haoxiansheng_1	A	一分钱不能动！	19	18,19	Result
+haoxiansheng_3	4478	haoxiansheng_3	A	你在美国的时候从来不跟你妈联系啊？	1	0,1	<root>
+haoxiansheng_3	4479	haoxiansheng_3	B	是她从来不跟我们联系！	2	1,2	Commentary
+haoxiansheng_3	4480	haoxiansheng_3	B	唯一一次寄来过一个东西	3	2,3	Elaboration
+haoxiansheng_3	4481	haoxiansheng_3	B	还是跟我爸的离婚协议	4	3,4	Continuation
+haoxiansheng_3	4482	haoxiansheng_3	B	也就我爸那傻冒，还对她一往情深呢，	5	4,5	Commentary
+haoxiansheng_3	4483	haoxiansheng_3	B	结果死都没等到她回心转意！	6	5,6	Contrast
+haoxiansheng_3	4484	haoxiansheng_3	A	别这么想你妈	7	6,7	Commentary
+haoxiansheng_3	4485	haoxiansheng_3	A	她毕竟生了你，对吧？	8	7,8	Explanation
+haoxiansheng_3	4486	haoxiansheng_3	B	生了不养算什么妈呀？	9	8,9	Commentary
+haoxiansheng_3	4487	haoxiansheng_3	B	我爸给她打电话，永远不接！	10	9,10	Elaboration
+haoxiansheng_3	4488	haoxiansheng_3	B	最后居然还把电话号码给换了！	11	10,11	Narration
+haoxiansheng_3	4489	haoxiansheng_3	B	就算我爸窝囊点，她也不能这么绝吧？	12	11,12	Commentary
+haoxiansheng_3	4490	haoxiansheng_3	A	是挺绝的啊，	13	12,13	Acknowledgement
+haoxiansheng_3	4491	haoxiansheng_3	A	这样，你在这等我	14	13,14	Alternation
+haoxiansheng_3	4492	haoxiansheng_3	A	我上去叫她下来见你	15	14,15	Continuation
+heyishengxiaomo_15	4696	heyishengxiaomo_15	A	出于公司的业绩和與论的考虑	1	0,1	<root>
+heyishengxiaomo_15	4697	heyishengxiaomo_15	A	我延退了对外公布，我们离婚的消息	2	1,2	Result
+heyishengxiaomo_15	4698	heyishengxiaomo_15	B	可是我们都是有过婚前协议的	3	2,3	Contrast
+heyishengxiaomo_15	4699	heyishengxiaomo_15	B	我们的婚姻，不涉及任何的财产分割的问题	4	3,4	Elaboration
+heyishengxiaomo_15	4700	heyishengxiaomo_15	A	一个公司的财富，不仅仅在于领导者财富的多少	5	4,5	Commentary
+heyishengxiaomo_15	4701	heyishengxiaomo_15	A	他的品行和风评也非常重要	6	5,6	Elaboration
+heyishengxiaomo_15	4702	heyishengxiaomo_15	A	尤其像我这种网络公司	7	6,7	Continuation
+heyishengxiaomo_15	4703	heyishengxiaomo_15	A	特别是在发展的初期	8	7,8	Elaboration
+heyishengxiaomo_15	4704	heyishengxiaomo_15	A	任何负面的新闻，都会是沉重的打击	9	8,9	Commentary
+heyishengxiaomo_15	4705	heyishengxiaomo_15	B	我没有办法帮这个忙	10	9,10	Commentary
+heyishengxiaomo_15	4706	heyishengxiaomo_15	A	默笙，这次是我求你	11	10,11	Commentary
+heyishengxiaomo_15	4707	heyishengxiaomo_15	A	以前你对我提过任何事情	12	11,12	Background
+heyishengxiaomo_15	4708	heyishengxiaomo_15	A	我都没有拒绝过	13	12,13	Continuation
+heyishengxiaomo_15	4709	heyishengxiaomo_15	A	能不能也给我一次同等的回报？	14	13,14	Result
+heyishengxiaomo_15	4710	heyishengxiaomo_15	A	INSO是我全部的心血	15	14,15	Explanation
+heyishengxiaomo_15	4711	heyishengxiaomo_15	A	如果它的未来出现问题	16	15,16	Result
+heyishengxiaomo_15	4712	heyishengxiaomo_15	A	不光是我	17	16,17	Conditional
+heyishengxiaomo_15	4713	heyishengxiaomo_15	A	还会有很多人受到伤害	18	17,18	Continuation
+heyishengxiaomo_15	4714	heyishengxiaomo_15	A	因为我们两个人个人的问题，给投资人造成损失	19	18,19	Continuation
+heyishengxiaomo_15	4715	heyishengxiaomo_15	A	是不负责任的	20	19,20	Commentary
+heyishengxiaomo_15	4716	heyishengxiaomo_15	B	对不起，我真的不能答应	21	20,21	Commentary
+heyishengxiaomo_7	4944	heyishengxiaomo_7	A	何以琛	1	0,1	<root>
+heyishengxiaomo_7	4945	heyishengxiaomo_7	B	你怎么会在这儿？	2	1,2	Clarification Q
+heyishengxiaomo_7	4946	heyishengxiaomo_7	A	抄课表呀	3	2,3	Answer / Question answer pair
+heyishengxiaomo_7	4947	heyishengxiaomo_7	A	我发现这学校也太不公平了	4	3,4	Commentary
+heyishengxiaomo_7	4948	heyishengxiaomo_7	A	你看你们法学院的课这么少	5	4,5	Explanation
+heyishengxiaomo_7	4949	heyishengxiaomo_7	A	我们化学系的课却那么多	6	5,6	Contrast
+heyishengxiaomo_7	4950	heyishengxiaomo_7	A	而且还要学高数	7	6,7	Elaboration
+heyishengxiaomo_7	4951	heyishengxiaomo_7	B	你抄我们法学院的课表？	8	7,8	Clarification Q
+heyishengxiaomo_7	4952	heyishengxiaomo_7	A	嗯！	9	8,9	Answer / Question answer pair
+heyishengxiaomo_7	4953	heyishengxiaomo_7	B	为什么？	10	8,10	Q-elab / Follow-up question
+heyishengxiaomo_7	4954	heyishengxiaomo_7	A	不为什么	11	10,11	Answer / Question answer pair
+heyishengxiaomo_7	4955	heyishengxiaomo_7	A	诶，你干吗老走那么快呀？	12	11,12	Answer / Question answer pair
+heyishengxiaomo_7	4956	heyishengxiaomo_7	B	你为什么老是跟着我？	13	12,13	Q-elab / Follow-up question
+heyishengxiaomo_7	4957	heyishengxiaomo_7	A	何以琛，这到底是你笨哪？	14	13,14	Answer / Question answer pair
+heyishengxiaomo_7	4958	heyishengxiaomo_7	A	还是我笨呀？	15	14,15	Continuation
+heyishengxiaomo_7	4959	heyishengxiaomo_7	A	不过你这么聪明，当然是我笨了	16	15,16	Answer / Question answer pair
+heyishengxiaomo_7	4960	heyishengxiaomo_7	A	我怎么这么失败呢？	17	16,17	Commentary
+heyishengxiaomo_7	4961	heyishengxiaomo_7	A	我都追了人家这么久	18	17,18	Explanation
+heyishengxiaomo_7	4962	heyishengxiaomo_7	A	人家都还不知道我在干什么	19	18,19	Contrast
+huijiadeyouhuo_2	5311	huijiadeyouhuo_2	A	什么？艾莉回来又走了？	1	0,1	<root>
+huijiadeyouhuo_2	5312	huijiadeyouhuo_2	A	为什么？	2	1,2	Q-elab / Follow-up question
+huijiadeyouhuo_2	5313	huijiadeyouhuo_2	B	哎哟，她说她有事要忙嘛！	3	2,3	Answer / Question answer pair
+huijiadeyouhuo_2	5314	huijiadeyouhuo_2	B	待会有空的时候	4	3,4	Continuation
+huijiadeyouhuo_2	5315	huijiadeyouhuo_2	B	就会回来	5	4,5	Conditional
+huijiadeyouhuo_2	5316	huijiadeyouhuo_2	B	你不要着急嘛！	6	5,6	Commentary
+huijiadeyouhuo_2	5317	huijiadeyouhuo_2	B	你等一等嘛你，哎呀	7	6,7	Elaboration
+huijiadeyouhuo_2	5318	huijiadeyouhuo_2	A	不是怎么会这样呢？	8	7,8	Clarification Q
+huijiadeyouhuo_2	5319	huijiadeyouhuo_2	A	艾莉回家，看我都不看就走	9	8,9	Background
+huijiadeyouhuo_2	5320	huijiadeyouhuo_2	A	不是这说得过去吗？	10	9,10	Commentary
+huijiadeyouhuo_2	5321	huijiadeyouhuo_2	A	不是你们怎么不留她呢？	11	9,11	Q-elab / Follow-up question
+huijiadeyouhuo_2	5322	huijiadeyouhuo_2	B	儿子啊看你那么急	12	11,12	Answer / Question answer pair
+huijiadeyouhuo_2	5323	huijiadeyouhuo_2	B	我告诉你，你放心吧	13	12,13	Commentary
+huijiadeyouhuo_2	5324	huijiadeyouhuo_2	B	艾莉她还是我的女儿	14	13,14	Commentary
+huijiadeyouhuo_2	5325	huijiadeyouhuo_2	B	也还是你的女朋友	15	14,15	Parallel
+huijiadeyouhuo_2	5326	huijiadeyouhuo_2	B	没问题的，哈哈哈	16	15,16	Commentary
+huijiadeyouhuo_2	5327	huijiadeyouhuo_2	A	那她留电话了吗？	17	16,17	Alternation
+huijiadeyouhuo_2	5328	huijiadeyouhuo_2	B	我我忘了	18	17,18	Answer / Question answer pair
+huijiadeyouhuo_2	5329	huijiadeyouhuo_2	A	真的我快被你们气死了	19	18,19	Commentary
+huijiadeyouhuo_2	5330	huijiadeyouhuo_2	A	那那我现在，只能在家傻等对吧	20	19,20	Result
+huijiadeyouhuo_2	5331	huijiadeyouhuo_2	A	我早晚得心脏病死掉	21	20,21	Commentary
+humamaoba_12	5590	humamaoba_12	A	我知道，他们想让我这一辈子，都见不着孩子	1	0,1	<root>
+humamaoba_12	5591	humamaoba_12	A	就我这儿子，娶了媳妇忘了娘	2	3,2	Background
+humamaoba_12	5592	humamaoba_12	A	我现在一句话他都不听	3	1,3	Commentary
+humamaoba_12	5593	humamaoba_12	A	媳妇说什么是什么	4	3,4	Contrast
+humamaoba_12	5594	humamaoba_12	B	你的媳妇是怕你把孩子抢走了呀！	5	3,5	Commentary
+humamaoba_12	5595	humamaoba_12	A	不见得，我看你们胜男就挺好	6	5,6	Commentary
+humamaoba_12	5596	humamaoba_12	B	你行了，你说胜男	7	6,7	Commentary
+humamaoba_12	5597	humamaoba_12	B	裴老师，我两个星期没有见过我孙女了！	8	7,8	Background
+humamaoba_12	5598	humamaoba_12	A	真的？	9	8,9	Clarification Q
+humamaoba_12	5599	humamaoba_12	A	为什么？	10	9,10	Q-elab / Follow-up question
+humamaoba_12	5600	humamaoba_12	B	我也不知道啊！	11	10,11	Answer / Question answer pair
+humamaoba_12	5601	humamaoba_12	B	她也找一些莫名其妙的借口，就把我给打发了	12	11,12	Explanation
+humamaoba_12	5602	humamaoba_12	A	我跟你说，我现在真是不知道，这些年轻人是怎么想的	13	12,13	Alternation
+humamaoba_12	5603	humamaoba_12	A	你说咱们老了老了，图什么呀？	14	13,14	Clarification Q
+humamaoba_12	5604	humamaoba_12	A	不就图个儿孙满堂吗？	15	14,15	Q-elab / Follow-up question
+humamaoba_12	5605	humamaoba_12	B	他们这是欺负老年人	16	14,16	Commentary
+humamaoba_12	5606	humamaoba_12	A	我跟你说，咱们能忍就忍吧！	17	16,17	Contrast
+humamaoba_12	5607	humamaoba_12	A	没办法	18	17,18	Explanation
+humamaoba_17	5737	humamaoba_17	A	其实天去机场接他的时候，见到他之前	1	0,1	<root>
+humamaoba_17	5738	humamaoba_17	A	我这心里边就那种，怦，怦，怦乱跳，真的	2	1,2	Continuation
+humamaoba_17	5739	humamaoba_17	B	正常的呀，你肯定会激动啊！	3	2,3	Commentary
+humamaoba_17	5740	humamaoba_17	A	不是激动	4	3,4	Commentary
+humamaoba_17	5741	humamaoba_17	A	是害怕	5	4,5	Elaboration
+humamaoba_17	5742	humamaoba_17	A	我真的特别特别害怕	6	5,6	Elaboration
+humamaoba_17	5743	humamaoba_17	A	就好像，有一个潘多拉的盒子，要被打开了一样	7	6,7	Continuation
+humamaoba_17	5744	humamaoba_17	B	怎么会是这种感觉呢？	8	7,8	Clarification Q
+humamaoba_17	5745	humamaoba_17	B	你看你们俩亲热得	9	13,9	Background
+humamaoba_17	5746	humamaoba_17	B	我们在旁边看着都不好意思了	10	8,10	Continuation
+humamaoba_17	5747	humamaoba_17	A	其实我能感觉他那样是装出来的	11	10,11	Commentary
+humamaoba_17	5748	humamaoba_17	A	他不是发自肺府的，你知道吗？	12	11,12	Elaboration
+humamaoba_17	5749	humamaoba_17	A	昨天晚上回到家之后，我们两个反而一句话都不说了	13	8,13	Continuation
+humamaoba_17	5750	humamaoba_17	A	家里边安静得特别可怕	14	13,14	Commentary
+humamaoba_17	5751	humamaoba_17	A	我去偷看他的时候	15	14,15	Continuation
+humamaoba_17	5752	humamaoba_17	A	他正好也在偷看我	16	15,16	Parallel
+humamaoba_17	5753	humamaoba_17	A	我们两个就这样，互相看着，瞪着，然后互相傻笑	17	16,17	Continuation
+humamaoba_17	5754	humamaoba_17	A	你说这是夫妻吗？	18	17,18	Clarification Q
+humamaoba_17	5755	humamaoba_17	A	夫妻之间应该是这样的吗？	19	18,19	Q-elab / Follow-up question
+humamaoba_17	5756	humamaoba_17	B	那还装什么幸福呢？	20	19,20	Commentary
+humamaoba_17	5757	humamaoba_17	B	夫妻之间嘛！	21	22,21	Background
+humamaoba_17	5758	humamaoba_17	B	你就直截了当问他在想什么呢？	22	20,22	Elaboration
+humamaoba_17	5759	humamaoba_17	B	还装干嘛呢？	23	22,23	Q-elab / Follow-up question
+humamaoba_17	5760	humamaoba_17	A	我不想问了，也问不出来了	24	22,24	Answer / Question answer pair
+humamaoba_6	5988	humamaoba_6	A	你这今天跟茜茜发火，明天跟我发火的	1	0,1	<root>
+humamaoba_6	5989	humamaoba_6	A	你精神快不正常了，你都	2	1,2	Commentary
+humamaoba_6	5990	humamaoba_6	B	你说谁精神不正常？	3	2,3	Clarification Q
+humamaoba_6	5991	humamaoba_6	B	我看是你精神不正常吧！	4	3,4	Commentary
+humamaoba_6	5992	humamaoba_6	B	你跟我说话，到底哪一句是真的，哪一句是假的？	5	4,5	Elaboration
+humamaoba_6	5993	humamaoba_6	A	行！以后我都跟你说实话	6	5,6	Answer / Question answer pair
+humamaoba_6	5994	humamaoba_6	A	茜茜喜欢奶奶做的饭，行了吧？	7	6,7	Elaboration
+humamaoba_6	5995	humamaoba_6	B	你知道你性质多恶劣吗？	8	7,8	Commentary
+humamaoba_6	5996	humamaoba_6	B	你带着孩子一块儿骗我	9	8,9	Background
+humamaoba_6	5997	humamaoba_6	B	你们俩联手在骗我	10	9,10	Elaboration
+humamaoba_6	5998	humamaoba_6	A	行行行	11	10,11	Acknowledgement
+humamaoba_6	5999	humamaoba_6	A	我惹不起我躲得起，行吧！	12	11,12	Elaboration
+humamaoba_6	6000	humamaoba_6	B	站住！你去哪，？你去哪？	13	12,13	Continuation
+humamaoba_6	6001	humamaoba_6	B	这是你家，你去哪？	14	13,14	Elaboration
+humamaoba_6	6002	humamaoba_6	B	你哪也不能去！	15	14,15	Commentary
+humamaoba_6	6003	humamaoba_6	B	这你自己家，你为什么不待？	16	14,16	Q-elab / Follow-up question
+humamaoba_6	6004	humamaoba_6	B	为什么我们两个就不可以，坐下来好好聊一聊呢？	17	16,17	Q-elab / Follow-up question
+humamaoba_6	6005	humamaoba_6	A	我特别想跟你聊	18	17,18	Commentary
+humamaoba_6	6006	humamaoba_6	A	问题你看你现在这能聊吗？	19	18,19	Contrast
+humamaoba_6	6007	humamaoba_6	A	你都快成个疯子了你！	20	19,20	Commentary
+humamaoba_6	6008	humamaoba_6	B	你别走	21	20,21	Continuation
+humamaoba_6	6009	humamaoba_6	A	我出去溜达溜达	22	21,22	Elaboration
+humamaoba_6	6010	humamaoba_6	A	我消化消化食不行啊我！	23	22,23	Explanation
+humamaoba_9	6035	humamaoba_9	A	现在茜茜长这么大了	1	0,1	<root>
+humamaoba_9	6036	humamaoba_9	A	我唯一的希望，就是希望我们家能有一个人	2	1,2	Continuation
+humamaoba_9	6037	humamaoba_9	A	堂堂正正地考进这所大学	3	2,3	Elaboration
+humamaoba_9	6038	humamaoba_9	B	爸，我知道你想茜茜上一个好的大学	4	3,4	Acknowledgement
+humamaoba_9	6039	humamaoba_9	B	我也希望	5	2,5	Parallel
+humamaoba_9	6040	humamaoba_9	B	可是我不想因为她要考一个大学，就没有童年，没有快乐	6	5,6	Contrast
+humamaoba_9	6041	humamaoba_9	B	甚至于没有尊严	7	6,7	Elaboration
+humamaoba_9	6042	humamaoba_9	A	只要考上好大学，你刚才说的这些早晚能补回来	8	7,8	Contrast
+humamaoba_9	6043	humamaoba_9	B	可是爸	9	8,9	Contrast
+humamaoba_9	6044	humamaoba_9	A	我跟你讲，我是当教师的	10	9,10	Alternation
+humamaoba_9	6045	humamaoba_9	A	我最知道什么东西重要，什么东西不重要	11	10,11	Result
+humamaoba_9	6046	humamaoba_9	A	要想学习好	12	11,12	Elaboration
+humamaoba_9	6047	humamaoba_9	A	只有下狠心往死里学	13	12,13	Conditional
+humamaoba_9	6048	humamaoba_9	A	没有别的捷径	14	13,14	Elaboration
+humamaoba_9	6049	humamaoba_9	A	孩子小，不懂事	15	14,15	Commentary
+humamaoba_9	6050	humamaoba_9	A	当家长的，你就要紧紧地盯住	16	15,16	Result
+humamaoba_9	6051	humamaoba_9	B	那你也不能让孩子去吃猫粮啊！	17	16,17	Contrast
+humamaoba_9	6052	humamaoba_9	B	你知道万一生病了	18	17,18	Continuation
+humamaoba_9	6053	humamaoba_9	B	感染了，会怎么样？	19	18,19	Conditional
+humamaoba_9	6054	humamaoba_9	A	现在的孩子都太金贵了	20	19,20	Commentary
+humamaoba_9	6055	humamaoba_9	B	不是	21	20,21	Commentary
+humamaoba_9	6056	humamaoba_9	A	猫粮怎么了？	22	21,22	Clarification Q
+humamaoba_9	6057	humamaoba_9	A	红军长征的时候，还吃草根树皮和皮带呢！	23	22,23	Background
+humamaoba_9	6058	humamaoba_9	B	现在都什么年代了！	24	23,24	Commentary
+humamaoba_9	6059	humamaoba_9	B	那时候情况也不是现在这情况	25	26,25	Background
+humamaoba_9	6060	humamaoba_9	B	现在谁吃树皮呀？	26	24,26	Elaboration
+humamaoba_9	6061	humamaoba_9	A	丫头，我觉得你，你对茜茜太娇惯了	27	26,27	Commentary
+humamaoba_9	6062	humamaoba_9	B	不是我娇惯，是您太苟刻了	28	27,28	Commentary
+humamaoba_9	6063	humamaoba_9	A	棍棒底下出孝子，这个你没有听说过吗？	29	28,29	Explanation
+humamaoba_9	6064	humamaoba_9	B	你怎么对我是可以，我是您女儿	30	28,30	Elaboration
+humamaoba_9	6065	humamaoba_9	B	但茜茜是我的女儿	31	30,31	Contrast
+humamaoba_9	6066	humamaoba_9	B	管教她是我的权利！	32	31,32	Result
+humamaoba_9	6067	humamaoba_9	A	这么说，你觉得我是多余的了？	33	32,33	Commentary
+jiayounishizuibangde_1	6077	jiayounishizuibangde_1	A	郝泽宇吗？	1	0,1	<root>
+jiayounishizuibangde_1	6078	jiayounishizuibangde_1	B	你谁啊？	2	1,2	Q-elab / Follow-up question
+jiayounishizuibangde_1	6079	jiayounishizuibangde_1	A	我是你新经纪人啊	3	2,3	Answer / Question answer pair
+jiayounishizuibangde_1	6080	jiayounishizuibangde_1	A	牛美丽	4	3,4	Elaboration
+jiayounishizuibangde_1	6081	jiayounishizuibangde_1	A	业界呢，人家都叫我一声姑姑	5	4,5	Elaboration
+jiayounishizuibangde_1	6082	jiayounishizuibangde_1	A	你呢，也可以叫我牛姑	6	5,6	Result
+jiayounishizuibangde_1	6083	jiayounishizuibangde_1	B	姑姑？	7	6,7	Clarification Q
+jiayounishizuibangde_1	6084	jiayounishizuibangde_1	B	我还叫你大姨呢！	8	7,8	Commentary
+jiayounishizuibangde_1	6085	jiayounishizuibangde_1	B	你以为我傻	9	3,9	Commentary
+jiayounishizuibangde_1	6086	jiayounishizuibangde_1	B	我自己不认识我经纪人	10	9,10	Elaboration
+jiayounishizuibangde_1	6087	jiayounishizuibangde_1	B	什么样啊？	11	6,11	Commentary
+jiayounishizuibangde_1	6088	jiayounishizuibangde_1	A	滕丹已经把你签给我了	12	11,12	Contrast
+jiayounishizuibangde_1	6089	jiayounishizuibangde_1	A	合同要不要看一眼？	13	12,13	Clarification Q
+jiayounishizuibangde_1	6090	jiayounishizuibangde_1	A	从今往后出去呢	14	12,14	Result
+jiayounishizuibangde_1	6091	jiayounishizuibangde_1	A	报姑姑的名字	15	14,15	Narration
+jiayounishizuibangde_1	6092	jiayounishizuibangde_1	A	跟着姑姑啊，有肉吃	16	15,16	Explanation
+jiayounishizuibangde_1	6093	jiayounishizuibangde_1	A	上车	17	16,17	Alternation
+jiayounishizuibangde_1	6094	jiayounishizuibangde_1	B	神经病吧你！	18	17,18	Commentary
+jiayounishizuibangde_11	6133	jiayounishizuibangde_11	A	长得还行	1	0,1	<root>
+jiayounishizuibangde_11	6134	jiayounishizuibangde_11	A	丹凤眼	2	1,2	Elaboration
+jiayounishizuibangde_11	6135	jiayounishizuibangde_11	A	挺有特点	3	2,3	Commentary
+jiayounishizuibangde_11	6136	jiayounishizuibangde_11	A	但不是我的菜	4	3,4	Contrast
+jiayounishizuibangde_11	6137	jiayounishizuibangde_11	A	你说现在这人，都怎么想的呀？	5	4,5	Alternation
+jiayounishizuibangde_11	6138	jiayounishizuibangde_11	A	把人形容成菜	6	5,6	Elaboration
+jiayounishizuibangde_11	6139	jiayounishizuibangde_11	B	让你看内容，谁让你看评论了？	7	6,7	Continuation
+jiayounishizuibangde_11	6140	jiayounishizuibangde_11	B	我给小宇接了一商演	8	7,8	Alternation
+jiayounishizuibangde_11	6141	jiayounishizuibangde_11	B	河北的	9	8,9	Elaboration
+jiayounishizuibangde_11	6142	jiayounishizuibangde_11	B	就是他们回北京那天	10	8,10	Elaboration
+jiayounishizuibangde_11	6143	jiayounishizuibangde_11	B	这两天啊，你去借一个豪华大车	11	10,11	Result
+jiayounishizuibangde_11	6144	jiayounishizuibangde_11	B	我们去机场接他们	12	11,12	Explanation
+jiayounishizuibangde_11	6145	jiayounishizuibangde_11	A	多豪华？有预算吗？	13	12,13	Continuation
+jiayounishizuibangde_11	6146	jiayounishizuibangde_11	B	我觉得小宇刚回来	14	13,14	Answer / Question answer pair
+jiayounishizuibangde_11	6147	jiayounishizuibangde_11	B	让他舒服点	15	14,15	Result
+jiayounishizuibangde_11	6148	jiayounishizuibangde_11	B	再说了，你知道商演给多少钱吗？	16	15,16	Alternation
+jiayounishizuibangde_11	6149	jiayounishizuibangde_11	B	三十万	17	16,17	Answer / Question answer pair
+jiayounishizuibangde_11	6150	jiayounishizuibangde_11	B	那是不是得让他舒服点	18	17,18	Result
+jiayounishizuibangde_11	6151	jiayounishizuibangde_11	A	多少？	19	17,19	Clarification Q
+jiayounishizuibangde_11	6152	jiayounishizuibangde_11	A	三十万？	20	17,20	Clarification Q
+jiayounishizuibangde_11	6153	jiayounishizuibangde_11	A	什么商演给那么多钱哪？	21	20,21	Q-elab / Follow-up question
+jiayounishizuibangde_11	6154	jiayounishizuibangde_11	B	瞧你这少见多怪的样子	22	21,22	Commentary
+jiayounishizuibangde_11	6155	jiayounishizuibangde_11	B	三十万，就这么大惊小怪的	23	22,23	Elaboration
+jiayounishizuibangde_11	6156	jiayounishizuibangde_11	A	那得分是谁	24	23,24	Commentary
+jiayounishizuibangde_11	6157	jiayounishizuibangde_11	A	就您家这郝泽宇，对他来说这就是巨款	25	24,25	Elaboration
+jiayounishizuibangde_11	6158	jiayounishizuibangde_11	A	拍一电影，片酬一共才一万块钱	26	25,26	Elaboration
+jiayounishizuibangde_11	6159	jiayounishizuibangde_11	A	这还没怎么着呢	27	26,27	Continuation
+jiayounishizuibangde_11	6160	jiayounishizuibangde_11	A	身价一下翻了三十倍	28	27,28	Contrast
+jiayounishizuibangde_11	6161	jiayounishizuibangde_11	A	这天上的馅饼，怎么都掉您嘴里了？	29	28,29	Clarification Q
+jiayounishizuibangde_16	6314	jiayounishizuibangde_16	A	我告诉你啊	1	0,1	<root>
+jiayounishizuibangde_16	6315	jiayounishizuibangde_16	A	这演的呢，就是演的	2	1,2	Elaboration
+jiayounishizuibangde_16	6316	jiayounishizuibangde_16	A	演技再好，它也是盖不过的	3	2,3	Result
+jiayounishizuibangde_16	6317	jiayounishizuibangde_16	A	对吧？	4	3,4	Elaboration
+jiayounishizuibangde_16	6318	jiayounishizuibangde_16	B	谢谢你	5	4,5	Acknowledgement
+jiayounishizuibangde_16	6319	jiayounishizuibangde_16	B	这份惊喜，对我来说真的很重要	6	5,6	Explanation
+jiayounishizuibangde_16	6320	jiayounishizuibangde_16	B	炸鸡我就不拿走了	7	6,7	Continuation
+jiayounishizuibangde_16	6321	jiayounishizuibangde_16	B	反正我也吃不了	8	7,8	Explanation
+jiayounishizuibangde_16	6322	jiayounishizuibangde_16	A	不是，给你准备了，你不吃啊！	9	8,9	Contrast
+jiayounishizuibangde_16	6323	jiayounishizuibangde_16	A	你呀！就是对自己要求太高了	10	9,10	Commentary
+jiayounishizuibangde_16	6324	jiayounishizuibangde_16	A	这人不可能是完美的	11	10,11	Contrast
+jiayounishizuibangde_16	6325	jiayounishizuibangde_16	A	你说你给自己，这么大压力	12	13,12	Background
+jiayounishizuibangde_16	6326	jiayounishizuibangde_16	A	你自己不累得慌？	13	10,13	Elaboration
+jiayounishizuibangde_16	6327	jiayounishizuibangde_16	B	我刚出道的那会儿	14	13,14	Alternation
+jiayounishizuibangde_16	6328	jiayounishizuibangde_16	B	市面上流行完美款	15	14,15	Continuation
+jiayounishizuibangde_16	6329	jiayounishizuibangde_16	B	谁知道这几年	16	15,16	Contrast
+jiayounishizuibangde_16	6330	jiayounishizuibangde_16	B	又流行自黑款了	17	16,17	Continuation
+jinhun_11	7066	jinhun_11	A	没看你平时溜须拍马呀！	1	0,1	<root>
+jinhun_11	7067	jinhun_11	A	你说这军代表	2	1,2	Alternation
+jinhun_11	7068	jinhun_11	A	咋就非得让你带队回北京呢？	3	2,3	Continuation
+jinhun_11	7069	jinhun_11	B	诶，你完全可以回去啊，你不愿意啊！	4	3,4	Commentary
+jinhun_11	7070	jinhun_11	B	你就愿意过这天高皇帝远，逍遥法外的日子呀！	5	4,5	Elaboration
+jinhun_11	7071	jinhun_11	A	这话是这么说啊	6	5,6	Continuation
+jinhun_11	7072	jinhun_11	A	不过我看你这兴奋劲吧	7	8,7	Background
+jinhun_11	7073	jinhun_11	A	我心里也有点儿想	8	6,8	Contrast
+jinhun_11	7074	jinhun_11	A	我想我们家那小犊子了	9	8,9	Elaboration
+jinhun_11	7075	jinhun_11	B	不想淑贞啊？	10	9,10	Clarification Q
+jinhun_11	7076	jinhun_11	A	想她干啥玩意儿！	11	10,11	Answer / Question answer pair
+jinhun_11	7077	jinhun_11	A	你说我这昆仑山上一根草	12	11,12	Explanation
+jinhun_11	7078	jinhun_11	A	好容易有点成长的机会	13	14,13	Background
+jinhun_11	7079	jinhun_11	A	你说我能再回那，不毛之地昆仑山吗？姥姥！	14	12,14	Continuation
+jinhun_11	7080	jinhun_11	B	嘿呦好好好，我跟淑贞就这么说啊！	15	14,15	Continuation
+jinhun_11	7081	jinhun_11	A	别别别。。。	16	15,16	Commentary
+jinhun_11	7082	jinhun_11	A	见了淑贞哪，一定给我说点好话	17	16,17	Continuation
+jinhun_11	7083	jinhun_11	A	别胡说八道	18	17,18	Continuation
+jinhun_11	7084	jinhun_11	A	哎呦，你不了解我们家淑贞	19	18,19	Alternation
+jinhun_11	7085	jinhun_11	A	你看长得五大三粗，跟那个昆仑山似的是吧	20	19,20	Continuation
+jinhun_11	7086	jinhun_11	A	那小心眼就跟小米粒似的	21	20,21	Contrast
+jinhun_11	7087	jinhun_11	A	真的	22	21,22	Elaboration
+jinhun_11	7088	jinhun_11	B	呵呵呵，我知道我会说你好话的	23	22,23	Result
+lamazhengzhuan_12	7628	lamazhengzhuan_12	A	你那边的问题，是不是有点难解决呀？	1	0,1	<root>
+lamazhengzhuan_12	7629	lamazhengzhuan_12	B	没有问题	2	1,2	Answer / Question answer pair
+lamazhengzhuan_12	7630	lamazhengzhuan_12	B	一点问题都没有	3	2,3	Parallel
+lamazhengzhuan_12	7631	lamazhengzhuan_12	B	解决了，没事	4	3,4	Elaboration
+lamazhengzhuan_12	7632	lamazhengzhuan_12	A	我提醒你哦	5	4,5	Elaboration
+lamazhengzhuan_12	7633	lamazhengzhuan_12	A	有时候，为了自己一个人的面子	6	5,6	Elaboration
+lamazhengzhuan_12	7634	lamazhengzhuan_12	A	让一家人跟着你受苦	7	6,7	Result
+lamazhengzhuan_12	7635	lamazhengzhuan_12	A	我觉得这个代价有点大	8	7,8	Commentary
+lamazhengzhuan_12	7636	lamazhengzhuan_12	B	也其实，没让家里面人受什么苦	9	8,9	Contrast
+lamazhengzhuan_12	7637	lamazhengzhuan_12	B	换句话说如果是	10	9,10	Alternation
+lamazhengzhuan_12	7638	lamazhengzhuan_12	B	我的家人爱我	11	10,11	Conditional
+lamazhengzhuan_12	7639	lamazhengzhuan_12	B	我相信她们也愿意	12	11,12	Result
+lamazhengzhuan_12	7640	lamazhengzhuan_12	B	跟我一起分担这些苦	13	12,13	Elaboration
+lamazhengzhuan_12	7641	lamazhengzhuan_12	B	或者是这些乱七八糟的事	14	13,14	Elaboration
+lamazhengzhuan_12	7642	lamazhengzhuan_12	B	如果我的家人	15	14,15	Alternation
+lamazhengzhuan_12	7643	lamazhengzhuan_12	B	背着我去跟别人借钱	16	15,16	Conditional
+lamazhengzhuan_12	7644	lamazhengzhuan_12	B	我肯定是面子上，有点过不大去	17	16,17	Result
+lamazhengzhuan_12	7645	lamazhengzhuan_12	A	你跟同学借过一圈钱，我都知道	18	17,18	Continuation
+lamazhengzhuan_12	7646	lamazhengzhuan_12	A	这个钱本来就是，备着要借给你的	19	18,19	Elaboration
+lamazhengzhuan_12	7647	lamazhengzhuan_12	A	就等你跟我开口	20	19,20	Continuation
+lamazhengzhuan_12	7648	lamazhengzhuan_12	A	没想到你硬是把我跳过	21	20,21	Contrast
+lamazhengzhuan_12	7649	lamazhengzhuan_12	B	鲍子，你的心意我都领了	22	21,22	Commentary
+lamazhengzhuan_12	7650	lamazhengzhuan_12	B	但是你说	23	22,23	Contrast
+lamazhengzhuan_12	7651	lamazhengzhuan_12	B	你还不知道我是什么人吗	24	23,24	Elaboration
+lamazhengzhuan_3	7870	lamazhengzhuan_3	A	别生气啊	1	0,1	<root>
+lamazhengzhuan_3	7871	lamazhengzhuan_3	B	今天我来	2	1,2	Contrast
+lamazhengzhuan_3	7872	lamazhengzhuan_3	B	是因为你这几个月来，千方百计地求我	3	2,3	Explanation
+lamazhengzhuan_3	7873	lamazhengzhuan_3	A	是	4	3,4	Acknowledgement
+lamazhengzhuan_3	7874	lamazhengzhuan_3	B	到你家见你妈一面	5	3,5	Continuation
+lamazhengzhuan_3	7875	lamazhengzhuan_3	A	是，是，是	6	5,6	Acknowledgement
+lamazhengzhuan_3	7876	lamazhengzhuan_3	B	不是我非要跑来，来扮演未来好媳妇的角色	7	5,7	Elaboration
+lamazhengzhuan_3	7877	lamazhengzhuan_3	B	来讨你妈欢心的	8	7,8	Elaboration
+lamazhengzhuan_3	7878	lamazhengzhuan_3	A	我知道，我知道	9	8,9	Acknowledgement
+lamazhengzhuan_3	7879	lamazhengzhuan_3	B	既然我们现在见面，见成这个样子	10	11,10	Background
+lamazhengzhuan_3	7880	lamazhengzhuan_3	B	你觉得我们两个，还有必要再继续吗？	11	9,11	Commentary
+lamazhengzhuan_3	7881	lamazhengzhuan_3	A	什么继不继续的呀	12	11,12	Answer / Question answer pair
+lamazhengzhuan_3	7882	lamazhengzhuan_3	A	多大事啊	13	12,13	Commentary
+lamazhengzhuan_3	7883	lamazhengzhuan_3	A	你闹着玩扣眼珠子呀	14	13,14	Elaboration
+lamazhengzhuan_3	7884	lamazhengzhuan_3	A	我今天我也没有想到	15	14,15	Alternation
+lamazhengzhuan_3	7885	lamazhengzhuan_3	A	这，这个人会冲进来，对你这样	16	15,16	Elaboration
+lamazhengzhuan_3	7886	lamazhengzhuan_3	A	我是没安排好	17	16,17	Commentary
+lamazhengzhuan_3	7887	lamazhengzhuan_3	A	我下一次，下一次，我一定安排好	18	17,18	Contrast
+lamazhengzhuan_3	7888	lamazhengzhuan_3	B	还下次啊	19	18,19	Commentary
+lamazhengzhuan_3	7889	lamazhengzhuan_3	A	干吗	20	19,20	Clarification Q
+lamazhengzhuan_3	7890	lamazhengzhuan_3	A	你看你，不要吓唬我嘛	21	20,21	Commentary
+lamazhengzhuan_3	7891	lamazhengzhuan_3	A	怎么的了	22	21,22	Continuation
+lamazhengzhuan_3	7892	lamazhengzhuan_3	B	我想到还有下次	23	22,23	Explanation
+lamazhengzhuan_3	7893	lamazhengzhuan_3	B	我就觉得恶心	24	23,24	Continuation
+lamazhengzhuan_3	7894	lamazhengzhuan_3	B	其实刚才在你家，见到你妈	25	28,25	Background
+lamazhengzhuan_3	7895	lamazhengzhuan_3	B	还有那个叫什么？	26	25,26	Clarification Q
+lamazhengzhuan_3	7896	lamazhengzhuan_3	A	李阿姨	27	26,27	Answer / Question answer pair
+lamazhengzhuan_3	7897	lamazhengzhuan_3	B	我胃里就觉得不舒服	28	24,28	Alternation
+lamazhengzhuan_3	7898	lamazhengzhuan_3	A	你没吃好	29	28,29	Explanation
+lamazhengzhuan_3	7899	lamazhengzhuan_3	B	现在想想这就是前兆	30	28,30	Commentary
+lamazhengzhuan_3	7900	lamazhengzhuan_3	B	你知道吗？	31	30,31	Continuation
+lamazhengzhuan_8	8052	lamazhengzhuan_8	A	恭喜！恭喜！恭喜！	1	0,1	<root>
+lamazhengzhuan_8	8053	lamazhengzhuan_8	A	恭喜怀孕，哈哈哈	2	3,2	Background
+lamazhengzhuan_8	8054	lamazhengzhuan_8	A	说，要去哪儿庆祝	3	1,3	Elaboration
+lamazhengzhuan_8	8055	lamazhengzhuan_8	A	唱歌还是美容	4	3,4	Continuation
+lamazhengzhuan_8	8056	lamazhengzhuan_8	A	我听你的	5	4,5	Elaboration
+lamazhengzhuan_8	8057	lamazhengzhuan_8	B	庆祝什么呀	6	3,6	Clarification Q
+lamazhengzhuan_8	8058	lamazhengzhuan_8	B	庆祝我又没怀上？	7	6,7	Q-elab / Follow-up question
+lamazhengzhuan_8	8059	lamazhengzhuan_8	A	没，没怀上？	8	7,8	Q-elab / Follow-up question
+lamazhengzhuan_8	8060	lamazhengzhuan_8	B	没有	9	8,9	Answer / Question answer pair
+lamazhengzhuan_8	8061	lamazhengzhuan_8	A	那你刚才打电话	10	9,10	Contrast
+lamazhengzhuan_8	8062	lamazhengzhuan_8	B	没有，没怀上	11	9,11	Elaboration
+lamazhengzhuan_8	8063	lamazhengzhuan_8	B	你是不是特别高兴？	12	11,12	Clarification Q
+lamazhengzhuan_8	8064	lamazhengzhuan_8	B	你前妻，你女儿，都会特别高兴，是不是	13	12,13	Elaboration
+lamazhengzhuan_8	8065	lamazhengzhuan_8	A	你扯哪儿去了，你	14	13,14	Commentary
+lamazhengzhuan_8	8066	lamazhengzhuan_8	B	你三天两头，给你前妻打电话	15	19,15	Background
+lamazhengzhuan_8	8067	lamazhengzhuan_8	B	一会儿答应她，要带她去香港	16	15,16	Continuation
+lamazhengzhuan_8	8068	lamazhengzhuan_8	B	一会儿又说要去看演出	17	16,17	Parallel
+lamazhengzhuan_8	8069	lamazhengzhuan_8	B	你以为你瞒得特别好，对不对？	18	17,18	Clarification Q
+lamazhengzhuan_8	8070	lamazhengzhuan_8	B	其实你根本就不想，跟我生孩子	19	14,19	Background
+lamazhengzhuan_8	8071	lamazhengzhuan_8	B	你现在什么都不缺	20	19,20	Explanation
+lamazhengzhuan_8	8072	lamazhengzhuan_8	B	风华正茂	21	22,21	Background
+lamazhengzhuan_8	8073	lamazhengzhuan_8	B	来了个小不点	22	20,22	Elaboration
+lamazhengzhuan_8	8074	lamazhengzhuan_8	B	只会打扰你现在的生活，是不是？	23	22,23	Conditional
+lamazhengzhuan_8	8075	lamazhengzhuan_8	B	那你跟我结婚干吗？	24	23,24	Q-elab / Follow-up question
+lamazhengzhuan_8	8076	lamazhengzhuan_8	A	不是	25	23,25	Answer / Question answer pair
+lamazhengzhuan_8	8077	lamazhengzhuan_8	A	老实说我不怕，我们之间多一个孩子	26	25,26	Elaboration
+lamazhengzhuan_8	8078	lamazhengzhuan_8	A	你知道我怕什么	27	26,27	Continuation
+lamazhengzhuan_8	8079	lamazhengzhuan_8	A	我怕就是像你现在这种，无理取闹的样	28	27,28	Elaboration
+lamazhengzhuan_8	8080	lamazhengzhuan_8	A	我们年纪都不小了	29	30,29	Background
+lamazhengzhuan_8	8081	lamazhengzhuan_8	A	不要一遇到什么事情，就神经敏感	30	28,30	Commentary
+lamazhengzhuan_8	8082	lamazhengzhuan_8	A	这对于我们两个之间，不会有好结果的	31	30,31	Explanation
+lamazhengzhuan_8	8083	lamazhengzhuan_8	A	冷静，冷静	32	31,32	Result
+lamazhengzhuan_8	8084	lamazhengzhuan_8	A	没怀上我们再来嘛	33	32,33	Continuation
+lamazhengzhuan_8	8085	lamazhengzhuan_8	A	对不对	34	33,34	Conditional
+lizhipaishenghuo_3	8403	lizhipaishenghuo_3	A	为什么，出了这么大的事情	1	0,1	<root>
+lizhipaishenghuo_3	8404	lizhipaishenghuo_3	A	不告诉我？	2	1,2	Contrast
+lizhipaishenghuo_3	8405	lizhipaishenghuo_3	A	你真的把你妈当空气！	3	2,3	Commentary
+lizhipaishenghuo_3	8406	lizhipaishenghuo_3	B	你说的是什么事啊？	4	3,4	Q-elab / Follow-up question
+lizhipaishenghuo_3	8407	lizhipaishenghuo_3	A	你还在跟我装啊？	5	4,5	Commentary
+lizhipaishenghuo_3	8408	lizhipaishenghuo_3	A	你被别人泼了可乐	6	4,6	Answer / Question answer pair
+lizhipaishenghuo_3	8409	lizhipaishenghuo_3	A	这视频，现在都晒在网上去了！	7	6,7	Continuation
+lizhipaishenghuo_3	8410	lizhipaishenghuo_3	B	你是在哪儿看见的？	8	7,8	Q-elab / Follow-up question
+lizhipaishenghuo_3	8411	lizhipaishenghuo_3	A	为什么？	9	8,9	Answer / Question answer pair
+lizhipaishenghuo_3	8412	lizhipaishenghuo_3	A	我的女儿出了事情	10	9,10	Continuation
+lizhipaishenghuo_3	8413	lizhipaishenghuo_3	A	最后一个知道的，会是我？	11	10,11	Contrast
+lizhipaishenghuo_3	8414	lizhipaishenghuo_3	B	你别哭了，妈	12	11,12	Contrast
+lizhipaishenghuo_3	8415	lizhipaishenghuo_3	B	我不是不想告诉你	13	12,13	Explanation
+lizhipaishenghuo_3	8416	lizhipaishenghuo_3	B	我就是怕告诉你，你又担心，跟着着急	14	13,14	Elaboration
+lizhipaishenghuo_3	8417	lizhipaishenghuo_3	B	没事了	15	14,15	Commentary
+lizhipaishenghuo_3	8418	lizhipaishenghuo_3	A	什么时候的事情？	16	15,16	Q-elab / Follow-up question
+lizhipaishenghuo_3	8419	lizhipaishenghuo_3	B	都过去很久了	17	16,17	Answer / Question answer pair
+lizhipaishenghuo_3	8420	lizhipaishenghuo_3	B	一个多月以前	18	17,18	Elaboration
+lizhipaishenghuo_3	8421	lizhipaishenghuo_3	B	现在都没事了	19	18,19	Continuation
+lizhipaishenghuo_3	8422	lizhipaishenghuo_3	A	你为什么，老跟我说你没事了？	20	19,20	Commentary
+luohunshidai_11	8582	luohunshidai_11	A	赶紧坐下吃早饭	1	0,1	<root>
+luohunshidai_11	8583	luohunshidai_11	B	幸福来得太突然	2	1,2	Commentary
+luohunshidai_11	8584	luohunshidai_11	A	你别把我衣服给绷破了啊	3	2,3	Commentary
+luohunshidai_11	8585	luohunshidai_11	B	我这还有留多余量呢	4	3,4	Elaboration
+luohunshidai_11	8586	luohunshidai_11	B	真瘦啊	5	4,5	Commentary
+luohunshidai_11	8587	luohunshidai_11	A	给你尝尝包子	6	5,6	Alternation
+luohunshidai_11	8588	luohunshidai_11	A	怎么样？	7	6,7	Clarification Q
+luohunshidai_11	8589	luohunshidai_11	B	我现在吃什么都香！	8	7,8	Answer / Question answer pair
+luohunshidai_11	8590	luohunshidai_11	A	真的？	9	8,9	Clarification Q
+luohunshidai_11	8591	luohunshidai_11	B	我告诉你，没想到你那小床睡得我啊	10	9,10	Answer / Question answer pair
+luohunshidai_11	8592	luohunshidai_11	B	这家里大就是舒服啊！	11	10,11	Commentary
+luohunshidai_11	8593	luohunshidai_11	A	美吧	12	11,12	Commentary
+luohunshidai_11	8594	luohunshidai_11	A	美死了	13	12,13	Acknowledgement
+luohunshidai_4	8747	luohunshidai_4	A	孙晓娆 我得给你提个醒	1	0,1	<root>
+luohunshidai_4	8748	luohunshidai_4	A	他现在已经结婚了	2	1,2	Background
+luohunshidai_4	8749	luohunshidai_4	A	并且人家老婆正怀着孕	3	2,3	Elaboration
+luohunshidai_4	8750	luohunshidai_4	A	你这样干，不对	4	3,4	Commentary
+luohunshidai_4	8751	luohunshidai_4	B	怎么了！不就让他唱首歌吗？	5	4,5	Clarification Q
+luohunshidai_4	8752	luohunshidai_4	B	你至于这样大惊小怪吗？	6	5,6	Q-elab / Follow-up question
+luohunshidai_4	8753	luohunshidai_4	A	孙晓娆你还年轻	7	6,7	Commentary
+luohunshidai_4	8754	luohunshidai_4	A	而且这个社会经验这一块儿	8	7,8	Alternation
+luohunshidai_4	8755	luohunshidai_4	B	你要说什么你直接说	9	8,9	Commentary
+luohunshidai_4	8756	luohunshidai_4	A	没必要说这么明白吧 你懂的	10	9,10	Commentary
+luohunshidai_4	8757	luohunshidai_4	B	我懂什么	11	10,11	Clarification Q
+luohunshidai_4	8758	luohunshidai_4	B	你叫我出来到底是为了啥呀？	12	11,12	Q-elab / Follow-up question
+luohunshidai_4	8759	luohunshidai_4	A	孙晓娆你是个好姑娘 真的	13	12,13	Commentary
+luohunshidai_4	8760	luohunshidai_4	A	你将来呢又不愁找着好婆家嫁了	14	13,14	Elaboration
+luohunshidai_4	8761	luohunshidai_4	A	你吧 就别再在他身上花心思了	15	14,15	Result
+luohunshidai_4	8762	luohunshidai_4	B	谁打他主意了？	16	15,16	Clarification Q
+luohunshidai_4	8763	luohunshidai_4	A	你这样没劲啊	17	16,17	Commentary
+luohunshidai_4	8764	luohunshidai_4	A	你瞒得了谁 你还瞒得了我啊	18	17,18	Commentary
+luohunshidai_4	8765	luohunshidai_4	A	我有些话早就想跟你说了	19	18,19	Elaboration
+luohunshidai_4	8766	luohunshidai_4	A	可是我一直想给你留一面	20	19,20	Contrast
+luohunshidai_4	8767	luohunshidai_4	A	没张这嘴 你知道吗	21	20,21	Result
+luohunshidai_4	8768	luohunshidai_4	B	冬瓜，我有时候觉得你这个人才挺没劲的	22	21,22	Commentary
+luohunshidai_4	8769	luohunshidai_4	B	你觉得这样瞎猜有意思吗	23	22,23	Clarification Q
+luohunshidai_4	8770	luohunshidai_4	A	掰掰掰 你越掰我越觉得我猜得没错了	24	23,24	Commentary
+luohunshidai_4	8771	luohunshidai_4	A	反正哥们儿把话摆这儿了	25	24,25	Elaboration
+luohunshidai_4	8772	luohunshidai_4	A	破坏别人家庭的这种事不道德	26	25,26	Commentary
+luohunshidai_4	8773	luohunshidai_4	B	冬瓜！	27	26,27	Acknowledgement
+nishiwodechengchibaolei_10	9396	nishiwodechengchibaolei_10	A	站住！	1	0,1	<root>
+nishiwodechengchibaolei_10	9397	nishiwodechengchibaolei_10	A	我不找他，我找你	2	1,2	Narration
+nishiwodechengchibaolei_10	9398	nishiwodechengchibaolei_10	B	不是，你找我	3	2,3	Clarification Q
+nishiwodechengchibaolei_10	9399	nishiwodechengchibaolei_10	B	找我干吗呀？	4	3,4	Q-elab / Follow-up question
+nishiwodechengchibaolei_10	9400	nishiwodechengchibaolei_10	A	我那天明明是跟你，约的上课	5	4,5	Answer / Question answer pair
+nishiwodechengchibaolei_10	9401	nishiwodechengchibaolei_10	A	你为什么换成束文波去？	6	5,6	Contrast
+nishiwodechengchibaolei_10	9402	nishiwodechengchibaolei_10	B	我那天值班	7	6,7	Explanation
+nishiwodechengchibaolei_10	9403	nishiwodechengchibaolei_10	A	值班？	8	7,8	Clarification Q
+nishiwodechengchibaolei_10	9404	nishiwodechengchibaolei_10	A	我信你才有鬼呢！	9	8,9	Commentary
+nishiwodechengchibaolei_10	9405	nishiwodechengchibaolei_10	A	全世界都知道，我被他拒绝了	10	11,10	Background
+nishiwodechengchibaolei_10	9406	nishiwodechengchibaolei_10	A	我丢人都丢到太平洋去	11	9,11	Elaboration
+nishiwodechengchibaolei_10	9407	nishiwodechengchibaolei_10	A	你什么意思？落井下石？	12	11,12	Clarification Q
+nishiwodechengchibaolei_10	9408	nishiwodechengchibaolei_10	A	你故意找我乐子是不是？	13	12,13	Q-elab / Follow-up question
+nishiwodechengchibaolei_10	9409	nishiwodechengchibaolei_10	B	不是啊	14	13,14	Answer / Question answer pair
+nishiwodechengchibaolei_10	9410	nishiwodechengchibaolei_10	A	不是？	15	14,15	Clarification Q
+nishiwodechengchibaolei_10	9411	nishiwodechengchibaolei_10	A	那你为什么要这么做？	16	15,16	Q-elab / Follow-up question
+nishiwodechengchibaolei_10	9412	nishiwodechengchibaolei_10	B	因为	17	16,17	Answer / Question answer pair
+nishiwodechengchibaolei_10	9413	nishiwodechengchibaolei_10	A	你说呀！	18	17,18	Continuation
+nishiwodechengchibaolei_10	9414	nishiwodechengchibaolei_10	B	我不想看我们束队受罪	19	16,19	Explanation
+nishiwodechengchibaolei_10	9415	nishiwodechengchibaolei_10	A	他受什么罪啊？	20	19,20	Clarification Q
+nishiwodechengchibaolei_10	9416	nishiwodechengchibaolei_10	A	好，你不说是吧？	21	20,21	Continuation
+nishiwodechengchibaolei_10	9417	nishiwodechengchibaolei_10	A	你不说我就去告诉郝队	22	21,22	Conditional
+nishiwodechengchibaolei_10	9418	nishiwodechengchibaolei_10	A	说你利用职务之便，勾搭我！	23	22,23	Elaboration
+nishiwodechengchibaolei_10	9419	nishiwodechengchibaolei_10	B	你别闹了！	24	23,24	Commentary
+nishiwodechengchibaolei_10	9420	nishiwodechengchibaolei_10	B	他多喜欢你啊！	25	24,25	Background
+nishiwodechengchibaolei_10	9421	nishiwodechengchibaolei_10	A	你说什么？	26	25,26	Clarification Q
+nishiwodechengchibaolei_10	9422	nishiwodechengchibaolei_10	B	我说我们束队喜欢你	27	26,27	Answer / Question answer pair
+nishiwodechengchibaolei_10	9423	nishiwodechengchibaolei_10	B	他那天喝多了跟我说的	28	27,28	Elaboration
+nishiwodechengchibaolei_10	9424	nishiwodechengchibaolei_10	B	你是没看见他那样	29	28,29	Continuation
+nishiwodechengchibaolei_10	9425	nishiwodechengchibaolei_10	B	特别让人心疼	30	29,30	Commentary
+nishiwodechengchibaolei_10	9426	nishiwodechengchibaolei_10	A	切，不可能！	31	30,31	Commentary
+nishiwodechengchibaolei_10	9427	nishiwodechengchibaolei_10	A	他跟我说了，我们只是好朋友	32	31,32	Explanation
+nishiwodechengchibaolei_10	9428	nishiwodechengchibaolei_10	B	那是因为陆风也喜欢你	33	32,33	Explanation
+nishiwodechengchibaolei_10	9429	nishiwodechengchibaolei_10	B	我不知道为什么，他把你让给陆风	34	33,34	Contrast
+nishiwodechengchibaolei_8	9697	nishiwodechengchibaolei_8	A	别练了	1	0,1	<root>
+nishiwodechengchibaolei_8	9698	nishiwodechengchibaolei_8	A	跟我们吃饭去	2	1,2	Narration
+nishiwodechengchibaolei_8	9699	nishiwodechengchibaolei_8	B	你们先吃	3	2,3	Commentary
+nishiwodechengchibaolei_8	9700	nishiwodechengchibaolei_8	B	干吗呀？	4	3,4	Clarification Q
+nishiwodechengchibaolei_8	9701	nishiwodechengchibaolei_8	A	你刚做完手术	5	4,5	Answer / Question answer pair
+nishiwodechengchibaolei_8	9702	nishiwodechengchibaolei_8	A	现在身体在恢复期	6	5,6	Elaboration
+nishiwodechengchibaolei_8	9703	nishiwodechengchibaolei_8	A	你不能这么练	7	6,7	Result
+nishiwodechengchibaolei_8	9704	nishiwodechengchibaolei_8	B	比武马上开始了	8	9,8	Background
+nishiwodechengchibaolei_8	9705	nishiwodechengchibaolei_8	B	不这么练怎么恢复啊？	9	7,9	Commentary
+nishiwodechengchibaolei_8	9706	nishiwodechengchibaolei_8	A	我知道比武，在你心里边非常重要	10	9,10	Answer / Question answer pair
+nishiwodechengchibaolei_8	9707	nishiwodechengchibaolei_8	A	所以你更应该，保护身体啊！	11	10,11	Result
+nishiwodechengchibaolei_8	9708	nishiwodechengchibaolei_8	B	让开！	12	11,12	Commentary
+nishiwodechengchibaolei_8	9709	nishiwodechengchibaolei_8	A	不让	13	12,13	Commentary
+nishiwodechengchibaolei_8	9710	nishiwodechengchibaolei_8	A	我觉得你现在需要休息	14	13,14	Explanation
+nishiwodechengchibaolei_8	9711	nishiwodechengchibaolei_8	A	万一你身体，出现什么状况	15	14,15	Elaboration
+nishiwodechengchibaolei_8	9712	nishiwodechengchibaolei_8	A	你耽误的是整个猛虎队	16	15,16	Conditional
+qihun_7	10446	qihun_7	A	门开着呢，敲什么敲！	1	0,1	<root>
+qihun_7	10447	qihun_7	B	朱老师，我想看一下幼狮赛的对阵表	2	1,2	Answer / Question answer pair
+qihun_7	10448	qihun_7	A	看这干嘛？	3	2,3	Clarification Q
+qihun_7	10449	qihun_7	B	作为道场第一名	4	5,4	Background
+qihun_7	10450	qihun_7	B	我的名次关系到道场的荣誉	5	3,5	Answer / Question answer pair
+qihun_7	10451	qihun_7	A	这和对阵表有什么关系？	6	5,6	Q-elab / Follow-up question
+qihun_7	10452	qihun_7	B	我爷爷给我请了一群职业棋手	7	6,7	Answer / Question answer pair
+qihun_7	10453	qihun_7	B	他们负责帮我备战，和分析对手的实力	8	7,8	Elaboration
+qihun_7	10454	qihun_7	B	所以需要对阵表	9	8,9	Result
+qihun_7	10455	qihun_7	A	出去！	10	9,10	Result
+qihun_7	10456	qihun_7	B	您还没给我对阵表呢	11	10,11	Contrast
+qihun_7	10457	qihun_7	A	我说出去！	12	10,12	Elaboration
+qihun_7	10458	qihun_7	B	道场可是我们家赞助的！	13	12,13	Alternation
+qihun_7	10459	qihun_7	A	你想看对阵表是吧	14	13,14	Clarification Q
+qihun_7	10460	qihun_7	A	出门，右转，有面墙	15	14,15	Narration
+qinaidereaide_4	10823	qinaidereaide_4	A	你们去年那个	1	0,1	<root>
+qinaidereaide_4	10824	qinaidereaide_4	A	叫什么？国际大学生程序设计，比赛吧？	2	1,2	Elaboration
+qinaidereaide_4	10825	qinaidereaide_4	A	你们那个队的队长，是不是叫郑辉呀？	3	2,3	Q-elab / Follow-up question
+qinaidereaide_4	10826	qinaidereaide_4	B	对啊，怎么了？	4	3,4	Answer / Question answer pair
+qinaidereaide_4	10827	qinaidereaide_4	A	他研究生快毕业了吧？	5	4,5	Q-elab / Follow-up question
+qinaidereaide_4	10828	qinaidereaide_4	B	直博了都	6	5,6	Answer / Question answer pair
+qinaidereaide_4	10829	qinaidereaide_4	A	都直博了？	7	6,7	Clarification Q
+qinaidereaide_4	10830	qinaidereaide_4	A	那么厉害？	8	7,8	Commentary
+qinaidereaide_4	10831	qinaidereaide_4	A	那你有空叫你们比赛，那帮队友到家里来玩啊	9	8,9	Continuation
+qinaidereaide_4	10832	qinaidereaide_4	B	好啊	10	9,10	Acknowledgement
+qinaidereaide_4	10833	qinaidereaide_4	A	要不然明天吧？	11	10,11	Continuation
+qinaidereaide_4	10834	qinaidereaide_4	B	明天？	12	11,12	Clarification Q
+renmindemingyi_18	11121	renmindemingyi_18	A	到底还是离了？	1	0,1	<root>
+renmindemingyi_18	11122	renmindemingyi_18	A	谢天谢地	2	1,2	Commentary
+renmindemingyi_18	11123	renmindemingyi_18	B	你跟我说实话	3	2,3	Elaboration
+renmindemingyi_18	11124	renmindemingyi_18	B	欧阳菁到底有没有问题？	4	3,4	Continuation
+renmindemingyi_18	11125	renmindemingyi_18	B	不用关	5	4,5	Continuation
+renmindemingyi_18	11126	renmindemingyi_18	A	李书记，她还真有事	6	5,6	Elaboration
+renmindemingyi_18	11127	renmindemingyi_18	A	根据我们掌握的情况	7	6,7	Explanation
+renmindemingyi_18	11128	renmindemingyi_18	A	蔡成功的举报，还真不是空穴来风	8	7,8	Commentary
+renmindemingyi_18	11129	renmindemingyi_18	B	蔡成功为什么，只举报欧阳菁了？	9	8,9	Q-elab / Follow-up question
+renmindemingyi_18	11130	renmindemingyi_18	B	你告诉我	10	9,10	Continuation
+renmindemingyi_18	11131	renmindemingyi_18	B	蔡成功跟丁义珍，什么关系？	11	10,11	Q-elab / Follow-up question
+renmindemingyi_18	11132	renmindemingyi_18	B	跟高小琴什么关系？	12	11,12	Parallel
+renmindemingyi_18	11133	renmindemingyi_18	B	跟新来的侯亮平，什么关系？	13	12,13	Parallel
+renmindemingyi_18	11134	renmindemingyi_18	A	李书记，你消消气	14	13,14	Commentary
+renmindemingyi_18	11135	renmindemingyi_18	A	我也正在想这件事	15	14,15	Explanation
+renmindemingyi_18	11136	renmindemingyi_18	A	那我就跟您汇报一下	16	15,16	Result
+sanshieryi_12	11423	sanshieryi_12	A	我能问你个问题吗？	1	0,1	<root>
+sanshieryi_12	11424	sanshieryi_12	A	三十五块钱的电影票	2	1,2	Elaboration
+sanshieryi_12	11425	sanshieryi_12	A	干吗非要跑那么远的地方，来占这个便宜呢？	3	2,3	Continuation
+sanshieryi_12	11426	sanshieryi_12	B	这怎么能是占便宜呢？	4	3,4	Commentary
+sanshieryi_12	11427	sanshieryi_12	B	刚刚那个电影院，我一个好哥哥在那当负责人	5	4,5	Explanation
+sanshieryi_12	11428	sanshieryi_12	B	你懂了吧！	6	5,6	Clarification Q
+sanshieryi_12	11429	sanshieryi_12	A	所以我们是来捧他的场吗？	7	6,7	Answer / Question answer pair
+sanshieryi_12	11430	sanshieryi_12	B	也可以这么说呀！	8	7,8	Commentary
+sanshieryi_12	11431	sanshieryi_12	B	是这样啊	9	8,9	Elaboration
+sanshieryi_12	11432	sanshieryi_12	B	咱们俩今天到他负责的电影院，白看一场电影	10	9,10	Elaboration
+sanshieryi_12	11433	sanshieryi_12	B	那明天呢，他就可以带着家人或者朋友，到我妈妈开的饭馆，免费搓一顿	11	10,11	Narration
+sanshieryi_12	11434	sanshieryi_12	B	这样一来一回呢	12	11,12	Result
+sanshieryi_12	11435	sanshieryi_12	B	钱上谁都没什么损失	13	12,13	Continuation
+sanshieryi_12	11436	sanshieryi_12	B	但是情分就增加了不好吗？	14	13,14	Contrast
+sanshieryi_12	11437	sanshieryi_12	A	以物易物啊！	15	14,15	Commentary
+sanshieryi_12	11438	sanshieryi_12	A	这不是原始社会吗？	16	15,16	Commentary
+sanshieryi_12	11439	sanshieryi_12	B	原始？	17	16,17	Clarification Q
+sanshieryi_12	11440	sanshieryi_12	B	有什么不好啊？	18	16,18	Commentary
+sanshieryi_12	11441	sanshieryi_12	B	非得像大城市那样吗？	19	18,19	Explanation
+sanshieryi_12	11442	sanshieryi_12	B	家家都关起门来过日子	20	19,20	Elaboration
+sanshieryi_12	11443	sanshieryi_12	B	在电梯里都不想碰到熟人	21	20,21	Continuation
+sanshieryi_12	11444	sanshieryi_12	B	刚看到有人眼熟	22	20,22	Continuation
+sanshieryi_12	11445	sanshieryi_12	B	立刻低头枢手机	23	22,23	Conditional
+sanshieryi_12	11446	sanshieryi_12	B	那样的日子，多没意思啊！	24	23,24	Commentary
+sanshieryi_12	11447	sanshieryi_12	A	那人情难道不是最难还的吗？	25	24,25	Contrast
+sanshieryi_12	11448	sanshieryi_12	B	哎，起码在这儿人情一点都不难还	26	25,26	Commentary
+sanshieryi_12	11449	sanshieryi_12	B	在家里啊，人情可是最硬通的货币	27	26,27	Explanation
+shanhaiqing_16	12016	shanhaiqing_16	A	回来了？	1	0,1	<root>
+shanhaiqing_16	12017	shanhaiqing_16	B	嗯	2	1,2	Answer / Question answer pair
+shanhaiqing_16	12018	shanhaiqing_16	A	钱收回来没？	3	1,3	Q-elab / Follow-up question
+shanhaiqing_16	12019	shanhaiqing_16	B	都收回来了	4	3,4	Answer / Question answer pair
+shanhaiqing_16	12020	shanhaiqing_16	A	太好了	5	4,5	Commentary
+shanhaiqing_16	12021	shanhaiqing_16	A	走	6	5,6	Continuation
+shanhaiqing_16	12022	shanhaiqing_16	A	我们到村里发钱去	7	6,7	Continuation
+shanhaiqing_16	12023	shanhaiqing_16	B	不太够啊，老师	8	7,8	Commentary
+shanhaiqing_16	12024	shanhaiqing_16	A	什么意思？	9	8,9	Clarification Q
+shanhaiqing_16	12025	shanhaiqing_16	A	不够	10	8,10	Clarification Q
+shanhaiqing_16	12026	shanhaiqing_16	B	结算的菇钱，到菇民们手里面，还不到两块	11	9,11	Answer / Question answer pair
+shanhaiqing_16	12027	shanhaiqing_16	A	那，那一斤多少钱？	12	11,12	Q-elab / Follow-up question
+shanhaiqing_16	12028	shanhaiqing_16	B	现在菇的纯利润，一块七毛三	13	12,13	Answer / Question answer pair
+shanhaiqing_16	12029	shanhaiqing_16	A	一块七毛三？	14	13,14	Clarification Q
+shanhaiqing_16	12030	shanhaiqing_16	B	啊	15	14,15	Answer / Question answer pair
+shanhaiqing_16	12031	shanhaiqing_16	A	唉，那每一斤还少两角七？	16	15,16	Q-elab / Follow-up question
+shanhaiqing_16	12032	shanhaiqing_16	B	对	17	16,17	Answer / Question answer pair
+shanhaiqing_18	12075	shanhaiqing_18	A	是这样	1	0,1	<root>
+shanhaiqing_18	12076	shanhaiqing_18	A	咱那合唱比赛的事情	2	1,2	Elaboration
+shanhaiqing_18	12077	shanhaiqing_18	A	你回去还是要抓紧时间，好好准备一下	3	2,3	Continuation
+shanhaiqing_18	12078	shanhaiqing_18	A	这是咱自治区教育厅，今年的重点工作	4	3,4	Explanation
+shanhaiqing_18	12079	shanhaiqing_18	A	你会唱会弹	5	4,5	Parallel
+shanhaiqing_18	12080	shanhaiqing_18	A	那必须带队参加	6	5,6	Result
+shanhaiqing_18	12081	shanhaiqing_18	A	不敢含糊	7	6,7	Elaboration
+shanhaiqing_18	12082	shanhaiqing_18	B	我要回去教课	8	7,8	Contrast
+shanhaiqing_18	12083	shanhaiqing_18	B	教学任务紧	9	8,9	Elaboration
+shanhaiqing_18	12084	shanhaiqing_18	B	没时间	10	9,10	Result
+shanhaiqing_18	12085	shanhaiqing_18	A	哎呀，老白，理解一下	11	10,11	Commentary
+shanhaiqing_18	12086	shanhaiqing_18	A	我这个是影响着，各个学校综合考核	12	11,12	Explanation
+shanhaiqing_18	12087	shanhaiqing_18	A	也影响着，每年的教育拨款	13	12,13	Parallel
+shanhaiqing_18	12088	shanhaiqing_18	B	为啥总是搞这些，形式主义的东西！	14	13,14	Commentary
+shanhaiqing_18	12089	shanhaiqing_18	B	我那个操场，打了多少回报告	15	16,15	Background
+shanhaiqing_18	12090	shanhaiqing_18	B	咋就经费批不下来嘛！	16	14,16	Contrast
+shanhaiqing_18	12091	shanhaiqing_18	A	老白同志	17	16,17	Commentary
+shanhaiqing_18	12092	shanhaiqing_18	A	我的白校长	18	17,18	Elaboration
+shanhaiqing_18	12093	shanhaiqing_18	A	你就再等一下	19	18,19	Continuation
+shanhaiqing_18	12094	shanhaiqing_18	A	等闽宁建镇	20	19,20	Elaboration
+shanhaiqing_18	12095	shanhaiqing_18	A	你就可以直接，跟当地政府申请经费	21	20,21	Conditional
+shanhaiqing_18	12096	shanhaiqing_18	A	他们那儿条件，比咱这儿好得多	22	21,22	Elaboration
+shanhaiqing_18	12097	shanhaiqing_18	B	就为了等这个，行政关系的变动	23	24,23	Background
+shanhaiqing_18	12098	shanhaiqing_18	B	你们就眼静静地，看着操场，坑坑洼洼的不管吗？！	24	22,24	Contrast
+shanhaiqing_18	12099	shanhaiqing_18	A	哎呀，你这个人，咋这么难缠呢	25	24,25	Commentary
+shanhaiqing_18	12100	shanhaiqing_18	A	咱县里的财政状况，你不是不知道	26	25,26	Explanation
+shanhaiqing_18	12101	shanhaiqing_18	A	就你那儿有难处	27	26,27	Elaboration
+shanhaiqing_18	12102	shanhaiqing_18	A	别人那儿都没难处？	28	27,28	Parallel
+shaonianpai_12	12294	shaonianpai_12	A	真的不懂？	1	0,1	<root>
+shaonianpai_12	12295	shaonianpai_12	B	啥意思啊？	2	1,2	Clarification Q
+shaonianpai_12	12296	shaonianpai_12	A	果真是难忘	3	2,3	Commentary
+shaonianpai_12	12297	shaonianpai_12	B	是没忘	4	3,4	Commentary
+shaonianpai_12	12298	shaonianpai_12	B	前段时间你进拘留所	5	4,5	Elaboration
+shaonianpai_12	12299	shaonianpai_12	B	我还给他打电话	6	5,6	Narration
+shaonianpai_12	12300	shaonianpai_12	B	结果，他还真使了劲了	7	6,7	Result
+shaonianpai_12	12301	shaonianpai_12	A	切，我说你这个人有毛病啊，啊	8	6,8	Commentary
+shaonianpai_12	12302	shaonianpai_12	A	你把我	9	8,9	Elaboration
+shaonianpai_12	12303	shaonianpai_12	A	最落晚最丢人的事	10	9,10	Elaboration
+shaonianpai_12	12304	shaonianpai_12	A	你告诉他，你什么意思	11	10,11	Contrast
+shaonianpai_12	12305	shaonianpai_12	A	你这不是当着他的面，打我脸吗	12	11,12	Elaboration
+shaonianpai_12	12306	shaonianpai_12	B	你脑子有问题吗？	13	12,13	Commentary
+shaonianpai_12	12307	shaonianpai_12	B	我给他打电话	14	13,14	Elaboration
+shaonianpai_12	12308	shaonianpai_12	B	还不是因为你	15	14,15	Explanation
+shaonianpai_12	12309	shaonianpai_12	A	行了吧，就是找借口	16	15,16	Commentary
+shaonianpai_12	12310	shaonianpai_12	A	套近乎	17	16,17	Continuation
+shaonianpai_12	12311	shaonianpai_12	B	你这人有毛病啊	18	16,18	Commentary
+shaonianpai_12	12312	shaonianpai_12	A	怪不得每天，都提着跟我离婚呢	19	17,19	Elaboration
+shaonianpai_12	12313	shaonianpai_12	A	你合着是有打算啦	20	19,20	Explanation
+shaonianpai_12	12314	shaonianpai_12	A	你现在两头同时进行	21	20,21	Elaboration
+shaonianpai_12	12315	shaonianpai_12	A	不用那么累	22	21,22	Commentary
+shaonianpai_12	12316	shaonianpai_12	A	我给你自由我马上就给	23	22,23	Elaboration
+shaonianpai_12	12317	shaonianpai_12	B	呦，怎么着，想一脚蹬了我	24	23,24	Clarification Q
+shaonianpai_12	12318	shaonianpai_12	A	哎，我要自由	25	24,25	Continuation
+shaonianpai_12	12319	shaonianpai_12	A	我明天就要自由	26	24,26	Answer / Question answer pair
+shaonianpai_12	12320	shaonianpai_12	B	急什么呀	27	26,27	Commentary
+shaonianpai_12	12321	shaonianpai_12	B	我一个人的自由	28	26,28	Contrast
+shaonianpai_12	12322	shaonianpai_12	B	哪叫自由	29	28,29	Commentary
+shaonianpai_12	12323	shaonianpai_12	B	咱俩得一起自由	30	29,30	Elaboration
+shaonianpai_12	12324	shaonianpai_12	A	咱俩明天就去离婚	31	30,31	Result
+shaonianpai_12	12325	shaonianpai_12	A	谁不离谁是小狗	32	31,32	Continuation
+shaonianpai_12	12326	shaonianpai_12	B	狗就狗	33	32,33	Commentary
+shaonianpai_12	12327	shaonianpai_12	B	你想自由，偏不给你	34	33,34	Elaboration
+shaonianpai_12	12328	shaonianpai_12	B	我憋死你	35	34,35	Explanation
+shaonianpai_15	12406	shaonianpai_15	A	穿这么正式	1	0,1	<root>
+shaonianpai_15	12407	shaonianpai_15	A	你干吗去呀？	2	1,2	Result
+shaonianpai_15	12408	shaonianpai_15	B	这昱文不是回来了吗	3	2,3	Answer / Question answer pair
+shaonianpai_15	12409	shaonianpai_15	B	我去接他去	4	3,4	Narration
+shaonianpai_15	12410	shaonianpai_15	A	哎呦，就你爸一个学生	5	4,5	Commentary
+shaonianpai_15	12411	shaonianpai_15	A	至于你亲自去啊？	6	5,6	Contrast
+shaonianpai_15	12412	shaonianpai_15	B	你也不是不知道	7	5,7	Answer / Question answer pair
+shaonianpai_15	12413	shaonianpai_15	B	我爸对他比对我还亲呢	8	9,8	Background
+shaonianpai_15	12414	shaonianpai_15	B	这毕竟我们是发小	9	7,9	Explanation
+shaonianpai_15	12415	shaonianpai_15	B	关系不一样	10	9,10	Result
+shaonianpai_15	12416	shaonianpai_15	A	你们这群发小啊	11	10,11	Continuation
+shaonianpai_15	12417	shaonianpai_15	A	就没有一个靠谱的	12	11,12	Commentary
+shaonianpai_15	12418	shaonianpai_15	A	他也认识裴音吗？	13	11,13	Clarification Q
+shaonianpai_15	12419	shaonianpai_15	B	嗯，从小啊	14	13,14	Answer / Question answer pair
+shaonianpai_15	12420	shaonianpai_15	B	他就是我跟裴音，后面的小跟班	15	14,15	Elaboration
+shaonianpai_15	12421	shaonianpai_15	A	那就不许见	16	15,16	Commentary
+shaonianpai_15	12422	shaonianpai_15	A	以后跟裴音有认识的人	17	16,17	Elaboration
+shaonianpai_15	12423	shaonianpai_15	A	一个也不许见	18	17,18	Conditional
+shaonianpai_15	12424	shaonianpai_15	B	你能不能别闹了	19	18,19	Commentary
+shaonianpai_15	12425	shaonianpai_15	B	我跟你说啊	20	19,20	Continuation
+shaonianpai_15	12426	shaonianpai_15	B	昱文这次回来	21	20,21	Elaboration
+shaonianpai_15	12427	shaonianpai_15	B	是带了一个机器人项目，回来的	22	21,22	Elaboration
+shaonianpai_15	12428	shaonianpai_15	B	现在这项目正热呢	23	24,23	Background
+shaonianpai_15	12429	shaonianpai_15	B	省里市里都特别重视	24	22,24	Elaboration
+shaonianpai_15	12430	shaonianpai_15	B	我摆了一桌	25	24,25	Result
+shaonianpai_15	12431	shaonianpai_15	B	想跟他聊聊	26	25,26	Narration
+shaonianpai_15	12432	shaonianpai_15	B	看有没有合作的可能	27	26,27	Elaboration
+shaonianpai_15	12433	shaonianpai_15	B	这对咱们有好处	28	27,28	Explanation
+shaonianpai_15	12434	shaonianpai_15	A	那你等等	29	28,29	Acknowledgement
+waixiangren_10	12733	waixiangren_10	A	那个大徐呀，打工那个店哪	1	0,1	<root>
+waixiangren_10	12734	waixiangren_10	A	经营不下去了	2	1,2	Elaboration
+waixiangren_10	12735	waixiangren_10	A	她想把这个店承包下来	3	2,3	Result
+waixiangren_10	12736	waixiangren_10	B	我说嘛，你真是无事不登三宝殿	4	3,4	Commentary
+waixiangren_10	12737	waixiangren_10	B	诶，大徐如果要承包那个店的话	5	4,5	Elaboration
+waixiangren_10	12738	waixiangren_10	B	那用钱可多啊！	6	5,6	Conditional
+waixiangren_10	12739	waixiangren_10	A	我来就是为了这个事情啦	7	6,7	Commentary
+waixiangren_10	12740	waixiangren_10	A	你想啊，这承包一个店子啊	8	7,8	Elaboration
+waixiangren_10	12741	waixiangren_10	A	风险金就要十万	9	8,9	Elaboration
+waixiangren_10	12742	waixiangren_10	A	你再加上什么装修啊，改造啊	10	9,10	Elaboration
+waixiangren_10	12743	waixiangren_10	A	这都需要钱的	11	10,11	Elaboration
+waixiangren_10	12744	waixiangren_10	B	那是	12	11,12	Acknowledgement
+waixiangren_10	12745	waixiangren_10	A	我呢，反正已是掏钱入股了	13	11,13	Elaboration
+waixiangren_10	12746	waixiangren_10	A	今天来找你来，就是让你也掏钱的	14	13,14	Continuation
+waixiangren_10	12747	waixiangren_10	B	那行！没有问题	15	14,15	Acknowledgement
+waixiangren_10	12748	waixiangren_10	B	你老陆出多少，那我就出多少	16	15,16	Elaboration
+waixiangren_10	12749	waixiangren_10	A	你不要跟我比好不啦	17	16,17	Commentary
+waixiangren_10	12750	waixiangren_10	A	我现在已经是一无所有了	18	17,18	Background
+waixiangren_10	12751	waixiangren_10	A	我只能尽力而为	19	18,19	Result
+waixiangren_10	12752	waixiangren_10	B	你一无所有我更是半无所有	20	19,20	Commentary
+waixiangren_10	12753	waixiangren_10	B	你跟俺走到街上看看	21	20,21	Elaboration
+waixiangren_10	12754	waixiangren_10	B	你看看谁是一无所有	22	21,22	Elaboration
+waixiangren_10	12755	waixiangren_10	A	你说，你到底什么意思啦	23	22,23	Clarification Q
+waixiangren_10	12756	waixiangren_10	B	不是，我是这个意思啊	24	23,24	Answer / Question answer pair
+waixiangren_10	12757	waixiangren_10	B	我出钱行	25	24,25	Elaboration
+waixiangren_10	12758	waixiangren_10	B	你老陆出多少我就出多少	26	25,26	Contrast
+waixiangren_10	12759	waixiangren_10	A	你不要跟我比好不啦	27	26,27	Commentary
+waixiangren_10	12760	waixiangren_10	B	我不跟你比我跟谁比啊	28	27,28	Clarification Q
+waixiangren_10	12761	waixiangren_10	A	你啊，哪怕去借钱，也要比我老陆多出的了	29	28,29	Commentary
+waixiangren_10	12762	waixiangren_10	B	为什么？	30	29,30	Clarification Q
+waixiangren_10	12763	waixiangren_10	A	为什么，就因为你和大徐关系不一般了	31	30,31	Explanation
+waixiangren_4	12889	waixiangren_4	A	你想什么呢	1	0,1	<root>
+waixiangren_4	12890	waixiangren_4	B	我在想，你说树儿这孩子	2	1,2	Answer / Question answer pair
+waixiangren_4	12891	waixiangren_4	B	连招呼都不打就没影了	3	2,3	Elaboration
+waixiangren_4	12892	waixiangren_4	A	哎呦，你心肠太好了！	4	3,4	Commentary
+waixiangren_4	12893	waixiangren_4	A	那种孩子收不了心的，随他去吧！	5	4,5	Elaboration
+waixiangren_4	12894	waixiangren_4	A	我今天来找你啊	6	5,6	Alternation
+waixiangren_4	12895	waixiangren_4	A	我想问问你，搬不搬家	7	6,7	Continuation
+waixiangren_4	12896	waixiangren_4	B	我搬家	8	7,8	Clarification Q
+waixiangren_4	12897	waixiangren_4	B	我往哪儿搬哪	9	8,9	Q-elab / Follow-up question
+waixiangren_4	12898	waixiangren_4	A	做盗版磁带的那个小安徽夫妇，搬走了	10	9,10	Background
+waixiangren_4	12899	waixiangren_4	A	那个房子老大的	11	10,11	Elaboration
+waixiangren_4	12900	waixiangren_4	A	你这个小屋遭罪	12	11,12	Commentary
+waixiangren_4	12901	waixiangren_4	A	你弟弟两个人住在一起啊	13	12,13	Elaboration
+waixiangren_4	12902	waixiangren_4	A	不方便	14	13,14	Commentary
+waixiangren_4	12903	waixiangren_4	B	那房子贵了吧	15	11,15	Commentary
+waixiangren_4	12904	waixiangren_4	A	贵什么贵！	16	15,16	Commentary
+waixiangren_4	12905	waixiangren_4	A	你要想租，我去和宝根讲！	17	16,17	Background
+waixiangren_4	12906	waixiangren_4	A	不会贵哪里去的	18	17,18	Continuation
+waixiangren_4	12907	waixiangren_4	B	是吗？	19	18,19	Clarification Q
+waixiangren_4	12908	waixiangren_4	B	那行啊！	20	18,20	Acknowledgement
+waixiangren_4	12909	waixiangren_4	A	好那我去说，哈哈	21	20,21	Commentary
+waixiangren_4	12910	waixiangren_4	B	谢谢阿婆啊	22	21,22	Acknowledgement
+waixiangren_4	12911	waixiangren_4	A	没关系啊	23	22,23	Acknowledgement
+wanmeiguanxi_10	13043	wanmeiguanxi_10	A	进	1	0,1	<root>
+wanmeiguanxi_10	13044	wanmeiguanxi_10	B	你好	2	1,2	Continuation
+wanmeiguanxi_10	13045	wanmeiguanxi_10	A	你好	3	2,3	Parallel
+wanmeiguanxi_10	13046	wanmeiguanxi_10	B	好看吗	4	3,4	Alternation
+wanmeiguanxi_10	13047	wanmeiguanxi_10	A	天生丽质	5	4,5	Answer / Question answer pair
+wanmeiguanxi_10	13048	wanmeiguanxi_10	A	清新脱俗	6	5,6	Parallel
+wanmeiguanxi_10	13049	wanmeiguanxi_10	A	你知道吗	7	6,7	Continuation
+wanmeiguanxi_10	13050	wanmeiguanxi_10	A	一个女人，换了个造型，就像换了个人生一样	8	7,8	Commentary
+wanmeiguanxi_10	13051	wanmeiguanxi_10	B	是卫哲帮我设计的	9	8,9	Elaboration
+wanmeiguanxi_10	13052	wanmeiguanxi_10	B	穿成这样我特别不习惯	10	9,10	Commentary
+wanmeiguanxi_10	13053	wanmeiguanxi_10	B	而且没有刘海之后	11	10,11	Continuation
+wanmeiguanxi_10	13054	wanmeiguanxi_10	B	我觉得特别没有安全感	12	11,12	Commentary
+wanmeiguanxi_10	13055	wanmeiguanxi_10	A	卫哲太有眼光了	13	12,13	Commentary
+wanmeiguanxi_10	13056	wanmeiguanxi_10	A	有机会，我也得让他，帮我参谋参谋	14	13,14	Continuation
+wanmeiguanxi_13	13126	wanmeiguanxi_13	A	你刚刚也太帅了吧！	1	0,1	<root>
+wanmeiguanxi_13	13127	wanmeiguanxi_13	A	把那家伙，吓得一愣一愣的	2	1,2	Elaboration
+wanmeiguanxi_13	13128	wanmeiguanxi_13	B	其实当时我也很紧张	3	2,3	Elaboration
+wanmeiguanxi_13	13129	wanmeiguanxi_13	B	幸好他不懂法律	4	3,4	Contrast
+wanmeiguanxi_13	13130	wanmeiguanxi_13	A	是啊	5	4,5	Acknowledgement
+wanmeiguanxi_13	13131	wanmeiguanxi_13	A	要是让他看出来，卫哲给你的证书是假的	6	5,6	Elaboration
+wanmeiguanxi_13	13132	wanmeiguanxi_13	A	那可就麻烦了	7	6,7	Conditional
+wanmeiguanxi_13	13133	wanmeiguanxi_13	B	那证书是真的	8	6,8	Correction
+wanmeiguanxi_13	13134	wanmeiguanxi_13	B	只不过，美国律师执照，在中国不管用	9	8,9	Contrast
+wanmeiguanxi_13	13135	wanmeiguanxi_13	B	要是李斯特知道	10	9,10	Continuation
+wanmeiguanxi_13	13136	wanmeiguanxi_13	B	今天肯定露馅	11	10,11	Conditional
+wanmeiguanxi_13	13137	wanmeiguanxi_13	A	所以，你真的是律师啊？	12	11,12	Continuation
+wanmeiguanxi_13	13138	wanmeiguanxi_13	B	我是天普大学毕业的	13	12,13	Answer / Question answer pair
+wanmeiguanxi_13	13139	wanmeiguanxi_13	B	后来才做室内设计	14	13,14	Continuation
+wanmeiguanxi_13	13140	wanmeiguanxi_13	A	律师不做，做室内设计	15	14,15	Continuation
+wanmeiguanxi_13	13141	wanmeiguanxi_13	A	你怎么想的呀	16	15,16	Clarification Q
+wanmeiguanxi_13	13142	wanmeiguanxi_13	B	学完之后	17	16,17	Answer / Question answer pair
+wanmeiguanxi_13	13143	wanmeiguanxi_13	B	我觉得当律师太死板了	18	17,18	Commentary
+wanmeiguanxi_13	13144	wanmeiguanxi_13	B	我比较喜欢，自由自在的生活	19	18,19	Explanation
+wanmeiguanxi_13	13145	wanmeiguanxi_13	B	才做室内设计	20	19,20	Result
+wanmeiguanxi_13	13146	wanmeiguanxi_13	B	而且，这是我从小的梦想	21	20,21	Elaboration
+womendexinshidai_1	13372	womendexinshidai_1	A	你今儿干什么了？	1	0,1	<root>
+womendexinshidai_1	13373	womendexinshidai_1	B	嗯？	2	1,2	Clarification Q
+womendexinshidai_1	13374	womendexinshidai_1	A	你没什么要坦白的吗？	3	1,3	Q-elab / Follow-up question
+womendexinshidai_1	13375	womendexinshidai_1	B	坦白什么呀？	4	3,4	Clarification Q
+womendexinshidai_1	13376	womendexinshidai_1	A	你今儿是不是又去当什么，灭火小英雄去了？	5	4,5	Q-elab / Follow-up question
+womendexinshidai_1	13377	womendexinshidai_1	B	是不是文静跟你说的？	6	5,6	Q-elab / Follow-up question
+womendexinshidai_1	13378	womendexinshidai_1	A	不用文静跟我说	7	6,7	Answer / Question answer pair
+womendexinshidai_1	13379	womendexinshidai_1	A	这群里面都炸了锅了	8	7,8	Elaboration
+womendexinshidai_1	13380	womendexinshidai_1	A	何姐还跟那儿，使劲地表扬你	9	8,9	Continuation
+womendexinshidai_1	13381	womendexinshidai_1	A	这表扬得我都不好意思了	10	9,10	Commentary
+womendexinshidai_1	13382	womendexinshidai_1	B	又是何姐	11	10,11	Result
+womendexinshidai_1	13383	womendexinshidai_1	B	行	12	11,12	Acknowledgement
+womendexinshidai_1	13384	womendexinshidai_1	A	怎么啦？	13	12,13	Clarification Q
+womendexinshidai_1	13385	womendexinshidai_1	A	又跟人吵架啦？	14	13,14	Q-elab / Follow-up question
+womendexinshidai_1	13386	womendexinshidai_1	B	我跟人吵什么架	15	14,15	Answer / Question answer pair
+womendexinshidai_1	13387	womendexinshidai_1	B	她来找我	16	15,16	Alternation
+womendexinshidai_1	13388	womendexinshidai_1	B	想让我当社区志愿者	17	16,17	Explanation
+womendexinshidai_1	13389	womendexinshidai_1	A	那，你拒绝了吧？	18	17,18	Clarification Q
+womendexinshidai_1	13390	womendexinshidai_1	B	干吗这种反应？	19	18,19	Commentary
+womendexinshidai_1	13391	womendexinshidai_1	B	你想让我拒绝？	20	19,20	Q-elab / Follow-up question
+womendexinshidai_1	13392	womendexinshidai_1	A	我当然想让你拒绝啦	21	20,21	Answer / Question answer pair
+womendexinshidai_12	13461	womendexinshidai_12	A	我想回家	1	0,1	<root>
+womendexinshidai_12	13462	womendexinshidai_12	A	你给我弄回家	2	1,2	Result
+womendexinshidai_12	13463	womendexinshidai_12	A	你听到了没有？	3	2,3	Continuation
+womendexinshidai_12	13464	womendexinshidai_12	A	你给我弄回家	4	2,4	Elaboration
+womendexinshidai_12	13465	womendexinshidai_12	B	奶奶，咱们钱都交了	5	3,5	Answer / Question answer pair
+womendexinshidai_12	13466	womendexinshidai_12	B	就住一晚	6	5,6	Elaboration
+womendexinshidai_12	13467	womendexinshidai_12	B	明天就走	7	6,7	Narration
+womendexinshidai_12	13468	womendexinshidai_12	A	你别说一晚上了	8	7,8	Commentary
+womendexinshidai_12	13469	womendexinshidai_12	A	一分钟都不行	9	8,9	Continuation
+womendexinshidai_12	13470	womendexinshidai_12	A	你闻闻这满屋子的药水味，跟你爷爷走的时候一模一样	10	9,10	Explanation
+womendexinshidai_12	13471	womendexinshidai_12	A	我都不敢闭眼	11	10,11	Result
+womendexinshidai_12	13472	womendexinshidai_12	A	我闭眼我都能看到他	12	11,12	Result
+womendexinshidai_12	13473	womendexinshidai_12	B	您可以用嘴呼吸啊	13	12,13	Commentary
+womendexinshidai_12	13474	womendexinshidai_12	B	像鱼一样	14	13,14	Continuation
+womendexinshidai_12	13475	womendexinshidai_12	A	我让你，用嘴呼吸	15	14,15	Commentary
+womendexinshidai_12	13476	womendexinshidai_12	A	呼你个冤大头啊呼	16	15,16	Continuation
+womendexinshidai_12	13477	womendexinshidai_12	A	啊你个小兔崽子	17	16,17	Commentary
+womendexinshidai_12	13478	womendexinshidai_12	A	我是指望不住你	18	17,18	Commentary
+womendexinshidai_12	13479	womendexinshidai_12	A	你把电话给我	19	18,19	Alternation
+womendexinshidai_12	13480	womendexinshidai_12	A	我给思齐打电话	20	19,20	Narration
+womendexinshidai_12	13481	womendexinshidai_12	A	我让她过来	21	20,21	Narration
+womendexinshidai_12	13482	womendexinshidai_12	B	您叫她干什么呀？	22	21,22	Clarification Q
+womendexinshidai_12	13483	womendexinshidai_12	B	大晚上我不想见她	23	22,23	Elaboration
+womendexinshidai_12	13484	womendexinshidai_12	A	你不想见她也不行	24	23,24	Commentary
+womendexinshidai_14	13509	womendexinshidai_14	A	我忘了跟你说了啊	1	0,1	<root>
+womendexinshidai_14	13510	womendexinshidai_14	A	那个，图南回来了	2	1,2	Continuation
+womendexinshidai_14	13511	womendexinshidai_14	A	你最好，躲着点走啊	3	2,3	Result
+womendexinshidai_14	13512	womendexinshidai_14	A	别撞见	4	3,4	Continuation
+womendexinshidai_14	13513	womendexinshidai_14	B	我凭什么躲着他呀我？	5	3,5	Clarification Q
+womendexinshidai_14	13514	womendexinshidai_14	A	你们俩从小一见面就吵	6	5,6	Answer / Question answer pair
+womendexinshidai_14	13515	womendexinshidai_14	A	一见面就打	7	8,7	Background
+womendexinshidai_14	13516	womendexinshidai_14	A	我都怕了我	8	6,8	Parallel
+womendexinshidai_14	13517	womendexinshidai_14	B	那是小时候	9	8,9	Explanation
+womendexinshidai_14	13518	womendexinshidai_14	B	现在我还能跟他一般见识	10	9,10	Contrast
+womendexinshidai_14	13519	womendexinshidai_14	A	你真的可以见他？	11	10,11	Clarification Q
+womendexinshidai_14	13520	womendexinshidai_14	A	你确定？	12	11,12	Q-elab / Follow-up question
+womendexinshidai_14	13521	womendexinshidai_14	B	你我都不怕	13	12,13	Answer / Question answer pair
+womendexinshidai_14	13522	womendexinshidai_14	B	我会怕他啊	14	13,14	Result
+womendexinshidai_14	13523	womendexinshidai_14	B	不就是你弟弟吗？	15	14,15	Continuation
+womendexinshidai_14	13524	womendexinshidai_14	A	行	16	15,16	Acknowledgement
+womendexinshidai_14	13525	womendexinshidai_14	A	中午，去我家吃饭吧	17	16,17	Alternation
+womendexinshidai_4	13676	womendexinshidai_4	A	今天你好好开滴滴去	1	0,1	<root>
+womendexinshidai_4	13677	womendexinshidai_4	A	周文浩帮你看店	2	1,2	Background
+womendexinshidai_4	13678	womendexinshidai_4	B	啊？我招惹的于海洋，干吗让人家帮我看店？	3	2,3	Clarification Q
+womendexinshidai_4	13679	womendexinshidai_4	A	他不仅仅帮你看店	4	3,4	Continuation
+womendexinshidai_4	13680	womendexinshidai_4	A	他还有任务在手	5	4,5	Elaboration
+womendexinshidai_4	13681	womendexinshidai_4	A	这里人来人往	6	5,6	Elaboration
+womendexinshidai_4	13682	womendexinshidai_4	A	我想趁这个机会呢	7	6,7	Background
+womendexinshidai_4	13683	womendexinshidai_4	A	给我们社区托管班，做点宣传	8	7,8	Continuation
+womendexinshidai_4	13684	womendexinshidai_4	A	趁于海洋不在	9	8,9	Result
+womendexinshidai_4	13685	womendexinshidai_4	A	我借他这地方	10	9,10	Elaboration
+womendexinshidai_4	13686	womendexinshidai_4	A	等他回来了	11	9,11	Explanation
+womendexinshidai_4	13687	womendexinshidai_4	A	还指不定让不让呢	12	11,12	Conditional
+womendexinshidai_4	13688	womendexinshidai_4	B	批下来了？	13	12,13	Clarification Q
+womendexinshidai_4	13689	womendexinshidai_4	A	何姐说了	14	13,14	Answer / Question answer pair
+womendexinshidai_4	13690	womendexinshidai_4	A	街道组织非常支持	15	14,15	Elaboration
+womendexinshidai_4	13691	womendexinshidai_4	A	所以批下来很快	16	15,16	Result
+woshiyuhuanshui_13	13948	woshiyuhuanshui_13	A	我真后悔	1	0,1	<root>
+woshiyuhuanshui_13	13949	woshiyuhuanshui_13	B	后悔什么？	2	1,2	Clarification Q
+woshiyuhuanshui_13	13950	woshiyuhuanshui_13	A	没想到，山里边的景色这么美	3	2,3	Answer / Question answer pair
+woshiyuhuanshui_13	13951	woshiyuhuanshui_13	B	这跟后悔有什么关系啊？	4	3,4	Clarification Q
+woshiyuhuanshui_13	13952	woshiyuhuanshui_13	A	呵，你这个年纪，可能不太理解我这种感慨	5	4,5	Answer / Question answer pair
+woshiyuhuanshui_13	13953	woshiyuhuanshui_13	A	嗯，想必外面的空气一定会更好	6	5,6	Alternation
+woshiyuhuanshui_13	13954	woshiyuhuanshui_13	B	欸，你小心点！	7	6,7	Commentary
+woshiyuhuanshui_13	13955	woshiyuhuanshui_13	A	风还是蛮大的	8	6,8	Commentary
+woshiyuhuanshui_13	13956	woshiyuhuanshui_13	A	想想我背井离乡二十年，不是在忙学业，就是在忙工作	9	8,9	Background
+woshiyuhuanshui_13	13957	woshiyuhuanshui_13	A	从来都没有想到过，离市区这么近的地方，却有这么美的风景	10	9,10	Contrast
+woshiyuhuanshui_3	14070	woshiyuhuanshui_3	A	你喜欢哲学？	1	0,1	<root>
+woshiyuhuanshui_3	14071	woshiyuhuanshui_3	B	你想不想在死之前，救续一下你自己？	2	1,2	Alternation
+woshiyuhuanshui_3	14072	woshiyuhuanshui_3	A	我，那我，我救续了我自己	3	2,3	Q-elab / Follow-up question
+woshiyuhuanshui_3	14073	woshiyuhuanshui_3	A	我就能不死吗？	4	3,4	Narration
+woshiyuhuanshui_3	14074	woshiyuhuanshui_3	B	不行，还是得死	5	4,5	Answer / Question answer pair
+woshiyuhuanshui_3	14075	woshiyuhuanshui_3	A	我，那我为什么要救续自己呢？	6	5,6	Result
+woshiyuhuanshui_3	14076	woshiyuhuanshui_3	B	这样你可以活得坦然一些	7	6,7	Answer / Question answer pair
+woshiyuhuanshui_3	14077	woshiyuhuanshui_3	B	不那么屈嘛	8	7,8	Elaboration
+woshiyuhuanshui_3	14078	woshiyuhuanshui_3	A	姑娘，你是干吗的呀？	9	8,9	Alternation
+woshiyuhuanshui_3	14079	woshiyuhuanshui_3	B	我们哪，是一个公益性质的，临终关怀组织	10	9,10	Answer / Question answer pair
+woshiyuhuanshui_3	14080	woshiyuhuanshui_3	B	今天在这条街发传单	11	10,11	Result
+xiaobieli_3	14594	xiaobieli_3	A	你干吗去了！	1	0,1	<root>
+xiaobieli_3	14595	xiaobieli_3	B	我把她刚撕了的东西，给粘上了	2	1,2	Answer / Question answer pair
+xiaobieli_3	14596	xiaobieli_3	B	文洁，刚朵朵跟我道歉了	3	2,3	Alternation
+xiaobieli_3	14597	xiaobieli_3	A	她说什么了	4	3,4	Clarification Q
+xiaobieli_3	14598	xiaobieli_3	B	她就说，说这个，不应该写这些东西	5	4,5	Answer / Question answer pair
+xiaobieli_3	14599	xiaobieli_3	B	耽误学习	6	5,6	Result
+xiaobieli_3	14600	xiaobieli_3	B	然后她以后保证	7	6,7	Continuation
+xiaobieli_3	14601	xiaobieli_3	B	不再写了	8	7,8	Elaboration
+xiaobieli_3	14602	xiaobieli_3	B	好好学英语	9	8,9	Parallel
+xiaobieli_3	14603	xiaobieli_3	B	然后她说	10	5,10	Narration
+xiaobieli_3	14604	xiaobieli_3	B	也不应该跟爸爸，还有妈妈那么说话	11	10,11	Elaboration
+xiaobieli_3	14605	xiaobieli_3	B	她说对不起	12	11,12	Commentary
+xiaobieli_3	14606	xiaobieli_3	A	你找的她还是她找的你	13	12,13	Alternation
+xiaobieli_3	14607	xiaobieli_3	B	她出来跟我说的	14	13,14	Answer / Question answer pair
+xiaobieli_3	14608	xiaobieli_3	A	我是觉得她现在跟我，越来越不亲了	15	14,15	Commentary
+xiaobieli_3	14609	xiaobieli_3	A	她道款都找你道歉	16	15,16	Explanation
+xiaobieli_3	14610	xiaobieli_3	B	哦不是，她不是故意来找的我	17	16,17	Correction
+xiaobieli_3	14611	xiaobieli_3	B	她，她是正好，出来上卫生间	18	17,18	Elaboration
+xiaobieli_3	14612	xiaobieli_3	B	看到我在那儿粘这个	19	18,19	Narration
+xiaobieli_3	14613	xiaobieli_3	B	她就过来，跟我说	20	19,20	Narration
+xiaobieli_3	14614	xiaobieli_3	A	你不用解释	21	20,21	Commentary
+xiaobieli_3	14615	xiaobieli_3	A	我没有怪朵朵的意思	22	21,22	Explanation
+xiaobieli_3	14616	xiaobieli_3	A	我是觉得我挺失败的	23	22,23	Continuation
+xiaobieli_9	14773	xiaobieli_9	A	是不是越来越不像话！	1	0,1	<root>
+xiaobieli_9	14774	xiaobieli_9	A	都是你惯的	2	1,2	Elaboration
+xiaobieli_9	14775	xiaobieli_9	A	我跟你说方圆！	3	2,3	Continuation
+xiaobieli_9	14776	xiaobieli_9	B	哎呦呦呦，行行行，你还追上门吵	4	3,4	Alternation
+xiaobieli_9	14777	xiaobieli_9	A	我就	5	4,5	Contrast
+xiaobieli_9	14778	xiaobieli_9	B	行行行	6	5,6	Acknowledgement
+xiaobieli_9	14779	xiaobieli_9	A	我问问她，为什么要这么跟妈妈说话！	7	5,7	Continuation
+xiaobieli_9	14780	xiaobieli_9	B	你消消气	8	7,8	Commentary
+xiaobieli_9	14781	xiaobieli_9	A	为什么要这么跟妈妈说话！	9	7,9	Elaboration
+xiaobieli_9	14782	xiaobieli_9	B	好了！	10	9,10	Commentary
+xiaobieli_9	14783	xiaobieli_9	B	哎，我就说啊！	11	10,11	Alternation
+xiaobieli_9	14784	xiaobieli_9	B	她狗丢了	12	13,12	Background
+xiaobieli_9	14785	xiaobieli_9	B	一小孩，她着急	13	11,13	Elaboration
+xiaobieli_9	14786	xiaobieli_9	B	她这有点上火	14	13,14	Elaboration
+xiaobieli_9	14787	xiaobieli_9	B	有点发脾气也正常	15	14,15	Result
+xiaobieli_9	14788	xiaobieli_9	B	你一个大人	16	15,16	Contrast
+xiaobieli_9	14789	xiaobieli_9	B	你也跟她真那么吵	17	16,17	Elaboration
+xiaobieli_9	14790	xiaobieli_9	B	你上那么大火干吗呀！啊？	18	17,18	Commentary
+xiaobieli_9	14791	xiaobieli_9	A	不是方圆	19	18,19	Commentary
+xiaobieli_9	14792	xiaobieli_9	A	为一条狗啊！	20	19,20	Elaboration
+xiaobieli_9	14793	xiaobieli_9	A	为一条狗连妈妈不要了	21	20,21	Commentary
+xiaobieli_9	14794	xiaobieli_9	B	她没有不要	22	21,22	Commentary
+xiaobieli_9	14795	xiaobieli_9	A	她说我是冷血	23	21,23	Elaboration
+xiaobieli_9	14796	xiaobieli_9	A	你还护着她！	24	23,24	Contrast
+xiaobieli_9	14797	xiaobieli_9	B	我不。。。	25	24,25	Commentary
+xiaobieli_9	14798	xiaobieli_9	A	她今天全部是你护出来的！	26	24,26	Elaboration
+xiaobieli_9	14799	xiaobieli_9	B	不是我护着她	27	26,27	Commentary
+xiaobieli_9	14800	xiaobieli_9	B	你刚才，我也在场对不对	28	27,28	Explanation
+xiaobieli_9	14801	xiaobieli_9	B	不是，她一个小孩，他不懂事！你跟。。。	29	28,29	Background
+xiaobieli_9	14802	xiaobieli_9	A	她不懂事我就要教育她！	30	29,30	Result
+xiaobieli_9	14803	xiaobieli_9	A	我不能光养不教啊！	31	30,31	Explanation
+xiaobieli_9	14804	xiaobieli_9	A	这出去怎么办啊！	32	31,32	Commentary
+xiaobieli_9	14805	xiaobieli_9	A	是不是，好像全地球，都围着她一个人转	33	32,33	Elaboration
+xiaobieli_9	14806	xiaobieli_9	A	是不是	34	33,34	Clarification Q
+xiaohuanxi_2	15027	xiaohuanxi_2	A	刘静阿姨	1	0,1	<root>
+xiaohuanxi_2	15028	xiaohuanxi_2	B	英子 来 坐这儿歇会儿	2	1,2	Acknowledgement
+xiaohuanxi_2	15029	xiaohuanxi_2	A	阿姨，我 我想回家睡会儿	3	2,3	Alternation
+xiaohuanxi_2	15030	xiaohuanxi_2	A	下午在家做卷子就不过来了	4	3,4	Narration
+xiaohuanxi_2	15031	xiaohuanxi_2	B	你是不是哪儿不舒服了？	5	4,5	Clarification Q
+xiaohuanxi_2	15032	xiaohuanxi_2	B	要不要到阿姨卧室去躺一会儿？	6	5,6	Q-elab / Follow-up question
+xiaohuanxi_2	15033	xiaohuanxi_2	A	没事 您不用担心我	7	6,7	Commentary
+xiaohuanxi_2	15034	xiaohuanxi_2	A	我还是回家吧	8	7,8	Continuation
+xiaohuanxi_2	15035	xiaohuanxi_2	A	卷子什么的全都在上面呢	9	10,9	Background
+xiaohuanxi_2	15036	xiaohuanxi_2	A	我睡醒了就直接做卷子了	10	8,10	Explanation
+xiaohuanxi_2	15037	xiaohuanxi_2	B	那好那好	11	10,11	Acknowledgement
+xiaohuanxi_2	15038	xiaohuanxi_2	B	那你快回去吧	12	11,12	Continuation
+xiaohuanxi_2	15039	xiaohuanxi_2	B	好好休息一下啊	13	12,13	Narration
+xiaoshede_1	15275	xiaoshede_1	A	但是子悠的程度，我是知道的呀	1	0,1	<root>
+xiaoshede_1	15276	xiaoshede_1	A	如果连他都不会做	2	1,2	Continuation
+xiaoshede_1	15277	xiaoshede_1	A	前三名不可能会的	3	2,3	Conditional
+xiaoshede_1	15278	xiaoshede_1	B	小孩嘛，考试难免大意的	4	3,4	Contrast
+xiaoshede_1	15279	xiaoshede_1	A	不是大意呀	5	4,5	Commentary
+xiaoshede_1	15280	xiaoshede_1	A	这卷子肯定有问题	6	5,6	Elaboration
+xiaoshede_1	15281	xiaoshede_1	B	能有什么问题	7	6,7	Clarification Q
+xiaoshede_1	15282	xiaoshede_1	B	不都一个老师教的吗	8	7,8	Explanation
+xiaoshede_1	15283	xiaoshede_1	B	再说你看人家米桃	9	6,9	Contrast
+xiaoshede_1	15284	xiaoshede_1	B	刚从乡下转过来	10	9,10	Background
+xiaoshede_1	15285	xiaoshede_1	B	她妈妈，还是咱们两家的钟点工	11	10,11	Parallel
+xiaoshede_1	15286	xiaoshede_1	B	那人家不考得挺好的	12	9,12	Elaboration
+xiaoshede_1	15287	xiaoshede_1	A	就是因为，连米桃都考得好	13	12,13	Continuation
+xiaoshede_1	15288	xiaoshede_1	A	我们家子悠没理由，考不好的	14	13,14	Result
+xiaoshede_1	15289	xiaoshede_1	A	你看看，八十六分才第四名	15	14,15	Elaboration
+xiaoshede_1	15290	xiaoshede_1	B	第四名已经很好了	16	15,16	Commentary
+xiaoshede_1	15291	xiaoshede_1	A	一码归一码	17	16,17	Continuation
+xiaoshede_1	15292	xiaoshede_1	A	我要的是公平公正公开	18	17,18	Contrast
+xiaoshede_1	15293	xiaoshede_1	A	我把话给你摆这儿	19	18,19	Alternation
+xiaoshede_1	15294	xiaoshede_1	A	如果这卷子没问题的话	20	19,20	Elaboration
+xiaoshede_1	15295	xiaoshede_1	A	我跟你姓	21	20,21	Conditional
+xiaoshede_1	15296	xiaoshede_1	A	欢欢考得怎么样	22	21,22	Alternation
+xiaoshede_1	15297	xiaoshede_1	B	还不知道呢	23	22,23	Answer / Question answer pair
+xiaoshede_1	15298	xiaoshede_1	A	我先走了啊	24	23,24	Alternation
+xiaoshede_17	15498	xiaoshede_17	A	妈，你就踏实养着啊	1	0,1	<root>
+xiaoshede_17	15499	xiaoshede_17	A	咱们家已经走上正轨了	2	1,2	Explanation
+xiaoshede_17	15500	xiaoshede_17	A	不用担心	3	2,3	Result
+xiaoshede_17	15501	xiaoshede_17	B	夏君山请那么长时间的假	4	3,4	Contrast
+xiaoshede_17	15502	xiaoshede_17	B	你说换哪个老板乐意呀	5	4,5	Commentary
+xiaoshede_17	15503	xiaoshede_17	B	万一你说他，工作上有什么闪失	6	5,6	Result
+xiaoshede_17	15504	xiaoshede_17	B	你怎么办啊	7	6,7	Clarification Q
+xiaoshede_17	15505	xiaoshede_17	B	一个人挣钱养这个家	8	7,8	Elaboration
+xiaoshede_17	15506	xiaoshede_17	A	我一个人我又不是养不起	9	8,9	Commentary
+xiaoshede_17	15507	xiaoshede_17	B	我不乐意	10	9,10	Commentary
+xiaoshede_17	15508	xiaoshede_17	B	那我女儿得累死啊	11	10,11	Explanation
+xiaoshede_17	15509	xiaoshede_17	A	妈，上班挣钱累	12	11,12	Contrast
+xiaoshede_17	15510	xiaoshede_17	A	你以为在家照顾家不累呀	13	12,13	Continuation
+xiaoshede_17	15511	xiaoshede_17	A	那家里多少事，大大小小鸡零狗碎的	14	13,14	Elaboration
+xiaoshede_17	15512	xiaoshede_17	A	那比上班更累呢	15	14,15	Commentary
+xiaoshede_17	15513	xiaoshede_17	B	你倒是会体谅他	16	15,16	Commentary
+xiaoshede_17	15514	xiaoshede_17	A	那人家值得我体谅嘛	17	16,17	Explanation
+xiaoshede_17	15515	xiaoshede_17	A	家庭工作只能占一头	18	17,18	Elaboration
+xiaoshede_17	15516	xiaoshede_17	A	您女婿把这个选择题，给揽过去了	19	18,19	Continuation
+xiaoshede_17	15517	xiaoshede_17	B	说得也对	20	19,20	Acknowledgement
+xiaoshede_3	15621	xiaoshede_3	A	那个子悠那金牌班，什么时候开班啊？	1	0,1	<root>
+xiaoshede_3	15622	xiaoshede_3	B	快了	2	1,2	Answer / Question answer pair
+xiaoshede_3	15623	xiaoshede_3	B	也就这一两周之内吧	3	2,3	Elaboration
+xiaoshede_3	15624	xiaoshede_3	A	上那么多培训班	4	3,4	Alternation
+xiaoshede_3	15625	xiaoshede_3	A	还能有时间玩吗？	5	4,5	Conditional
+xiaoshede_3	15626	xiaoshede_3	B	都什么时候了还想着玩	6	5,6	Answer / Question answer pair
+xiaoshede_3	15627	xiaoshede_3	B	我都替你着不起那个急	7	6,7	Commentary
+xiaoshede_3	15628	xiaoshede_3	B	你显然是还没醒呢	8	7,8	Commentary
+xiaoshede_3	15629	xiaoshede_3	B	说了你也听不进去	9	8,9	Result
+xiaoshede_3	15630	xiaoshede_3	A	那就麻烦您给我说说	10	9,10	Result
+xiaoshede_3	15631	xiaoshede_3	A	让我学习学习	11	10,11	Narration
+xiaoshede_3	15632	xiaoshede_3	A	我是听我一朋友说的	12	11,12	Alternation
+xiaoshede_3	15633	xiaoshede_3	A	说这种培训班特别辛苦	13	12,13	Elaboration
+xiaoshede_3	15634	xiaoshede_3	A	数学英语什么的，一上就是两三个小时	14	13,14	Elaboration
+xiaoshede_3	15635	xiaoshede_3	A	还有特别多作业	15	14,15	Parallel
+xiaoshede_3	15636	xiaoshede_3	A	是不是太不人道了	16	13,16	Commentary
+xiaoshede_3	15637	xiaoshede_3	B	我觉得，辛苦嘛，是肯定辛苦的	17	16,17	Commentary
+xiaoshede_3	15638	xiaoshede_3	B	但是没有办法	18	17,18	Contrast
+xiaoshede_3	15639	xiaoshede_3	B	人生干什么事不苦的	19	18,19	Explanation
+xiaoshede_3	15640	xiaoshede_3	B	其实我说实话啊	20	19,20	Alternation
+xiaoshede_3	15641	xiaoshede_3	B	现在小学生的竞争，也很激烈	21	20,21	Elaboration
+xiaoshede_3	15642	xiaoshede_3	B	功课的难度，跟咱们那时候也不能比	22	21,22	Continuation
+xiaoshede_3	15643	xiaoshede_3	B	你们想靠家庭辅导，恐怕不太靠谱	23	22,23	Result
+xiaoshede_3	15644	xiaoshede_3	A	为什么	24	23,24	Continuation
+xiaoshede_3	15645	xiaoshede_3	B	想要得高分	25	26,25	Conditional
+xiaoshede_3	15646	xiaoshede_3	B	除了重复背诵练习，反复刷题	26	24,26	Answer / Question answer pair
+xiaoshede_3	15647	xiaoshede_3	B	还要有老师的，引导和规训	27	26,27	Parallel
+xiaoshede_9	15792	xiaoshede_9	A	钟老师，我这择数是什么地方	1	0,1	<root>
+xiaoshede_9	15793	xiaoshede_9	A	是外面那种草台班子，培训机构吗	2	1,2	Q-elab / Follow-up question
+xiaoshede_9	15794	xiaoshede_9	A	说加一个人就能加一个	3	2,3	Elaboration
+xiaoshede_9	15795	xiaoshede_9	A	这样吧	4	3,4	Alternation
+xiaoshede_9	15796	xiaoshede_9	A	你把金牌班，扩到十二个人	5	4,5	Elaboration
+xiaoshede_9	15797	xiaoshede_9	A	跟别的班一样	6	5,6	Elaboration
+xiaoshede_9	15798	xiaoshede_9	A	课时费我给你双倍	7	6,7	Continuation
+xiaoshede_9	15799	xiaoshede_9	A	这样颜子悠也就进来了	8	7,8	Parallel
+xiaoshede_9	15800	xiaoshede_9	A	好不好	9	8,9	Clarification Q
+xiaoshede_9	15801	xiaoshede_9	B	这又不是钱的事	10	7,10	Contrast
+xiaoshede_9	15802	xiaoshede_9	B	我有钱，我不想挣吗	11	10,11	Continuation
+xiaoshede_9	15803	xiaoshede_9	B	但是你不知道，金牌班为什么好吗	12	11,12	Contrast
+xiaoshede_9	15804	xiaoshede_9	B	我就这么点时间，就这么点精力	13	12,13	Explanation
+xiaoshede_9	15805	xiaoshede_9	B	你让我再加一个	14	13,14	Commentary
+xiaoshede_9	15806	xiaoshede_9	B	我都很难加	15	14,15	Conditional
+xiaoshede_9	15807	xiaoshede_9	B	你加四个给我	16	15,16	Contrast
+xiaoshede_9	15808	xiaoshede_9	B	我怎么教啊	17	16,17	Commentary
+xiaoshede_9	15809	xiaoshede_9	A	可是人家竞赛班，已经十二个人了	18	17,18	Contrast
+xiaoshede_9	15810	xiaoshede_9	A	再加一个人	19	18,19	Result
+xiaoshede_9	15811	xiaoshede_9	A	人家老师好教吗	20	19,20	Conditional
+xiaoshede_9	15812	xiaoshede_9	B	行，收颜子悠可以	21	20,21	Commentary
+xiaoshede_9	15813	xiaoshede_9	B	但是我有个条件	22	21,22	Contrast
+xiaoshede_9	15814	xiaoshede_9	A	说说看	23	22,23	Acknowledgement
+xiaoshede_9	15815	xiaoshede_9	B	颜子悠的家长，必须当着所有老师，还有同学的面	24	22,24	Elaboration
+xiaoshede_9	15816	xiaoshede_9	B	公开地向我赔礼道款	25	24,25	Narration
+xiaoshede_9	15817	xiaoshede_9	B	我的面子，就是择数的面子	26	25,26	Explanation
+xiaoshede_9	15818	xiaoshede_9	B	您说是吗	27	26,27	Clarification Q
+xiaozhangfu_16	15997	xiaozhangfu_16	A	那今天我请你吃饭吧？	1	0,1	<root>
+xiaozhangfu_16	15998	xiaozhangfu_16	A	祝贺你官复原职	2	1,2	Elaboration
+xiaozhangfu_16	15999	xiaozhangfu_16	B	谁请谁都一样	3	1,3	Answer / Question answer pair
+xiaozhangfu_16	16000	xiaozhangfu_16	B	不过，我得跟你提个小的建议	4	3,4	Contrast
+xiaozhangfu_16	16001	xiaozhangfu_16	B	你以后呢，能不能少值点夜班	5	4,5	Elaboration
+xiaozhangfu_16	16002	xiaozhangfu_16	B	这样的话呢	6	5,6	Continuation
+xiaozhangfu_16	16003	xiaozhangfu_16	B	咱们两个人	7	6,7	Conditional
+xiaozhangfu_16	16004	xiaozhangfu_16	B	八小时之外，相处的时间就能多一点	8	7,8	Continuation
+xiaozhangfu_16	16005	xiaozhangfu_16	A	难得今天咱俩都没夜班	9	8,9	Alternation
+xiaozhangfu_16	16006	xiaozhangfu_16	A	干脆喝点酒吧！	10	9,10	Result
+xiaozhangfu_16	16007	xiaozhangfu_16	B	喝酒？	11	10,11	Clarification Q
+xiaozhangfu_16	16008	xiaozhangfu_16	B	行啊	12	11,12	Acknowledgement
+xiaozhangfu_16	16009	xiaozhangfu_16	B	喝红的？	13	11,13	Q-elab / Follow-up question
+xiaozhangfu_16	16010	xiaozhangfu_16	A	白的吧	14	13,14	Answer / Question answer pair
+xiaozhangfu_16	16011	xiaozhangfu_16	A	今儿高兴	15	14,15	Explanation
+xiaozhangfu_16	16012	xiaozhangfu_16	B	白的？	16	14,16	Clarification Q
+xiaozhangfu_16	16013	xiaozhangfu_16	A	服务员，来瓶二锅头	17	15,17	Continuation
+xiaozhangfu_3	16160	xiaozhangfu_3	A	你听我说	1	0,1	<root>
+xiaozhangfu_3	16161	xiaozhangfu_3	A	这件事你绝对不能掺和	2	1,2	Elaboration
+xiaozhangfu_3	16162	xiaozhangfu_3	A	否则就是把我姐，往别人怀里推呀！	3	2,3	Explanation
+xiaozhangfu_3	16163	xiaozhangfu_3	B	我想杀人！	4	3,4	Commentary
+xiaozhangfu_3	16164	xiaozhangfu_3	A	唉，不是，不是姐夫，姐夫	5	4,5	Contrast
+xiaozhangfu_3	16165	xiaozhangfu_3	A	姐夫，你冷静	6	5,6	Commentary
+xiaozhangfu_3	16166	xiaozhangfu_3	A	咱还没弄清楚呢把这事	7	6,7	Explanation
+xiaozhangfu_3	16167	xiaozhangfu_3	B	有什么不清楚的呀！	8	7,8	Commentary
+xiaozhangfu_3	16168	xiaozhangfu_3	B	她都已经开房了	9	8,9	Elaboration
+xiaozhangfu_3	16169	xiaozhangfu_3	B	一个字，离！	10	9,10	Result
+xiaozhangfu_3	16170	xiaozhangfu_3	A	别，姐夫	11	10,11	Commentary
+xiaozhangfu_3	16171	xiaozhangfu_3	A	你看啊，现在这个	12	11,12	Explanation
+xiaozhangfu_3	16172	xiaozhangfu_3	A	这外边诱惑这么多对吧？	13	12,13	Elaboration
+xiaozhangfu_3	16173	xiaozhangfu_3	A	我姐完全有可能是，鬼迷心窍，鬼迷心窍	14	13,14	Result
+xiaozhangfu_3	16174	xiaozhangfu_3	A	你怎么也得给她，再一个机会啊对吧！	15	14,15	Result
+xiaozhangfu_3	16175	xiaozhangfu_3	B	我给她机会	16	17,16	Background
+xiaozhangfu_3	16176	xiaozhangfu_3	B	她给我机会了吗？	17	15,17	Contrast
+xiaozhangfu_3	16177	xiaozhangfu_3	A	姐夫你别冲动	18	17,18	Contrast
+xiaozhangfu_3	16178	xiaozhangfu_3	A	我有个办法，能把我姐带回来	19	18,19	Explanation
+xiaozhangfu_3	16179	xiaozhangfu_3	B	什么办法？	20	19,20	Q-elab / Follow-up question
+xiaozhangfu_3	16180	xiaozhangfu_3	A	时间地点，咱不都知道了吗？	21	22,21	Background
+xiaozhangfu_3	16181	xiaozhangfu_3	A	你放心这事我出面	22	20,22	Answer / Question answer pair
+xiaozhangfu_3	16182	xiaozhangfu_3	A	我就拿一相机	23	22,23	Elaboration
+xiaozhangfu_3	16183	xiaozhangfu_3	A	啪，我就把门踹开	24	23,24	Narration
+xiaozhangfu_3	16184	xiaozhangfu_3	A	然后我就对着他们，咔咔咔，一通儿乱拍	25	24,25	Narration
+xiaozhangfu_3	16185	xiaozhangfu_3	A	然后我就拿这相机，我就拿相机里的照片，威胁我姐	26	25,26	Narration
+xiaozhangfu_3	16186	xiaozhangfu_3	A	让她跟这奸夫一刀两断	27	26,27	Elaboration
+xiaozhangfu_3	16187	xiaozhangfu_3	A	至于那男的	28	27,28	Parallel
+xiaozhangfu_3	16188	xiaozhangfu_3	A	你放心	29	28,29	Commentary
+xiaozhangfu_3	16189	xiaozhangfu_3	A	我找一朋友废了他！	30	28,30	Elaboration
+xiaozhangfu_3	16190	xiaozhangfu_3	B	我跟你一块儿去！	31	30,31	Commentary
+xinlianaishidai_15	16615	xinlianaishidai_15	A	你还这么年轻	1	0,1	<root>
+xinlianaishidai_15	16616	xinlianaishidai_15	A	你妈怎么这么着急	2	1,2	Contrast
+xinlianaishidai_15	16617	xinlianaishidai_15	A	把你嫁出去啊？	3	2,3	Elaboration
+xinlianaishidai_15	16618	xinlianaishidai_15	B	我们家这情况特殊	4	3,4	Explanation
+xinlianaishidai_15	16619	xinlianaishidai_15	B	我跟我男朋友六年了	5	4,5	Elaboration
+xinlianaishidai_15	16620	xinlianaishidai_15	B	人在美国	6	5,6	Contrast
+xinlianaishidai_15	16621	xinlianaishidai_15	B	我妈是怕我跟人跑了	7	6,7	Result
+xinlianaishidai_15	16622	xinlianaishidai_15	B	想在这给我找一个，给我摁这	8	7,8	Result
+xinlianaishidai_15	16623	xinlianaishidai_15	A	那你自己怎么想？	9	8,9	Q-elab / Follow-up question
+xinlianaishidai_15	16624	xinlianaishidai_15	B	那我也不能把老两口扔这不管呀	10	9,10	Answer / Question answer pair
+xinlianaishidai_15	16625	xinlianaishidai_15	B	是不是	11	9,11	Acknowledgement
+xinlianaishidai_15	16626	xinlianaishidai_15	B	我这不纠结呢嘛	12	10,12	Result
+xinlianaishidai_15	16627	xinlianaishidai_15	A	我觉着	13	12,13	Commentary
+xinlianaishidai_15	16628	xinlianaishidai_15	A	你不够坚定	14	1,14	Result
+xinlianaishidai_15	16629	xinlianaishidai_15	A	到底是为了父母	15	14,15	Explanation
+xinlianaishidai_15	16630	xinlianaishidai_15	A	还是有新的风景出现啦？	16	15,16	Alternation
+xinlianaishidai_15	16631	xinlianaishidai_15	B	说实话吧，都沾点边	17	16,17	Answer / Question answer pair
+xueselangman_11	17174	xueselangman_11	A	喂，谁呀？喂？	1	0,1	<root>
+xueselangman_11	17175	xueselangman_11	B	现在是北京时间十点整	2	1,2	Answer / Question answer pair
+xueselangman_11	17176	xueselangman_11	A	讨厌！钟跃民吧！	3	2,3	Commentary
+xueselangman_11	17177	xueselangman_11	A	天天在家等你电话呢！	4	3,4	Elaboration
+xueselangman_11	17178	xueselangman_11	A	钟跃民？	5	4,5	Clarification Q
+xueselangman_11	17179	xueselangman_11	B	你记性真好	6	5,6	Commentary
+xueselangman_11	17180	xueselangman_11	A	等着咱们的煎饼托拉斯开张呢！	7	4,7	Elaboration
+xueselangman_11	17181	xueselangman_11	B	同意跟我一块卖煎饼了？	8	7,8	Clarification Q
+xueselangman_11	17182	xueselangman_11	A	愿意呀！	9	8,9	Commentary
+xueselangman_11	17183	xueselangman_11	B	为什么呀？	10	9,10	Q-elab / Follow-up question
+xueselangman_11	17184	xueselangman_11	A	哎，你把我扇乎起来了，不能没下文了吧	11	10,11	Clarification Q
+xueselangman_11	17185	xueselangman_11	B	我怎么扇乎你了？	12	11,12	Commentary
+xueselangman_11	17186	xueselangman_11	A	托拉斯煎饼出口贸易呀！	13	12,13	Answer / Question answer pair
+yijiarenzhiming_12	17599	yijiarenzhiming_12	A	我看见一个特别好的，话剧剧本	1	0,1	<root>
+yijiarenzhiming_12	17600	yijiarenzhiming_12	B	你想去演戏了？	2	1,2	Q-elab / Follow-up question
+yijiarenzhiming_12	17601	yijiarenzhiming_12	A	你怎么知道？	3	2,3	Q-elab / Follow-up question
+yijiarenzhiming_12	17602	yijiarenzhiming_12	B	你肯定会回去演戏的	4	3,4	Answer / Question answer pair
+yijiarenzhiming_12	17603	yijiarenzhiming_12	B	博物馆你怎么可能，待得住啊	5	4,5	Explanation
+yijiarenzhiming_12	17604	yijiarenzhiming_12	B	只是我没想到，你这么沉不住气呀！	6	5,6	Contrast
+yijiarenzhiming_12	17605	yijiarenzhiming_12	A	庄北有一个朋友，是话剧导演	7	6,7	Contrast
+yijiarenzhiming_12	17606	yijiarenzhiming_12	A	有一个角色，让我去试戏	8	7,8	Continuation
+yijiarenzhiming_12	17607	yijiarenzhiming_12	B	去啊！	9	8,9	Commentary
+yijiarenzhiming_12	17608	yijiarenzhiming_12	B	要是可以的话就去演	10	9,10	Elaboration
+yijiarenzhiming_12	17609	yijiarenzhiming_12	B	要是不行的话	11	10,11	Parallel
+yijiarenzhiming_12	17610	yijiarenzhiming_12	B	那就回去接着工作呗	12	11,12	Conditional
+yijiarenzhiming_12	17611	yijiarenzhiming_12	A	你支持我？	13	12,13	Clarification Q
+yijiarenzhiming_12	17612	yijiarenzhiming_12	A	要是我演不好	14	13,14	Contrast
+yijiarenzhiming_12	17613	yijiarenzhiming_12	A	你不笑话我？	15	14,15	Conditional
+yijiarenzhiming_12	17614	yijiarenzhiming_12	B	我当然支持你了！	16	13,16	Answer / Question answer pair
+yijiarenzhiming_12	17615	yijiarenzhiming_12	B	这是你的梦想啊！	17	16,17	Explanation
+yijiarenzhiming_9	17857	yijiarenzhiming_9	A	二姨，你是不是，缺钱了？	1	0,1	<root>
+yijiarenzhiming_9	17858	yijiarenzhiming_9	B	钱够，够	2	1,2	Answer / Question answer pair
+yijiarenzhiming_9	17859	yijiarenzhiming_9	A	你有什么就说什么嘛	3	2,3	Q-elab / Follow-up question
+yijiarenzhiming_9	17860	yijiarenzhiming_9	B	那，二姨要说了的话	4	3,4	Contrast
+yijiarenzhiming_9	17861	yijiarenzhiming_9	B	你别嫌二姨多嘴	5	4,5	Conditional
+yijiarenzhiming_9	17862	yijiarenzhiming_9	A	不会！	6	5,6	Commentary
+yijiarenzhiming_9	17863	yijiarenzhiming_9	B	前两天呢，你妈妈过来，看你二姨父了	7	3,7	Answer / Question answer pair
+yijiarenzhiming_9	17864	yijiarenzhiming_9	A	奥	8	7,8	Acknowledgement
+yijiarenzhiming_9	17865	yijiarenzhiming_9	A	她过来挺正常的	9	7,9	Commentary
+yijiarenzhiming_9	17866	yijiarenzhiming_9	A	姨父生病了嘛	10	9,10	Explanation
+yijiarenzhiming_9	17867	yijiarenzhiming_9	B	你见过她呀？	11	10,11	Clarification Q
+yijiarenzhiming_9	17868	yijiarenzhiming_9	A	嗯	12	11,12	Answer / Question answer pair
+yijiarenzhiming_9	17869	yijiarenzhiming_9	B	什么时候见的呀？	13	11,13	Q-elab / Follow-up question
+yijiarenzhiming_9	17870	yijiarenzhiming_9	B	你怎么没跟二姨说？	14	13,14	Q-elab / Follow-up question
+yijiarenzhiming_9	17871	yijiarenzhiming_9	A	就没什么好说的	15	14,15	Answer / Question answer pair
+yijiarenzhiming_9	17872	yijiarenzhiming_9	A	就前段时间见了一面	16	17,16	Background
+yijiarenzhiming_9	17873	yijiarenzhiming_9	A	她有了新的家庭了	17	15,17	Elaboration
+yijiarenzhiming_9	17874	yijiarenzhiming_9	A	生了个儿子	18	17,18	Parallel
+yijiarenzhiming_9	17875	yijiarenzhiming_9	A	以后应该，没什么机会再联系了	19	18,19	Result
+yijiarenzhiming_9	17876	yijiarenzhiming_9	B	她结婚了？	20	17,20	Clarification Q
+yijiarenzhiming_9	17877	yijiarenzhiming_9	B	没跟我说呀	21	20,21	Contrast
+yijiarenzhiming_9	17878	yijiarenzhiming_9	A	这有什么好说的呀	22	21,22	Explanation
+yipuerzhu_11	17935	yipuerzhu_11	A	他没对你动真心	1	0,1	<root>
+yipuerzhu_11	17936	yipuerzhu_11	A	我跟你说	2	1,2	Explanation
+yipuerzhu_11	17937	yipuerzhu_11	A	对你动真心就不是这样	3	2,3	Elaboration
+yipuerzhu_11	17938	yipuerzhu_11	A	他能你打电话他不接	4	3,4	Commentary
+yipuerzhu_11	17939	yipuerzhu_11	A	他敢吗？	5	4,5	Elaboration
+yipuerzhu_11	17940	yipuerzhu_11	B	爸，那我怎么才能让他，对我真动心呢？	6	1,6	Result
+yipuerzhu_11	17941	yipuerzhu_11	A	哎呦，你为什么非要让他，对你动真心呢吗！	7	6,7	Commentary
+yipuerzhu_11	17942	yipuerzhu_11	A	我真是不明白，你说你	8	7,8	Commentary
+yipuerzhu_11	17943	yipuerzhu_11	A	哎，你，没人喜欢你啊	9	8,9	Clarification Q
+yipuerzhu_11	17944	yipuerzhu_11	A	你还愁没人喜欢你吗？闺女	10	9,10	Elaboration
+yipuerzhu_11	17945	yipuerzhu_11	B	我就喜欢林西北	11	10,11	Contrast
+yipuerzhu_11	17946	yipuerzhu_11	B	我就要他喜欢我	12	11,12	Result
+yipuerzhu_11	17947	yipuerzhu_11	A	你喜欢他什么？	13	12,13	Q-elab / Follow-up question
+yipuerzhu_11	17948	yipuerzhu_11	A	你跟我说你喜欢他什么，啊？	14	13,14	Elaboration
+yipuerzhu_11	17949	yipuerzhu_11	A	一个让你哭的男人，那就不是真爱	15	14,15	Commentary
+yipuerzhu_11	17950	yipuerzhu_11	B	我觉得只有真爱才会哭	16	15,16	Contrast
+yipuerzhu_11	17951	yipuerzhu_11	A	我说你这都是什么逻辑嘛！啊？	17	16,17	Commentary
+yipuerzhu_11	17952	yipuerzhu_11	A	哎，你，你想想	18	17,18	Alternation
+yipuerzhu_11	17953	yipuerzhu_11	A	你好好走得好好的	19	18,19	Elaboration
+yipuerzhu_11	17954	yipuerzhu_11	A	突然一个大石头，绊了你一个大跟头	20	19,20	Conditional
+yipuerzhu_11	17955	yipuerzhu_11	A	你非说这石头是你最爱	21	20,21	Contrast
+yipuerzhu_11	17956	yipuerzhu_11	A	因为它让你疼，让你哭了	22	21,22	Explanation
+yipuerzhu_11	17957	yipuerzhu_11	A	这莫名其妙嘛，你	23	22,23	Commentary
+yipuerzhu_17	18104	yipuerzhu_17	A	都不乐意，在你们同学面前喊我爸	1	0,1	<root>
+yipuerzhu_17	18105	yipuerzhu_17	A	是怕他们知道，你爸就是一司机	2	1,2	Explanation
+yipuerzhu_17	18106	yipuerzhu_17	B	没有	3	2,3	Commentary
+yipuerzhu_17	18107	yipuerzhu_17	B	爸，我那都是	4	1,4	Commentary
+yipuerzhu_17	18108	yipuerzhu_17	B	我虚荣，不懂事	5	4,5	Elaboration
+yipuerzhu_17	18109	yipuerzhu_17	B	你别生我气了	6	5,6	Result
+yipuerzhu_17	18110	yipuerzhu_17	A	爸没生你气	7	6,7	Commentary
+yipuerzhu_17	18111	yipuerzhu_17	A	爸能理解	8	7,8	Explanation
+yipuerzhu_17	18112	yipuerzhu_17	A	爸这一辈子本本分分的	9	8,9	Alternation
+yipuerzhu_17	18113	yipuerzhu_17	A	虽说没什么大本事	10	9,10	Continuation
+yipuerzhu_17	18114	yipuerzhu_17	A	但也没亏过心，是吧？	11	10,11	Contrast
+yipuerzhu_17	18115	yipuerzhu_17	B	爸，我以为，我以前都特别不懂事	12	5,12	Elaboration
+yipuerzhu_17	18116	yipuerzhu_17	B	我以后不会这样了	13	12,13	Contrast
+yipuerzhu_17	18117	yipuerzhu_17	B	我以为你烦我了	14	13,14	Explanation
+yipuerzhu_17	18118	yipuerzhu_17	B	不想要我，想让我走呢？	15	14,15	Parallel
+yipuerzhu_17	18119	yipuerzhu_17	A	哭啥呀，哭啥呀	16	15,16	Commentary
+yipuerzhu_17	18120	yipuerzhu_17	A	爸怎么会烦你呢？	17	15,17	Commentary
+yiqitongguochuang_1	18357	yiqitongguochuang_1	A	不是没有跟路桥川在一起吗？	1	0,1	<root>
+yiqitongguochuang_1	18358	yiqitongguochuang_1	B	是啊	2	1,2	Answer / Question answer pair
+yiqitongguochuang_1	18359	yiqitongguochuang_1	B	怎么了？	3	2,3	Q-elab / Follow-up question
+yiqitongguochuang_1	18360	yiqitongguochuang_1	A	那，你为什么不给我一次机会啊？	4	3,4	Q-elab / Follow-up question
+yiqitongguochuang_1	18361	yiqitongguochuang_1	B	我每天都给你送笔记	5	4,5	Contrast
+yiqitongguochuang_1	18362	yiqitongguochuang_1	B	难道对你不够好吗？	6	5,6	Commentary
+yiqitongguochuang_1	18363	yiqitongguochuang_1	A	你给我送笔记的原因	7	5,7	Continuation
+yiqitongguochuang_1	18364	yiqitongguochuang_1	A	你自己心里清楚啊	8	7,8	Elaboration
+yiqitongguochuang_1	18365	yiqitongguochuang_1	B	跟女孩子说话，态度不要这么强硬	9	8,9	Commentary
+yiqitongguochuang_1	18366	yiqitongguochuang_1	A	你给我送笔记，不就是怕我去学校，找路桥川麻烦吗？	10	7,10	Elaboration
+yiqitongguochuang_1	18367	yiqitongguochuang_1	B	那你会吗？	11	10,11	Clarification Q
+yiqitongguochuang_1	18368	yiqitongguochuang_1	A	不是你喜欢他什么呀？	12	11,12	Q-elab / Follow-up question
+yiqitongguochuang_1	18369	yiqitongguochuang_1	A	我也可以呀	13	12,13	Answer / Question answer pair
+yiqitongguochuang_1	18370	yiqitongguochuang_1	B	农家乐是我订的，跟路桥川没有关系	14	13,14	Alternation
+yiqitongguochuang_1	18371	yiqitongguochuang_1	B	你要是想怪怪我好了	15	14,15	Result
+yiqitongguochuang_14	18455	yiqitongguochuang_14	A	我觉得，我最近把身边的人，都得罪光了	1	0,1	<root>
+yiqitongguochuang_14	18456	yiqitongguochuang_14	B	估计，包括钟白吧	2	1,2	Elaboration
+yiqitongguochuang_14	18457	yiqitongguochuang_14	A	算是吧	3	2,3	Answer / Question answer pair
+yiqitongguochuang_14	18458	yiqitongguochuang_14	A	你觉得，我现在狂妄自大吗？	4	3,4	Clarification Q
+yiqitongguochuang_14	18459	yiqitongguochuang_14	B	为什么突然问这个？	5	4,5	Q-elab / Follow-up question
+yiqitongguochuang_14	18460	yiqitongguochuang_14	A	今天有人这么说	6	5,6	Answer / Question answer pair
+yiqitongguochuang_14	18461	yiqitongguochuang_14	B	终于有人骂你了	7	6,7	Continuation
+yiqitongguochuang_14	18462	yiqitongguochuang_14	B	谁啊？	8	7,8	Q-elab / Follow-up question
+yiqitongguochuang_14	18463	yiqitongguochuang_14	A	林洛雪	9	10,9	Background
+yiqitongguochuang_14	18464	yiqitongguochuang_14	B	突然，没有那么烦你的红颜知己了	10	8,10	Answer / Question answer pair
+yiqitongguochuang_14	18465	yiqitongguochuang_14	A	她有男朋友了	11	10,11	Alternation
+yiqitongguochuang_14	18466	yiqitongguochuang_14	B	这有什么关系	12	11,12	Commentary
+yiqitongguochuang_14	18467	yiqitongguochuang_14	B	结婚之前都是扯淡	13	12,13	Explanation
+yueguangbianzouqu_11	18843	yueguangbianzouqu_11	A	你也喜欢这本书	1	0,1	<root>
+yueguangbianzouqu_11	18844	yueguangbianzouqu_11	B	喜欢	2	1,2	Answer / Question answer pair
+yueguangbianzouqu_11	18845	yueguangbianzouqu_11	A	为什么喜欢	3	2,3	Q-elab / Follow-up question
+yueguangbianzouqu_11	18846	yueguangbianzouqu_11	B	它明明是一本推理小说	4	3,4	Answer / Question answer pair
+yueguangbianzouqu_11	18847	yueguangbianzouqu_11	B	却不会让我只专注于推理	5	4,5	Contrast
+yueguangbianzouqu_11	18848	yueguangbianzouqu_11	B	而是更想去，看到这些人物后面，会产生什么样的交集	6	5,6	Elaboration
+yueguangbianzouqu_11	18849	yueguangbianzouqu_11	B	这真是雷蒙德的魅力	7	6,7	Commentary
+yueguangbianzouqu_11	18850	yueguangbianzouqu_11	A	我也喜欢这本书	8	2,8	Commentary
+yueguangbianzouqu_11	18851	yueguangbianzouqu_11	A	因为他的每一个出场人物，都有一个属于他自身的故事	9	8,9	Explanation
+yueguangbianzouqu_11	18852	yueguangbianzouqu_11	A	而且他写作吧，还有一个特点	10	9,10	Parallel
+yueguangbianzouqu_11	18853	yueguangbianzouqu_11	A	就是他可以用非常精准，简练的词语	11	12,11	Background
+yueguangbianzouqu_11	18854	yueguangbianzouqu_11	A	描绘出每一个人，内心深处的东西	12	10,12	Elaboration
+yueguangbianzouqu_11	18855	yueguangbianzouqu_11	A	非常饱满	13	12,13	Commentary
+yueguangbianzouqu_11	18856	yueguangbianzouqu_11	A	如果我的小说	14	12,14	Commentary
+yueguangbianzouqu_11	18857	yueguangbianzouqu_11	A	能有他写得这么好就好了	15	14,15	Conditional
+yueguangbianzouqu_11	18858	yueguangbianzouqu_11	B	你是作家？	16	15,16	Clarification Q
+yueguangbianzouqu_11	18859	yueguangbianzouqu_11	A	对啊！	17	16,17	Answer / Question answer pair
+yueguangbianzouqu_11	18860	yueguangbianzouqu_11	A	我写作的风格也比较偏向于，推理悬疑这一类的	18	17,18	Elaboration
+yueguangbianzouqu_11	18861	yueguangbianzouqu_11	B	我是编辑	19	16,19	Parallel
+yueguangbianzouqu_11	18862	yueguangbianzouqu_11	A	真的？	20	19,20	Clarification Q
+yueguangbianzouqu_11	18863	yueguangbianzouqu_11	B	没错！	21	20,21	Answer / Question answer pair
+yueguangbianzouqu_11	18864	yueguangbianzouqu_11	B	你如果不介意的话	22	21,22	Result
+yueguangbianzouqu_11	18865	yueguangbianzouqu_11	B	可以把你的小说给我看看	23	22,23	Conditional
+yueguangbianzouqu_11	18866	yueguangbianzouqu_11	A	好啊！	24	23,24	Acknowledgement
+yueguangbianzouqu_11	18867	yueguangbianzouqu_11	A	我叫江与诚	25	24,25	Elaboration
+yueguangbianzouqu_11	18868	yueguangbianzouqu_11	B	顾白芷	26	25,26	Parallel
+yueguangbianzouqu_12	18876	yueguangbianzouqu_12	A	老师，我要去编辑部了	1	0,1	<root>
+yueguangbianzouqu_12	18877	yueguangbianzouqu_12	B	今天不是周末吗？	2	1,2	Contrast
+yueguangbianzouqu_12	18878	yueguangbianzouqu_12	B	你怎么还要去上班啊	3	2,3	Q-elab / Follow-up question
+yueguangbianzouqu_12	18879	yueguangbianzouqu_12	A	没办法，发行部要求	4	3,4	Explanation
+yueguangbianzouqu_12	18880	yueguangbianzouqu_12	A	明天就要看到洛河神书，网络预售的宣传长图	5	4,5	Elaboration
+yueguangbianzouqu_12	18881	yueguangbianzouqu_12	A	我和阿象今天晚上，估计又要通宵加班了	6	5,6	Result
+yueguangbianzouqu_12	18882	yueguangbianzouqu_12	B	这么拼干嘛呀！	7	6,7	Commentary
+yueguangbianzouqu_12	18883	yueguangbianzouqu_12	B	又不给你发加班费	8	7,8	Explanation
+yueguangbianzouqu_12	18884	yueguangbianzouqu_12	A	大哥我这都是为了谁	9	8,9	Commentary
+yueguangbianzouqu_12	18885	yueguangbianzouqu_12	B	不是为了你自己吗？	10	9,10	Commentary
+yueguangbianzouqu_12	18886	yueguangbianzouqu_12	A	我是为了某个不知好歹，别人替他加班	11	10,11	Commentary
+yueguangbianzouqu_12	18887	yueguangbianzouqu_12	A	还要在那边，说风凉话的白眼狼	12	11,12	Contrast
+yueguangbianzouqu_12	18888	yueguangbianzouqu_12	B	你说谁白眼狼	13	12,13	Clarification Q
+yueguangbianzouqu_12	18889	yueguangbianzouqu_12	A	我什么都没说，我先走了	14	13,14	Alternation
+yueguangbianzouqu_19	18967	yueguangbianzouqu_19	A	家里还有人呢	1	0,1	<root>
+yueguangbianzouqu_19	18968	yueguangbianzouqu_19	A	我还是在外面，逛一会儿再回去吧	2	1,2	Result
+yueguangbianzouqu_19	18969	yueguangbianzouqu_19	B	她呆两个小时	3	2,3	Contrast
+yueguangbianzouqu_19	18970	yueguangbianzouqu_19	B	你打算在外面，吹两个小时西北风啊	4	3,4	Clarification Q
+yueguangbianzouqu_19	18971	yueguangbianzouqu_19	A	两个小时？	5	4,5	Clarification Q
+yueguangbianzouqu_19	18972	yueguangbianzouqu_19	A	她为什么要在家里呆两个小时？	6	3,6	Commentary
+yueguangbianzouqu_19	18973	yueguangbianzouqu_19	A	那么久？	7	6,7	Elaboration
+yueguangbianzouqu_19	18974	yueguangbianzouqu_19	A	难不成还要留下来吃宵夜	8	7,8	Commentary
+yueguangbianzouqu_19	18975	yueguangbianzouqu_19	B	我那只是个比喻	9	5,9	Commentary
+yueguangbianzouqu_19	18976	yueguangbianzouqu_19	B	比喻懂不懂！	10	9,10	Elaboration
+yueguangbianzouqu_19	18977	yueguangbianzouqu_19	A	我还是找一个能坐的地方	11	6,11	Result
+yueguangbianzouqu_19	18978	yueguangbianzouqu_19	A	待一会儿再回去吧	12	11,12	Continuation
+yueguangbianzouqu_19	18979	yueguangbianzouqu_19	A	等顾总监走了	13	12,13	Narration
+yueguangbianzouqu_19	18980	yueguangbianzouqu_19	A	你再发消息给我	14	13,14	Conditional
+yueguangbianzouqu_2	18983	yueguangbianzouqu_2	A	我今天见着那个网友了	1	0,1	<root>
+yueguangbianzouqu_2	18984	yueguangbianzouqu_2	B	网友？	2	1,2	Clarification Q
+yueguangbianzouqu_2	18985	yueguangbianzouqu_2	B	就是那个在网上认识了三年	3	2,3	Elaboration
+yueguangbianzouqu_2	18986	yueguangbianzouqu_2	B	每天都在吵架	4	3,4	Continuation
+yueguangbianzouqu_2	18987	yueguangbianzouqu_2	B	怎么吵都吵不散	5	4,5	Contrast
+yueguangbianzouqu_2	18988	yueguangbianzouqu_2	B	像在谈恋爱那个网友	6	5,6	Elaboration
+yueguangbianzouqu_2	18989	yueguangbianzouqu_2	A	没谈恋爱	7	6,7	Commentary
+yueguangbianzouqu_2	18990	yueguangbianzouqu_2	A	我俩是纯洁的网友关系	8	7,8	Elaboration
+yueguangbianzouqu_2	18991	yueguangbianzouqu_2	B	是	9	8,9	Acknowledgement
+yueguangbianzouqu_2	18992	yueguangbianzouqu_2	B	纯洁的网友关系	10	8,10	Elaboration
+yueguangbianzouqu_2	18993	yueguangbianzouqu_2	B	每天抱着手机在那傻笑	11	10,11	Contrast
+yueguangbianzouqu_2	18994	yueguangbianzouqu_2	B	太纯洁了	12	11,12	Commentary
+yueguangbianzouqu_2	18995	yueguangbianzouqu_2	B	怎么？	13	12,13	Clarification Q
+yueguangbianzouqu_2	18996	yueguangbianzouqu_2	B	今天见网友，见光死	14	13,14	Q-elab / Follow-up question
+yueguangbianzouqu_2	18997	yueguangbianzouqu_2	A	没有	15	13,15	Answer / Question answer pair
+yueguangbianzouqu_2	18998	yueguangbianzouqu_2	A	就是，怎么说呢	16	15,16	Contrast
+yueguangbianzouqu_2	18999	yueguangbianzouqu_2	A	就这样那样的各种巧合	17	16,17	Elaboration
+yueguangbianzouqu_2	19000	yueguangbianzouqu_2	A	她现在是我的编辑	18	17,18	Narration
+yueguangbianzouqu_2	19001	yueguangbianzouqu_2	A	她今天早上拿着包子，然后跑到我家	19	18,19	Narration
+yueguangbianzouqu_2	19002	yueguangbianzouqu_2	A	然后让我签一个保底印数才四万，版税才九个点的出版合同	20	19,20	Narration
+yueguangbianzouqu_2	19003	yueguangbianzouqu_2	A	重点是，我态度很恶劣地就把她给赶走了	21	20,21	Continuation
+yueguangbianzouqu_2	19004	yueguangbianzouqu_2	A	赶走了	22	21,22	Elaboration
+yueguangbianzouqu_2	19005	yueguangbianzouqu_2	B	那反正她也不知道你就是狐狸君	23	22,23	Contrast
+yueguangbianzouqu_2	19006	yueguangbianzouqu_2	B	你慌什么？	24	23,24	Result
+yueguangbianzouqu_2	19007	yueguangbianzouqu_2	A	能不慌吗！	25	24,25	Commentary
+yueguangbianzouqu_2	19008	yueguangbianzouqu_2	A	我今天这么不顾情面地，把她给赶走了	26	25,26	Explanation
+yueguangbianzouqu_2	19009	yueguangbianzouqu_2	A	然后到时候万一她知道真相了	27	26,27	Result
+yueguangbianzouqu_2	19010	yueguangbianzouqu_2	A	然后恶向胆边生出一本，扒一扒那些年你们，爱过的温润如玉公子川	28	27,28	Narration
+yueguangbianzouqu_2	19011	yueguangbianzouqu_2	A	然后，荣登各大书站网站的畅销榜榜首	29	28,29	Narration
+yueguangbianzouqu_2	19012	yueguangbianzouqu_2	A	那我，哎	30	29,30	Commentary
+yueguangbianzouqu_2	19013	yueguangbianzouqu_2	A	你笑什么	31	30,31	Alternation
+yueguangbianzouqu_2	19014	yueguangbianzouqu_2	A	我现在该怎么办？	32	30,32	Elaboration
+yueguangbianzouqu_2	19015	yueguangbianzouqu_2	B	什么怎么办！	33	31,33	Continuation
+yueguangbianzouqu_2	19016	yueguangbianzouqu_2	B	你签了吧！	34	32,34	Answer / Question answer pair
+yueguangbianzouqu_2	19017	yueguangbianzouqu_2	A	四万的保底印数你签啊！	35	34,35	Commentary
+yueguangbianzouqu_2	19018	yueguangbianzouqu_2	A	说的是人话？	36	35,36	Commentary
+yueguangbianzouqu_2	19019	yueguangbianzouqu_2	B	现在这个行情	37	38,37	Background
+yueguangbianzouqu_2	19020	yueguangbianzouqu_2	B	出版公司给你这个数，已经很不错了	38	36,38	Explanation
+yueguangbianzouqu_2	19021	yueguangbianzouqu_2	B	只要你能卖出去	39	38,39	Continuation
+yueguangbianzouqu_2	19022	yueguangbianzouqu_2	B	再加上版税	40	39,40	Conditional
+yueguangbianzouqu_2	19023	yueguangbianzouqu_2	B	再加印	41	40,41	Narration
+yueguangbianzouqu_2	19024	yueguangbianzouqu_2	B	少不了你的版税啊	42	41,42	Result
+yujianwanglichuan_14	19281	yujianwanglichuan_14	A	我来是想给你温馨提醒一下	1	0,1	<root>
+yujianwanglichuan_14	19282	yujianwanglichuan_14	A	明天就是我的婚礼	2	1,2	Elaboration
+yujianwanglichuan_14	19283	yujianwanglichuan_14	A	你必须来参加！	3	2,3	Result
+yujianwanglichuan_14	19284	yujianwanglichuan_14	B	不去！	4	3,4	Commentary
+yujianwanglichuan_14	19285	yujianwanglichuan_14	A	萧观！虽然这些年我们一直打打闹闹	5	4,5	Continuation
+yujianwanglichuan_14	19286	yujianwanglichuan_14	A	可是你毕竟跟我还是最亲近的人	6	5,6	Contrast
+yujianwanglichuan_14	19287	yujianwanglichuan_14	A	我爸妈来不来我都无所谓	7	6,7	Result
+yujianwanglichuan_14	19288	yujianwanglichuan_14	A	但是你必须来参加	8	7,8	Conditional
+yujianwanglichuan_14	19289	yujianwanglichuan_14	A	我一定要得到你的祝福	9	8,9	Explanation
+yujianwanglichuan_14	19290	yujianwanglichuan_14	B	不！	10	9,10	Commentary
+yujianwanglichuan_14	19291	yujianwanglichuan_14	B	拜托你是嫁给那个男的	11	10,11	Continuation
+yujianwanglichuan_14	19292	yujianwanglichuan_14	B	我可不想见证一场悲剧的诞生	12	11,12	Result
+yujianwanglichuan_14	19293	yujianwanglichuan_14	A	萧观真的如果你不来	13	10,13	Contrast
+yujianwanglichuan_14	19294	yujianwanglichuan_14	A	我的心里面根本就不踏实	14	13,14	Conditional
+yujianwanglichuan_14	19295	yujianwanglichuan_14	B	你也知道不踏实啊	15	14,15	Commentary
+yujianwanglichuan_14	19296	yujianwanglichuan_14	B	你不相信我的道理就算了	16	15,16	Alternation
+yujianwanglichuan_14	19297	yujianwanglichuan_14	B	你也应该相信，你自己内心的声音哪	17	16,17	Contrast
+yujianwanglichuan_14	19298	yujianwanglichuan_14	B	我真是受够你了！	18	17,18	Commentary
+yujianwanglichuan_14	19299	yujianwanglichuan_14	B	拿着	19	18,19	Continuation
+yujianwanglichuan_14	19300	yujianwanglichuan_14	A	萧观！你是见不得我得到幸福对吧	20	19,20	Continuation
+yujianwanglichuan_14	19301	yujianwanglichuan_14	A	你真的很过分哎	21	20,21	Commentary
+yujianwanglichuan_14	19302	yujianwanglichuan_14	B	我我见不得你得幸福	22	20,22	Clarification Q
+yujianwanglichuan_14	19303	yujianwanglichuan_14	B	艾玛我曾经就是你的幸福	23	21,23	Continuation
+yujianwanglichuan_14	19304	yujianwanglichuan_14	B	是你放弃了	24	23,24	Contrast
+yujianwanglichuan_14	19305	yujianwanglichuan_14	B	好你放弃就算了	25	24,25	Alternation
+yujianwanglichuan_14	19306	yujianwanglichuan_14	B	我现在好心劝你你也不听	26	25,26	Narration
+yujianwanglichuan_14	19307	yujianwanglichuan_14	B	好那我们就自求多福	27	26,27	Result
+yujianwanglichuan_14	19308	yujianwanglichuan_14	B	你后悔了不要来找我	28	27,28	Parallel
+yujianwanglichuan_18	19354	yujianwanglichuan_18	A	沥川是我	1	0,1	<root>
+yujianwanglichuan_18	19355	yujianwanglichuan_18	B	小秋	2	1,2	Clarification Q
+yujianwanglichuan_18	19356	yujianwanglichuan_18	A	沥川你怎么了？	3	2,3	Continuation
+yujianwanglichuan_18	19357	yujianwanglichuan_18	A	你是不是病了？	4	3,4	Q-elab / Follow-up question
+yujianwanglichuan_18	19358	yujianwanglichuan_18	A	你不要骗我，这里肯定是医院！	5	4,5	Commentary
+yujianwanglichuan_18	19359	yujianwanglichuan_18	B	急性肺炎	6	4,6	Answer / Question answer pair
+yujianwanglichuan_18	19360	yujianwanglichuan_18	B	不过已经好多了	7	6,7	Contrast
+yujianwanglichuan_18	19361	yujianwanglichuan_18	A	对不起	8	6,8	Commentary
+yujianwanglichuan_18	19362	yujianwanglichuan_18	A	肯定是因为那天淋了雨	9	8,9	Explanation
+yujianwanglichuan_18	19363	yujianwanglichuan_18	A	对不起，沥川	10	9,10	Elaboration
+yujianwanglichuan_18	19364	yujianwanglichuan_18	B	你别胡说	11	10,11	Commentary
+yujianwanglichuan_18	19365	yujianwanglichuan_18	B	跟下雨没关系	12	11,12	Elaboration
+yujianwanglichuan_18	19366	yujianwanglichuan_18	A	那你什么时候回来啊？	13	12,13	Alternation
+yujianwanglichuan_18	19367	yujianwanglichuan_18	A	沥川你要赶紧好起来	14	13,14	Continuation
+yujianwanglichuan_18	19368	yujianwanglichuan_18	A	好起来了以后，你要赶紧回来	15	14,15	Elaboration
+yujianwanglichuan_18	19369	yujianwanglichuan_18	A	听到没有	16	15,16	Elaboration
+yujianwanglichuan_18	19370	yujianwanglichuan_18	A	你要是不回来的话，我告诉你	17	16,17	Continuation
+yujianwanglichuan_18	19371	yujianwanglichuan_18	A	我就去苏黎世贴寻人启事	18	17,18	Conditional
+yujianwanglichuan_18	19372	yujianwanglichuan_18	B	我会回来的	19	15,19	Answer / Question answer pair
+yujianwanglichuan_18	19373	yujianwanglichuan_18	B	我给你带巧克力	20	19,20	Continuation
+yujianwanglichuan_18	19374	yujianwanglichuan_18	A	我爱你	21	20,21	Continuation
+yujianwanglichuan_7	19458	yujianwanglichuan_7	A	为什么你从沥川房里出来呢？	1	0,1	<root>
+yujianwanglichuan_7	19459	yujianwanglichuan_7	B	我给那个王总送一份资料	2	1,2	Answer / Question answer pair
+yujianwanglichuan_7	19460	yujianwanglichuan_7	A	什么资料	3	2,3	Q-elab / Follow-up question
+yujianwanglichuan_7	19461	yujianwanglichuan_7	B	古古代的	4	3,4	Answer / Question answer pair
+yujianwanglichuan_7	19462	yujianwanglichuan_7	A	一大早的头也不梳脸也不洗的	5	6,5	Background
+yujianwanglichuan_7	19463	yujianwanglichuan_7	A	就来他房间送资料啊	6	4,6	Q-elab / Follow-up question
+yujianwanglichuan_7	19464	yujianwanglichuan_7	B	因为因为要得很急	7	6,7	Explanation
+yujianwanglichuan_7	19465	yujianwanglichuan_7	B	我刚起床所以没有来得及	8	7,8	Elaboration
+yujianwanglichuan_7	19466	yujianwanglichuan_7	A	是吗	9	8,9	Clarification Q
+yujianwanglichuan_7	19467	yujianwanglichuan_7	B	不好意思我还有点事情	10	9,10	Alternation
+yujianwanglichuan_7	19468	yujianwanglichuan_7	B	再见	11	10,11	Result
+zhengfu_6	19748	zhengfu_6	A	喂，是我	1	0,1	<root>
+zhengfu_6	19749	zhengfu_6	B	什么事儿？	2	1,2	Clarification Q
+zhengfu_6	19750	zhengfu_6	A	我想跟你们见面	3	2,3	Answer / Question answer pair
+zhengfu_6	19751	zhengfu_6	B	能说说理由吗？	4	3,4	Q-elab / Follow-up question
+zhengfu_6	19752	zhengfu_6	A	你不需要帮助吗？	5	4,5	Q-elab / Follow-up question
+zhengfu_6	19753	zhengfu_6	B	你什么意思	6	5,6	Answer / Question answer pair
+zhengfu_6	19754	zhengfu_6	A	你们还在衡州吗？	7	5,7	Q-elab / Follow-up question
+zhengfu_6	19755	zhengfu_6	B	你说呢	8	7,8	Answer / Question answer pair
+zhengfu_6	19756	zhengfu_6	A	这样，下午三点，我们在五七路的果园见面	9	8,9	Continuation
+zhengfu_6	19757	zhengfu_6	A	我断定不出三天	10	9,10	Explanation
+zhengfu_6	19758	zhengfu_6	A	警方就会把矛头对准你	11	10,11	Elaboration
+zhengfu_6	19759	zhengfu_6	A	当然也就会知道，这一次你想干什么	12	11,12	Result
+zhengfu_6	19760	zhengfu_6	A	那时候你可就不好下手了	13	12,13	Result
+zhengyangmenxia_17	20000	zhengyangmenxia_17	A	别费心思了，我想好了	1	0,1	<root>
+zhengyangmenxia_17	20001	zhengyangmenxia_17	A	咱们怎么进来的，让它怎么出去，好吧？	2	1,2	Elaboration
+zhengyangmenxia_17	20002	zhengyangmenxia_17	B	不行啊，伤天害理的事我可不干	3	2,3	Answer / Question answer pair
+zhengyangmenxia_17	20003	zhengyangmenxia_17	A	那别人坑咱们呀！	4	3,4	Commentary
+zhengyangmenxia_17	20004	zhengyangmenxia_17	B	那是咱们傻咱们没本事	5	4,5	Commentary
+zhengyangmenxia_17	20005	zhengyangmenxia_17	A	咱们买进来，不就是为了卖出去，让流动资金转起来吗？	6	5,6	Clarification Q
+zhengyangmenxia_17	20006	zhengyangmenxia_17	A	你这样一来咱们生意怎么做呀？	7	6,7	Q-elab / Follow-up question
+zhengyangmenxia_17	20007	zhengyangmenxia_17	B	生意我不做了	8	7,8	Answer / Question answer pair
+zhengyangmenxia_17	20008	zhengyangmenxia_17	B	我也不能干这伤天害理的事	9	10,9	Background
+zhengyangmenxia_17	20009	zhengyangmenxia_17	A	我可是你大舅啊！	10	8,10	Parallel
+zhengyangmenxia_17	20010	zhengyangmenxia_17	A	我还是公司董事长呢	11	10,11	Parallel
+zhengyangmenxia_17	20011	zhengyangmenxia_17	B	正因为是这样	12	11,12	Continuation
+zhengyangmenxia_17	20012	zhengyangmenxia_17	B	我才不能让你去坑别人	13	12,13	Result
+zhengyangmenxia_17	20013	zhengyangmenxia_17	A	可别人坑咱们呀	14	13,14	Contrast
+zhengyangmenxia_17	20014	zhengyangmenxia_17	B	是，人家把咱们坑了	15	14,15	Elaboration
+zhengyangmenxia_17	20015	zhengyangmenxia_17	B	咱反过头再去坑别人	16	15,16	Contrast
+zhengyangmenxia_17	20016	zhengyangmenxia_17	B	这样没完没了什么时候是个头啊	17	16,17	Commentary
+zhengyangmenxia_17	20017	zhengyangmenxia_17	B	这不是伤天害理这是什么呀？	18	17,18	Clarification Q
+zhengyangmenxia_17	20018	zhengyangmenxia_17	A	我们可以认为我，我们不知道那是赝品	19	18,19	Alternation
+zhengyangmenxia_17	20019	zhengyangmenxia_17	B	可咱现在不是已经知道了吗？	20	19,20	Contrast
+zhengyangmenxia_17	20020	zhengyangmenxia_17	A	韩春明就那么神吗？	21	20,21	Q-elab / Follow-up question
+zhengyangmenxia_17	20021	zhengyangmenxia_17	B	那您要不信，您自己找专家去	22	21,22	Answer / Question answer pair
+zhengyangmenxia_17	20022	zhengyangmenxia_17	B	您让专家给您鉴定，行不行？	23	21,23	Q-elab / Follow-up question
+zhengyangmenxia_17	20023	zhengyangmenxia_17	A	我不想跟你多说了	24	23,24	Answer / Question answer pair
+zhengyangmenxia_17	20024	zhengyangmenxia_17	A	这事必须我做决定	25	24,25	Elaboration
+zhengyangmenxia_17	20025	zhengyangmenxia_17	B	不行，这个决定你还就做不了了	26	25,26	Commentary
+zhengyangmenxia_17	20026	zhengyangmenxia_17	A	我自个拿去	27	26,27	Elaboration
+zhengyangmenxia_17	20027	zhengyangmenxia_17	B	东西我收起来了	28	27,28	Contrast
+zhengyangmenxia_17	20028	zhengyangmenxia_17	A	我去找你妈拿去	29	28,29	Elaboration
+zhengyangmenxia_17	20029	zhengyangmenxia_17	A	就当你不知道这事	30	29,30	Elaboration
+zhengyangmenxia_17	20030	zhengyangmenxia_17	B	您别啊	31	30,31	Commentary
+zhengyangmenxia_17	20031	zhengyangmenxia_17	B	这事你要敢让我爸我妈知道	32	31,32	Elaboration
+zhengyangmenxia_17	20032	zhengyangmenxia_17	B	你信不信我把东西全都砸了	33	32,33	Conditional
+zhiwomendanchundexiaomeihao_10	20280	zhiwomendanchundexiaomeihao_10	A	真打算去清华学数学了呀？	1	0,1	<root>
+zhiwomendanchundexiaomeihao_10	20281	zhiwomendanchundexiaomeihao_10	A	小希那天在我这哀豪了半天	2	1,2	Background
+zhiwomendanchundexiaomeihao_10	20282	zhiwomendanchundexiaomeihao_10	A	说考不上北京的学校	3	2,3	Continuation
+zhiwomendanchundexiaomeihao_10	20283	zhiwomendanchundexiaomeihao_10	B	不去了	4	1,4	Answer / Question answer pair
+zhiwomendanchundexiaomeihao_10	20284	zhiwomendanchundexiaomeihao_10	A	不去啦？	5	4,5	Clarification Q
+zhiwomendanchundexiaomeihao_10	20285	zhiwomendanchundexiaomeihao_10	A	真为了小希呀？	6	5,6	Q-elab / Follow-up question
+zhiwomendanchundexiaomeihao_10	20286	zhiwomendanchundexiaomeihao_10	B	我想学医	7	6,7	Answer / Question answer pair
+zhiwomendanchundexiaomeihao_10	20287	zhiwomendanchundexiaomeihao_10	B	也想留在她身边	8	7,8	Parallel
+zhiwomendanchundexiaomeihao_10	20288	zhiwomendanchundexiaomeihao_10	A	我靠？我刚刚没听错吧？	9	8,9	Clarification Q
+zhiwomendanchundexiaomeihao_10	20289	zhiwomendanchundexiaomeihao_10	B	应该是听错了	10	9,10	Answer / Question answer pair
+zhiwomendanchundexiaomeihao_10	20290	zhiwomendanchundexiaomeihao_10	A	你们真好	11	10,11	Commentary
+zhiwomendanchundexiaomeihao_10	20291	zhiwomendanchundexiaomeihao_10	A	毕业以后就在一起了吧？	12	11,12	Clarification Q
+zhiwomendanchundexiaomeihao_10	20292	zhiwomendanchundexiaomeihao_10	B	羡慕的话就别躲着林静晓	13	12,13	Commentary
+zhiwomendanchundexiaomeihao_10	20293	zhiwomendanchundexiaomeihao_10	B	我看她最近挺难过的	14	13,14	Commentary
+zhiwomendanchundexiaomeihao_10	20294	zhiwomendanchundexiaomeihao_10	A	你说我是不是挺混蛋的？	15	14,15	Clarification Q
+zhiwomendanchundexiaomeihao_10	20295	zhiwomendanchundexiaomeihao_10	A	以前老围着人家跑	16	15,16	Background
+zhiwomendanchundexiaomeihao_10	20296	zhiwomendanchundexiaomeihao_10	A	现在我又	17	16,17	Alternation
+zhiwomendanchundexiaomeihao_10	20297	zhiwomendanchundexiaomeihao_10	A	不过	18	17,18	Contrast
+zhiwomendanchundexiaomeihao_10	20298	zhiwomendanchundexiaomeihao_10	A	我真怕以后我	19	18,19	Elaboration
+zhiwomendanchundexiaomeihao_10	20299	zhiwomendanchundexiaomeihao_10	A	她更难过	20	19,20	Result
+zhiwomendanchundexiaomeihao_10	20300	zhiwomendanchundexiaomeihao_10	B	想那么多一点都不像你了	21	20,21	Commentary
+zhiwomennuannuandexiaoshiguang_12	20686	zhiwomennuannuandexiaoshiguang_12	A	对啊	1	0,1	<root>
+zhiwomennuannuandexiaoshiguang_12	20687	zhiwomennuannuandexiaoshiguang_12	A	双十一	2	1,2	Elaboration
+zhiwomennuannuandexiaoshiguang_12	20688	zhiwomennuannuandexiaoshiguang_12	A	我都忙忘了	3	2,3	Elaboration
+zhiwomennuannuandexiaoshiguang_12	20689	zhiwomennuannuandexiaoshiguang_12	B	不是吧！这你都能忘？	4	3,4	Clarification Q
+zhiwomennuannuandexiaoshiguang_12	20690	zhiwomennuannuandexiaoshiguang_12	B	还等什么，购物车走起啊！	5	4,5	Result
+zhiwomennuannuandexiaoshiguang_12	20691	zhiwomennuannuandexiaoshiguang_12	A	买那么多东西干吗？	6	5,6	Commentary
+zhiwomennuannuandexiaoshiguang_12	20692	zhiwomennuannuandexiaoshiguang_12	A	到时候毕业搬走还麻烦	7	6,7	Explanation
+zhiwomennuannuandexiaoshiguang_12	20693	zhiwomennuannuandexiaoshiguang_12	A	我刚刚是想起，未末的生日不就是这两天了吗？	8	7,8	Alternation
+zhiwomennuannuandexiaoshiguang_12	20694	zhiwomennuannuandexiaoshiguang_12	B	你不说我差点忘了	9	8,9	Answer / Question answer pair
+zhiwomennuannuandexiaoshiguang_12	20695	zhiwomennuannuandexiaoshiguang_12	B	我还来得及，给她挑个礼物	10	9,10	Continuation
+zhiwomennuannuandexiaoshiguang_12	20696	zhiwomennuannuandexiaoshiguang_12	A	那我也给她挑一个	11	10,11	Parallel
+zhiwomennuannuandexiaoshiguang_18	20838	zhiwomennuannuandexiaoshiguang_18	A	那你踢我啊！	1	0,1	<root>
+zhiwomennuannuandexiaoshiguang_18	20839	zhiwomennuannuandexiaoshiguang_18	B	不敢	2	1,2	Commentary
+zhiwomennuannuandexiaoshiguang_18	20840	zhiwomennuannuandexiaoshiguang_18	A	有什么不敢的？	3	2,3	Clarification Q
+zhiwomennuannuandexiaoshiguang_18	20841	zhiwomennuannuandexiaoshiguang_18	A	你都敢让别人给你打领带了	4	3,4	Background
+zhiwomennuannuandexiaoshiguang_18	20842	zhiwomennuannuandexiaoshiguang_18	B	她偷袭	5	4,5	Explanation
+zhiwomennuannuandexiaoshiguang_18	20843	zhiwomennuannuandexiaoshiguang_18	B	我是无辜的	6	5,6	Commentary
+zhiwomennuannuandexiaoshiguang_18	20844	zhiwomennuannuandexiaoshiguang_18	A	是吗	7	6,7	Clarification Q
+zhiwomennuannuandexiaoshiguang_18	20845	zhiwomennuannuandexiaoshiguang_18	A	我看你挺享受的	8	7,8	Commentary
+zhiwomennuannuandexiaoshiguang_18	20846	zhiwomennuannuandexiaoshiguang_18	A	看！	9	8,9	Continuation
+zhiwomennuannuandexiaoshiguang_18	20847	zhiwomennuannuandexiaoshiguang_18	A	被我戳中心事无话可说了吧！	10	9,10	Elaboration
+zhiwomennuannuandexiaoshiguang_18	20848	zhiwomennuannuandexiaoshiguang_18	B	你胡说八道！	11	10,11	Commentary
+zhiwomennuannuandexiaoshiguang_18	20849	zhiwomennuannuandexiaoshiguang_18	A	胡说八道不要跟着我	12	11,12	Commentary
+zhiwomennuannuandexiaoshiguang_18	20850	zhiwomennuannuandexiaoshiguang_18	A	我都说了不要跟着我	13	12,13	Elaboration
+zhiwomennuannuandexiaoshiguang_18	20851	zhiwomennuannuandexiaoshiguang_18	B	你能不能讲点理？	14	13,14	Q-elab / Follow-up question
+zhiwomennuannuandexiaoshiguang_18	20852	zhiwomennuannuandexiaoshiguang_18	A	好！	15	14,15	Acknowledgement
+zhiwomennuannuandexiaoshiguang_18	20853	zhiwomennuannuandexiaoshiguang_18	A	我不讲理	16	15,16	Commentary
+zhiwomennuannuandexiaoshiguang_18	20854	zhiwomennuannuandexiaoshiguang_18	A	我不跟你说了，我要回宿舍	17	16,17	Alternation
+zhiwomennuannuandexiaoshiguang_18	20855	zhiwomennuannuandexiaoshiguang_18	A	我再也不回你那个破家啦！	18	17,18	Elaboration
+zuimeideshiguang_9	21420	zuimeideshiguang_9	A	篮球一号，不是克星的对手吗？	1	0,1	<root>
+zuimeideshiguang_9	21421	zuimeideshiguang_9	A	我很好奇，他对这件事情的反应	2	1,2	Continuation
+zuimeideshiguang_9	21422	zuimeideshiguang_9	B	他呀	3	2,3	Elaboration
+zuimeideshiguang_9	21423	zuimeideshiguang_9	B	他帮我找到了，证人的资料	4	3,4	Continuation
+zuimeideshiguang_9	21424	zuimeideshiguang_9	B	经过这件事情之后	5	4,5	Elaboration
+zuimeideshiguang_9	21425	zuimeideshiguang_9	B	他在我心目中的形象，就更加的高大了	6	5,6	Result
+zuimeideshiguang_9	21426	zuimeideshiguang_9	B	我果真没有爱错人	7	6,7	Commentary
+zuimeideshiguang_9	21427	zuimeideshiguang_9	A	很有正义感嘛	8	7,8	Commentary
+zuimeideshiguang_9	21428	zuimeideshiguang_9	A	心地可真不错	9	8,9	Parallel
+zuimeideshiguang_9	21429	zuimeideshiguang_9	A	很可爱嘛	10	9,10	Parallel
+zuimeideshiguang_9	21430	zuimeideshiguang_9	A	要是我	11	10,11	Elaboration
+zuimeideshiguang_9	21431	zuimeideshiguang_9	A	我也会爱上他的	12	11,12	Conditional
+zuimeideshiguang_9	21432	zuimeideshiguang_9	B	你想都别想，他是我的	13	12,13	Commentary
+zuimeideshiguang_9	21433	zuimeideshiguang_9	B	可是他帮我找到了证人	14	13,14	Alternation
+zuimeideshiguang_9	21434	zuimeideshiguang_9	B	这个人现在却不肯帮忙	15	14,15	Contrast
+zuimeideshiguang_9	21435	zuimeideshiguang_9	B	整件事情又陷入了優局	16	15,16	Result
