@@ -12,7 +12,7 @@ Transformers >= 4.18.0
 ## Data Preparation
 You can directly load the text data from the `dataset` folder and download the image and audio features from [all_features.pkl](https://pan.quark.cn/s/652af8a14776).
 
-If the link is broken or you need the original video data, please contact iainlp.suda@gmail.com.
+If the link is broken or you need the original video data, please contact gongchen18@suda.edu.cn.
 
 ## Training
 ```bash
