@@ -47,10 +47,23 @@ python main.py \
 
 ## Citation
 If you find this repo helpful, please cite the following paper: 
-```@inproceedings{gong2024moddp,
-  title={MODDP: A Multi-modal Open-domain Chinese Dataset for Dialogue Discourse Parsing},
-  author={Gong, Chen and Kong, Dexin and Zhao, Suxian and Li, Xingyu and Fu, Guohong},
-  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
-  year={2024}
+```@inproceedings{gong-etal-2024-moddp,
+    title = "{MODDP}: A Multi-modal Open-domain {C}hinese Dataset for Dialogue Discourse Parsing",
+    author = "Gong, Chen  and
+      Kong, DeXin  and
+      Zhao, Suxian  and
+      Li, Xingyu  and
+      Fu, Guohong",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.628",
+    doi = "10.18653/v1/2024.findings-acl.628",
+    pages = "10561--10573",
 }
 ```
